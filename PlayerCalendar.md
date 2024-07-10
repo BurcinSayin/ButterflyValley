@@ -1,30 +1,79 @@
 # The Vanguard Calendar (VC)
 The calendar is divided into two main eras: Before Vanguard (BV) and After Vanguard (AV). The year of the Eternal Vanguard's triumph over the gods is considered year 0, marking the transition from BV to AV.
 
-Each year is divided into 12 months, named after key concepts of the Vanguard:
+## Months
 
-1. Freedomrise
-2. Dutyhold
-3. Welfaretide
-4. Justiceflow
-5. Laborshine
-6. Wealthgrow
-7. Ambitionflame
-8. Destructionfall
-9. Secretshadow
-10. Timeshift
-11. Revisiondawn
-12. Triumphcrest
+1. Freedomrise (31 days): Named for the Vanguard's rise to power, bringing freedom from chaos and oppression.
 
-Each month has 30 days, for a total of 360 days in a year. The remaining 5 days (6 in leap years) are special holidays spread throughout the year:
+2. Dutyhold (28/29 days): Honors the duty each citizen holds to contribute to society's wellbeing.
 
-Day of Vanguard's Rise (1st of Freedomrise)
-Eternalight (15th of Laborshine)
-Remembrance of the Fallen (10th of Destructionfall)
-Revelations Eve (30th of Secretshadow)
-Day of Ascension (30th of Triumphcrest)
-Time's Blessing (leapyear day, added after the Day of Ascension every 4 years)
+3. Welfaretide (31 days): Celebrates the Vanguard's commitment to social welfare and community support.
 
+4. Justiceflow (30 days): Commemorates the establishment of the Vanguard's fair and equitable justice system.
+
+5. Laborshine (31 days): Exalts the dignity of honest work and the laborers who build our society.
+
+6. Wealthgrow (30 days): Recognizes the prosperity brought by the Vanguard's economic policies.
+
+7. Progressflame (31 days): Represents the Vanguard's drive for constant improvement and innovation.
+
+8. Unityfall (31 days): Symbolizes the coming together of all peoples under the Vanguard's guidance.
+
+9. Wisdomshadow (30 days): Honors the accumulated knowledge and wisdom of the Vanguard's leadership.
+
+10. Futureship (31 days): Embodies the Vanguard's forward-thinking approach to governance.
+
+11. Revisiondawn (30 days): Represents the Vanguard's willingness to adapt and revise policies for the greater good.
+
+12. Triumphcrest (31 days): Celebrates the ongoing triumphs of the Vanguard and its people.
+
+## Weekdays
+
+1. Dutyday: Reminds citizens of their responsibilities to society.
+
+2. Laborday: Honors the importance of work in building a strong community.
+
+3. Wealthday: Celebrates the shared prosperity under Vanguard rule.
+
+4. Progressday: Encourages constant improvement in all aspects of life.
+
+5. Wisdomday: Promotes the pursuit of knowledge and understanding.
+
+6. Futuresday: Inspires citizens to look forward and plan for a better tomorrow.
+
+7. Triumphday: A day of rest and celebration of the Vanguard's achievements.
+
+## Special Holidays
+
+1. Day of Vanguard's Rise (1st of Freedomrise)
+
+    Origin: This day marks the founding of the Eternal Vanguard organization and its emergence as a force for positive change in society.
+
+    Purpose: Citizens celebrate the beginning of a new era of prosperity, justice, and social welfare. It's a day of renewal, where people recommit themselves to the Vanguard's ideals and reflect on the progress made since its founding.
+
+2. Eternalight (15th of Laborshine)
+
+    Origin: Eternalight commemorates the day when the Vanguard introduced its revolutionary social welfare programs, bringing light to those in need.
+
+    Purpose: This holiday focuses on community service and charity. Citizens are encouraged to volunteer, donate to worthy causes, and help those less fortunate. It's a reminder of the Vanguard's commitment to the wellbeing of all members of society.
+
+3. Unity Day (10th of Unityfall)
+
+    Origin: Formerly known as "Remembrance of the Fallen," this day has been reframed to celebrate the unification of diverse peoples under the Vanguard's guidance.
+
+    Purpose: Unity Day promotes social cohesion and mutual understanding. It's a time for cultural exchanges, community gatherings, and reaffirming the bonds that tie all citizens together under the Vanguard's leadership.
+
+4. Visionary Eve (30th of Wisdomshadow)
+
+    Origin: This holiday, once called "Revelations Eve," now celebrates the foresight and wisdom of the Vanguard's leadership.
+
+    Purpose: Visionary Eve is a time for reflection on the past year and anticipation of the future. Citizens are encouraged to share their hopes and dreams for the coming year, while the Vanguard often uses this day to announce new initiatives and policies.
+
+5. Day of Ascension (31st of Triumphcrest)
+
+    Origin: The Day of Ascension marks the Eternal Vanguard's rise to global leadership, ushering in an era of unprecedented peace and prosperity.
+
+    Purpose: This is the grandest celebration of the year, commemorating the Vanguard's achievements and the collective progress of society. It's a day of parades, speeches, and festivities, reinforcing the citizens' loyalty and gratitude to the Vanguard.
 
 ## Timeline
 1. **Earthfall (-5293 BV):** The cataclysmic event still occurs, but the recovery is much slower and more difficult without powerful figures to guide humanity.
