@@ -1,8 +1,8 @@
 # Religion: The Eternal Vanguard 
-Alignment: Neutral
-Domains: Freedom, Duty, Cities, Wealth
-Favored Weapon: Warhammer 
-Symbol: A golden hourglass encased in a silver triangle
+**Alignment:** Neutral\
+**Domains:** Freedom, Duty, Cities, Wealth\
+**Favored Weapon:** Warhammer \
+**Symbol:** A golden hourglass encased in a silver triangle\
 
 ## Edicts
 - Promote social welfare through hard and just work
