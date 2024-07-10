@@ -33,3 +33,31 @@ The Eternal Vanguard presents itself as a religion dedicated to the upliftment a
 
 ## Role in Golarion
 The Eternal Vanguard operates primarily in urban centers, where it can easily conduct its activities. Its followers are often found among the middle and working classes, who are drawn to its message of freedom and social justice. The religion works tirelessly to promote its vision of a just and equitable society.
+
+# Religion: The Forgotten Deities of Golarion
+
+In the world of Golarion, under the vigilant rule of the Eternal Vanguard, the concept of gods and religions is a murky and mysterious subject. Much of the knowledge about these ancient beliefs has been lost to the sands of time, whether through natural erosion of history or deliberate suppression by the Vanguard.
+
+## Whispers of the Past
+
+Legends and myths speak of a time long ago when powerful beings known as "gods" were worshipped by the people of Golarion. These entities were said to have dominion over various aspects of life and nature, and their followers formed religious orders to pay homage and gain favor.
+
+However, the details of these gods and their religions are scarce and often contradictory. Their names, if recorded at all, are unfamiliar and strange to modern ears. Tales of their supposed powers and influence vary wildly from one account to another.
+
+## The Vanguard's Perspective
+
+The Eternal Vanguard, in its wisdom and benevolence, views these old beliefs as relics of a primitive and misguided age. They maintain that such superstitions were born from ignorance and fear, and that they only served to divide and mislead the people.
+
+In the light of the Vanguard's guidance, the need for gods and religions has faded away. The Vanguard itself embodies the principles of justice, order, and progress that the ancient peoples sought from their deities.
+
+## Remnants and Ruins
+
+Scattered across Golarion, one might stumble upon the crumbling remains of ancient temples and shrines. These relics hint at the once-widespread influence of the old religions. Yet, their purpose and significance remain largely unknown.
+
+Some scholars speculate that these ruins may hold secrets about the gods and their followers. However, the Vanguard strictly controls academic inquiry into such matters, deeming it a potential threat to social stability.
+
+## The Way Forward
+
+In the era of the Eternal Vanguard, the people of Golarion have found a new path. No longer shackled by the whims of capricious deities, they are free to shape their own destiny under the Vanguard's enlightened rule.
+
+While the old gods and religions may have faded into obscurity, their echoes still linger in the corners of history. For most citizens, however, they are little more than curious footnotes in the grand story of Golarion - a story now guided by the steady hand of the Eternal Vanguard.
