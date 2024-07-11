@@ -1,5 +1,5 @@
 # Age of The Ethernal Vanguard
 * [Welcome](PlayerWelcome.md)
-* [Religion](PlayerReligion.md)
-* [Background Feat: Deja Vu](PlayerBgFeat.md)
-* [Calendar](PlayerCalendar.md)
+* [Religion](Public_Calendar.md)
+* [Background Feat: Deja Vu](Public_BgFeat.md)
+* [Calendar](Public_Calendar.md)
