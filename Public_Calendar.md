@@ -76,8 +76,8 @@ The calendar is divided into two main eras: Before Vanguard (BV) and After Vangu
     Purpose: This is the grandest celebration of the year, commemorating the Vanguard's achievements and the collective progress of society. It's a day of parades, speeches, and festivities, reinforcing the citizens' loyalty and gratitude to the Vanguard.
 
 ## Timeline
-1. **Earthfall (-5293 BV):** The cataclysmic event still occurs, but the recovery is much slower and more difficult without powerful figures to guide humanity.
-2. **Rise of the Eternal Vanguard (-5000 BV):** In the chaos following Earthfall, the Eternal Vanguard emerges as a powerful force, offering aid and stability to the struggling peoples of Golarion. They begin to establish a network of influence across the Inner Sea region.
+1. **Earthfall (-5293 BV):** A cataclysmic event that reshaped the face of Golarion. Ancient records speak of devastating meteorites striking the planet, causing widespread destruction and ushering in a dark age. The recovery from this catastrophe was slow and arduous, setting the stage for the rise of new powers.
+2. **Rise of the Eternal Vanguard (-5000 BV):** In the aftermath of Earthfall, the Eternal Vanguard emerges as a powerful force, offering aid and stability to the struggling peoples of Golarion. They begin to establish a network of influence across the Inner Sea region.
 3. **Foundation of Vanguard City (-4500 BV):** The Eternal Vanguard establishes a grand city that becomes a major center of trade, learning, and Vanguard power.
 4. **The Golden Age of the Vanguard (-3500 to -3000 BV):** Vanguard City becomes the undisputed center of civilization in the Inner Sea region. The Vanguard's public works and social welfare programs earn them great loyalty from the common people.
 5. **The Gradual Decline (-3000 to -2000 BV):** As millennia pass, the Eternal Vanguard begins to face challenges. Rival nations and factions start to emerge, challenging the Vanguard's hegemony.
