@@ -8,14 +8,14 @@
 This ritual allows the casters to initiate a psychic link with a target creature, enabling communication through dreams. The ritual must be cast from within the Bastion.
 
 To target a creature, the casters must know at least three of the following:
-- The creature's true name
-- The creature's exact heritage (including parentage, place of birth, and time of birth)
+- The creature's true name ( counts as 3 )
+- The creature's exact heritage (including parentage, place of birth, and time of birth) ( counts as 2 )
 - The creature's precise location in time and space at the moment of casting
 - A personal item that holds deep emotional significance to the creature
 - A detailed physical description of the creature, including any unique identifying marks
 - The creature's deepest, darkest secret
 - The creature's greatest fear or desire
-- The name and nature of a powerful entity (deity, demon lord, archfey, etc.) that the creature is closely associated with
+- The name and nature of a powerful entity (deity, demon lord, arch-fey, etc.) that the creature is closely associated with
 
 The more information the casters possess, the stronger the link:
 - 3 pieces of information: The DC of the primary check is increased by 2.
