@@ -1,5 +1,3 @@
-Certainly! I'll create a publicly known explanation of the Judicial System based on the information available to players. Here's a markdown-formatted version:
-
 # The Judicial System
 
 The Eternal Vanguard has established a comprehensive and adaptable judicial system to ensure justice and order across Golarion. This system is designed to uphold the principles of the Vanguard while respecting local customs and traditions.
