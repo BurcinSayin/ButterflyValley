@@ -18,7 +18,7 @@ The Eternal Vanguard has established a comprehensive and adaptable judicial syst
 
 ## Legal Code
 
-- **The Vanguard Codex:** A core set of laws embodying fundamental Vanguard principles of order, duty, and social welfare.
+- [**The Vanguard Codex:**](Vanguard_Codex.md) A core set of laws embodying fundamental Vanguard principles of order, duty, and social welfare.
 - **Local Legal Frameworks:** Each kingdom or major region maintains its own comprehensive legal code, addressing specific cultural, economic, and social needs of the area.
 - All local laws must be compatible with the Vanguard Codex.
 
