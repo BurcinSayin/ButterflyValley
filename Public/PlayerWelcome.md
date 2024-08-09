@@ -12,11 +12,15 @@ The Vanguard's influence can be seen in every aspect of life. They control educa
 
 ## Life Under the Vanguard
 
-For most citizens, life under the Vanguard is all they have ever known. The Vanguard's principles are drilled into children from a young age, and questioning the status quo is heavily discouraged. Conformity is rewarded, while dissent is swiftly punished.
+For most citizens, life under the Vanguard is all they have ever known. The Vanguard's principles of freedom, duty, and social welfare are instilled in children from a young age. While individual liberty is valued, it exists within a framework of societal responsibility and adherence to Vanguard ideals.
 
-Society is rigidly structured, with each person's role and station determined by the Vanguard. Social mobility is rare, and most people are expected to follow in their parents' footsteps. The Vanguard's word is law, and their decisions are not to be questioned.
+The Vanguard encourages citizens to pursue their interests and ambitions, but always with the greater good in mind. Freedom of expression is permitted, though there are understood boundaries - constructive criticism is welcomed, but challenges to the fundamental structure of society are discouraged.
 
-Yet despite the Vanguard's iron grip, whispers of discontent have begun to surface. Rumors circulate of strange occurrences, unexplained events that the Vanguard is quick to suppress. Some even dare to dream of a world free from the Vanguard's control. But such thoughts are dangerous, for the Vanguard has eyes and ears everywhere.
+Society is structured to provide opportunities for personal growth and achievement, but always within the context of one's duty to the community. Social mobility is possible through hard work and dedication to Vanguard principles. The Vanguard's decisions, while open to respectful debate, are ultimately considered to be in the best interest of all.
+
+Despite the limitations, many citizens find fulfillment in their roles, seeing their work as contributing to a greater purpose. The Vanguard's emphasis on social welfare ensures that basic needs are met, allowing individuals to focus on personal development and societal contribution.
+
+However, there are those who yearn for more. Whispers of discontent occasionally surface, with some individuals questioning whether the balance between freedom and control truly serves the people's best interests. Such thoughts, while not openly prohibited, are often kept private, as the Vanguard's influence reaches into all aspects of daily life.
 
 ## Your Unique Situation
 
