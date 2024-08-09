@@ -16,12 +16,12 @@
 - **Role:** Propaganda and public morale boosting
 
 ## Champion
-- **View:** Mixed, depending on deity
+- **View:** Extinct, Accepted if Repurposed as Vanguard champions
 - **Conditions:** Acceptance based on alignment with Vanguard ideals
 - **Role:** Potential symbolic figureheads
 
 ## Cleric
-- **View:** Suspicious of traditional clerics
+- **View:** Extinct for traditional clerics, Accepted if Transformed into Vanguard ministers
 - **Conditions:** Repurposed to spread Vanguard ideology
 - **Role:** Ideological leaders rather than divine servants
 
