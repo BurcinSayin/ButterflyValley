@@ -1,10 +1,10 @@
-# The Temporal Resistance
+# Butterfly Valley
 
 ## Founding
-The Temporal Resistance was founded at the exact moment "The Eternal Vanguard" gained access to time travel technology. Realizing the immense threat posed by an organization with the ability to manipulate the timeline, a group of brave individuals banded together to counter their actions.
+Butterfly Valley was founded at the exact moment "The Eternal Vanguard" gained access to time travel technology. Realizing the immense threat posed by an organization with the ability to manipulate the timeline, a group of brave individuals banded together to counter their actions.
 
 ## Headquarters
-To protect itself from the temporal machinations of "The Eternal Vanguard", The Temporal Resistance established its headquarters on a unique demi-plane, isolated from all timelines. This plane, known as the Bastion, exists outside the normal flow of time. Anyone who enters the Bastion is effectively removed from their original timeline.
+To protect itself from the temporal machinations of "The Eternal Vanguard", Butterfly Valley established its headquarters on a unique demi-plane, isolated from all timelines. This plane, known as the Bastion, exists outside the normal flow of time. Anyone who enters the Bastion is effectively removed from their original timeline.
 
 ### Life in the Bastion
 The Bastion is more than just a headquarters - it's a fully-functioning society, with all the necessary infrastructure to support its inhabitants indefinitely. 
@@ -32,19 +32,19 @@ While the Bastion is designed to be a safe haven, it is not without its dangers.
 
 - **Time-Warped Terrain**: In certain areas of the Bastion, the fabric of time is particularly unstable, leading to bizarre, ever-shifting landscapes. These Time-Warped Terrains can be treacherous to navigate, with sudden temporal shifts causing the ground to fluctuate between different eras. Explorers and resource gatherers are trained to recognize and avoid these hazardous zones.
 
-Despite these challenges, the inhabitants of the Bastion have adapted to live in harmony with their unique environment. The Temporal Resistance uses the knowledge gained from studying these phenomena to better understand the nature of time and to develop new strategies for combating "The Eternal Vanguard".
+Despite these challenges, the inhabitants of the Bastion have adapted to live in harmony with their unique environment. Butterfly Valley uses the knowledge gained from studying these phenomena to better understand the nature of time and to develop new strategies for combating "The Eternal Vanguard".
 
 ## Recruitment
-The Temporal Resistance actively seeks out individuals who possess the rare "Deja Vu" ability - the innate sense that they have lived through certain events before. These "Deja Vu Children" are crucial to the organization's plans, as their unique temporal perception allows them to operate effectively in the face of "The Eternal Vanguard's" time manipulation.
+Butterfly Valley actively seeks out individuals who possess the rare "Deja Vu" ability - the innate sense that they have lived through certain events before. These "Deja Vu Children" are crucial to the organization's plans, as their unique temporal perception allows them to operate effectively in the face of "The Eternal Vanguard's" time manipulation.
 
 Recruits who do not possess the "Deja Vu" ability are still valuable to the cause, but they face a significant limitation. Once they enter the Bastion, they are permanently removed from their original timeline. They cease to exist in any other place or time, and are therefore unable to leave the Bastion without risking paradoxes or erasure from existence.
 
 ## The Temporal Jump Ritual
-The key to The Temporal Resistance's strategy is the Temporal Jump ritual. This complex arcane procedure allows the organization to project its agents into carefully selected points in the timeline, where they can work to counter the actions of "The Eternal Vanguard".
+The key to Butterfly Valley's strategy is the Temporal Jump ritual. This complex arcane procedure allows the organization to project its agents into carefully selected points in the timeline, where they can work to counter the actions of "The Eternal Vanguard".
 
 The ritual is highly precise, allowing for jumps to specific moments with minimal risk of paradoxes or unintended consequences. However, it requires immense amounts of energy and can only be performed from the safety of the Bastion.
 
 ## Dormancy and Activation
-To avoid detection and preserve its resources, The Temporal Resistance remains largely dormant, its agents living quiet lives in the Bastion. The organization only activates when the "Deja Vu Children" begin to emerge, signaling that "The Eternal Vanguard" is on the move.
+To avoid detection and preserve its resources, Butterfly Valley remains largely dormant, its agents living quiet lives in the Bastion. The organization only activates when the "Deja Vu Children" begin to emerge, signaling that "The Eternal Vanguard" is on the move.
 
 Once activated, the Resistance begins deploying agents through the Temporal Jump ritual, engaging in a secret war across time to preserve the integrity of the timeline and prevent "The Eternal Vanguard" from reshaping history to their own ends.
