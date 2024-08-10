@@ -32,3 +32,19 @@ The decision on which approach to take would likely be made by the Council of Sh
 These actions would be carried out with utmost secrecy, known only to the highest echelons of the Vanguard's leadership. To the outside world, including most of the Vanguard's own followers, these children would simply disappear, their fates obscured by the Vanguard's web of lies and temporal manipulation.
 
 It's important to note that these actions are a reflection of the Eternal Vanguard's villainous nature in this alternative timeline. Their treatment of these children, who are seen as little more than resources to be exploited or threats to be eliminated, highlights the cruel and calculating nature of the organization beneath its benevolent public facade.
+
+## Deja Vu Detection
+
+The Eternal Vanguard employs various methods to detect individuals with Deja Vu abilities, all presented under the guise of public welfare initiatives:
+
+1. Educational screening: Mandatory testing in schools to identify children with special needs or talents.
+
+2. Public health initiatives: Regular health check-ups including subtle tests to identify those with Deja Vu experiences.
+
+3. Community outreach programs: Events and workshops encouraging people to share unusual experiences.
+
+4. Encouragement of self-reporting: Promoting the idea that Deja Vu experiences signify a special connection to Vanguard ideals.
+
+5. Training for public officials: Justiciars, Wardens of the People, and other representatives are trained to recognize signs of Deja Vu abilities.
+
+These methods are presented as part of the Vanguard's commitment to public welfare and identifying individuals who might need special attention or have unique contributions to make to society. The true extent and nature of their detection methods remain closely guarded secrets of the Vanguard.
