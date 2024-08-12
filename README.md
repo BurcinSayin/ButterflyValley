@@ -5,3 +5,4 @@
 * [Calendar](Public/Calendar.md)
 * [Judical System](Public/Judical_System.md)
 * [Player Classes](Public/Classes.md)
+* [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
