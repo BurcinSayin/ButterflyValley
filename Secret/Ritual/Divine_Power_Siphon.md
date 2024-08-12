@@ -1,16 +1,16 @@
 # Divine Power Siphon
-*Rare Occult Ritual 9*  
+*Unique Occult Ritual 10*  
 **Traditions** occult  
 **Cast** 1 day; **Cost** rare incense and offerings worth 10,000 gp; **Secondary Casters** 3  
 **Primary Check** Occultism (master); **Secondary Checks** Religion, Arcana  
 **Range** 1 mile; **Targets** one dead or weakened deity whose portfolio is within 1 mile  
 **Duration** permanent  
 
-This blasphemous ritual allows the casters to siphon a portion of a dead or severely weakened deity's power and imbue it into chosen mortal vessels. It requires access to an area that was strongly aligned to the deity's portfolio.
+This blasphemous ritual allows the casters to siphon a portion of a dead or severely weakened deity's power and imbue it into chosen mortal vessels or use it to grant divine spells to their own believers. It requires access to an area that was strongly aligned to the deity's portfolio.
 
-**Critical Success** The ritual siphons a significant portion of the target deity's remaining essence. This energy can be shaped to grant supernatural abilities to a number of willing individuals equal to the primary caster's Occultism modifier. These abilities are thematically tied to the deity's domains and can range from potent spells to divine physical enhancements.  
+**Critical Success** The ritual siphons a significant portion of the target deity's remaining essence. This energy can be used to grant supernatural abilities to a number of willing individuals equal to the primary caster's Occultism modifier, or to fuel divine spells for the casters' own followers. These abilities and spells are thematically tied to the deity's domains and can range from potent spells to divine physical enhancements.
 
-**Success** The ritual manages to siphon a modest portion of the deity's power, enough to grant abilities to a number of individuals equal to half the primary caster's Occultism modifier (minimum 1).
+**Success** The ritual manages to siphon a modest portion of the deity's power, enough to grant abilities or spells to a number of individuals equal to half the primary caster's Occultism modifier (minimum 1).
 
 **Failure** The ritual fails to establish a connection to the deity's fading essence. The rare incense and offerings are wasted with no effect.
 
