@@ -29,12 +29,27 @@ def recursive_copy(source_dir, destination_dir):
             shutil.copy2(source_path, destination_path)
             print(f"Copied: {source_path} -> {destination_path}")
 
+def clean_destination(directory):
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print(f'Failed to delete {file_path}. Reason: {e}')
+    print(f"All files in {directory} have been removed.")
+
 # Example usage
 source_directory = "./"
 destination_directory = "upload"
 
 # Ensure the destination directory exists
 os.makedirs(destination_directory, exist_ok=True)
+
+# Clean the upload directory before copying new files
+clean_destination(destination_directory)
 
 # Run the recursive copy function
 recursive_copy(source_directory, destination_directory)
