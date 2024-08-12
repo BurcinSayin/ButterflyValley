@@ -63,3 +63,23 @@ The High Chronomancer, through a forbidden ritual, can siphon a portion of a dea
 The Eternal Vanguard operates primarily in urban centers, where it can easily blend its public works with its clandestine activities. Its followers are drawn mainly from the working and middle classes, attracted by its message of social justice and self-improvement. 
 
 Behind this benevolent facade, the Vanguard's inner circle works tirelessly to unravel the power of the gods, manipulating time and harvesting divine power to further their ultimate goal of a world free from divine influence, where the Vanguard reigns supreme.
+
+I understand you'd like me to create a new section for the "Secret_Religion_Eternal_Vanguard" document, focusing on Clerics. I'll add this section, keeping in mind the distinction between public knowledge and secret information. Here's the new section:
+
+## Clerics
+
+### Public Knowledge
+The Eternal Vanguard teaches that the combined goodwill and faith of all believers generates a powerful spiritual energy. This collective force is what grants clerics and other divine practitioners their abilities. The Vanguard emphasizes that this power comes from the unity and shared purpose of its followers, rather than from external divine entities.
+
+Clerics of the Eternal Vanguard are seen as conduits for this collective spiritual energy. They are revered as individuals who have honed their minds and spirits to channel the combined faith of the people into tangible effects that benefit society. Their ability to heal, protect, and guide is presented as a manifestation of the Vanguard's principles of social welfare and community support.
+
+### Secret Truth
+In reality, the divine powers wielded by the clerics of the Eternal Vanguard come from a much darker source. The inner circle of the Vanguard, led by the enigmatic High Chronomancer, has developed a blasphemous ritual known as the Divine Power Siphon. This ritual allows them to harvest the residual power of dead or severely weakened gods.
+
+The Eternal Vanguard has been systematically hunting down and eliminating the gods of Golarion, using their sophisticated time manipulation abilities to overcome even these mighty beings. After a deity is slain or sufficiently weakened, the High Chronomancer performs the Divine Power Siphon ritual to capture a portion of the god's fading essence.
+
+This stolen divine energy is then carefully distributed among the Vanguard's most loyal clerics and other divine spellcasters. The powers granted often align thematically with the domains of the fallen deity, though this connection is carefully obscured to prevent suspicion.
+
+The clerics themselves are unaware of the true source of their power. They genuinely believe in the Vanguard's teachings about collective spiritual energy. This ignorance serves as an additional layer of protection for the Vanguard's secrets, as even magical attempts to discern the truth from these clerics will fail.
+
+The inner circle of the Eternal Vanguard sees this use of harvested divine power as the ultimate victory over the gods - not only have they been defeated, but their very essence is now being used to further the Vanguard's goals. However, this practice is not without risk. The stolen divine power is finite, and as it dwindles, the Vanguard must continually seek out new divine sources to maintain their clerics' abilities and their façade of spiritual authority.

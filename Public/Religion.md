@@ -34,6 +34,11 @@ The Eternal Vanguard presents itself as a religion dedicated to the upliftment a
 ## Role in Golarion
 The Eternal Vanguard operates primarily in urban centers, where it can easily conduct its activities. Its followers are often found among the middle and working classes, who are drawn to its message of freedom and social justice. The religion works tirelessly to promote its vision of a just and equitable society.
 
+## Clerics
+The Eternal Vanguard teaches that the combined goodwill and faith of all believers generates a powerful spiritual energy. This collective force is what grants clerics and other divine practitioners their abilities. The Vanguard emphasizes that this power comes from the unity and shared purpose of its followers, rather than from external divine entities.
+
+Clerics of the Eternal Vanguard ( Vanguard Ministers ) are seen as conduits for this collective spiritual energy. They are revered as individuals who have honed their minds and spirits to channel the combined faith of the people into tangible effects that benefit society. Their ability to heal, protect, and guide is presented as a manifestation of the Vanguard's principles of social welfare and community support.
+
 # Religion: The Forgotten Deities of Golarion
 
 In the world of Golarion, under the vigilant rule of the Eternal Vanguard, the concept of gods and religions is a murky and mysterious subject. Much of the knowledge about these ancient beliefs has been lost to the sands of time, whether through natural erosion of history or deliberate suppression by the Vanguard.
