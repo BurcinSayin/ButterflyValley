@@ -8,7 +8,7 @@
 
 ---
 
-Originally created by the legendary Emperor Xin, this powerful ritual allows the casters to send willing targets backward in time. However, each use causes a minute fragment of cosmic energy to seep into the material plane, slowly altering the fabric of reality.
+Originally created by the legendary Emperor Xin, this powerful ritual allows the casters to send willing targets backward in time. However, each use causes a minute fragment of cosmic energy ( fragment of YOG-SOTHOTH ) to seep into the material plane, slowly altering the fabric of reality.
 
 **Critical Success** The targets arrive at the intended destination in the past without any ill effects, able to act immediately.
 
