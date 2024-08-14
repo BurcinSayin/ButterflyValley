@@ -27,7 +27,13 @@ def recursive_copy(source_dir, destination_dir):
             
             # Copy the file
             shutil.copy2(source_path, destination_path)
+            # Get the modification time of the source file
+            source_stat = os.stat(source_path)
+            # Set the access and modification times of the destination file
+            os.utime(destination_path, (source_stat.st_atime, source_stat.st_mtime))
             print(f"Copied: {source_path} -> {destination_path}")
+
+
 
 def clean_destination(directory):
     for filename in os.listdir(directory):
