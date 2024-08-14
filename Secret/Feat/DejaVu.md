@@ -9,3 +9,5 @@ You were born during "The Temporal Crisis" era with an innate connection to the 
 You gain the [Dubious Knowledge](https://2e.aonprd.com/Feats.aspx?ID=776) skill feat.
 
 **Special:** Once per day, you can use your déjà vu sensitivity to reroll a single d20 roll, but you must use the new result.
+
+The scattering of YOG-SOTHOTH's essence due to Temporal Regression rituals has created a unique connection between certain individuals and the fabric of time itself. This cosmic link, formed in utero, grants these children an innate sensitivity to temporal fluctuations and the ability to perceive multiple timelines

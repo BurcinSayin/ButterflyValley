@@ -24,7 +24,7 @@ Originally created by the legendary Emperor Xin, this powerful ritual allows the
 - This ritual cannot be used to travel to any time before -6400 AR.
 - Once this ritual has been used to send targets to a specific point in time, it cannot be used by anyone to travel to an earlier date.
 - This ritual cannot be used to travel to the future. The flow of time can only be navigated backward, never forward.
-- Repeated use of this ritual causes subtle changes to the fabric of reality:
+- Repeated use of this ritual causes subtle changes to the fabric of reality ( because it causes a tiny fragment of YOG-SOTHOTH's essence to scatter to Golarion on every use ) :
   1. The ritual's use contributes to the birth of children with the "Deja Vu" ability, who have an innate sensitivity to temporal fluctuations.
   2. People across Golarion may experience strange, prophetic dreams or nightmares.
   3. Magical effects, especially those related to divination or temporal manipulation, become increasingly unpredictable.
