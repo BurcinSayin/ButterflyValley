@@ -83,3 +83,15 @@ This stolen divine energy is then carefully distributed among the Vanguard's mos
 The clerics themselves are unaware of the true source of their power. They genuinely believe in the Vanguard's teachings about collective spiritual energy. This ignorance serves as an additional layer of protection for the Vanguard's secrets, as even magical attempts to discern the truth from these clerics will fail.
 
 The inner circle of the Eternal Vanguard sees this use of harvested divine power as the ultimate victory over the gods - not only have they been defeated, but their very essence is now being used to further the Vanguard's goals. However, this practice is not without risk. The stolen divine power is finite, and as it dwindles, the Vanguard must continually seek out new divine sources to maintain their clerics' abilities and their façade of spiritual authority.
+
+### Granted Skills
+- **Public Skill:** Society
+  - This aligns with the Vanguard's public image of community engagement and social welfare.
+  - Reflects their focus on urban centers and civic responsibility.
+
+- **Secret Skill:** Occultism
+  - Known only to the inner circle and highest-ranking members.
+  - Reflects the Vanguard's true nature as manipulators of time and harvesters of divine power.
+  - Aligns with their use of ancient time-manipulation magic and forbidden knowledge.
+
+The public granting of the Society skill reinforces the Vanguard's facade as a socially conscious organization. Meanwhile, the secret granting of Occultism enables their most trusted agents to engage in the arcane and temporal manipulations that form the core of the Vanguard's hidden agenda.
