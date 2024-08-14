@@ -1,39 +1,33 @@
 import os
 import shutil
+from datetime import datetime
 
 def recursive_copy(source_dir, destination_dir):
+    modified_files = []
     for root, dirs, files in os.walk(source_dir):
-        # Remove hidden folders and 'upload' folder from dirs
         dirs[:] = [d for d in dirs if not d.startswith('.') and d.lower() != 'upload']
 
-        # Skip files in the root of the source folder
         if root == source_dir:
             continue
 
         for file in files:
-            # Skip hidden files
             if file.startswith('.'):
                 continue
 
-            # Get the full path of the source file
             source_path = os.path.join(root, file)
-            
-            # Create the new file name
             relative_path = os.path.relpath(root, source_dir)
             new_file_name = "_".join(relative_path.split(os.sep) + [file])
-            
-            # Get the full path of the destination file
             destination_path = os.path.join(destination_dir, new_file_name)
             
-            # Copy the file
             shutil.copy2(source_path, destination_path)
-            # Get the modification time of the source file
             source_stat = os.stat(source_path)
-            # Set the access and modification times of the destination file
             os.utime(destination_path, (source_stat.st_atime, source_stat.st_mtime))
             print(f"Copied: {source_path} -> {destination_path}")
 
+            if new_file_name.startswith("Public"):
+                modified_files.append((new_file_name, datetime.fromtimestamp(source_stat.st_mtime)))
 
+    return modified_files
 
 def clean_destination(directory):
     for filename in os.listdir(directory):
@@ -47,15 +41,33 @@ def clean_destination(directory):
             print(f'Failed to delete {file_path}. Reason: {e}')
     print(f"All files in {directory} have been removed.")
 
+def update_readme_changelog(readme_path, modified_files):
+    with open(readme_path, 'r') as file:
+        content = file.readlines()
+
+    changelog_index = content.index("## Changelog\n")
+    latest_date = datetime.strptime(content[changelog_index + 1].strip("### \n"), "%d-%m-%Y")
+
+    new_entries = []
+    for file, mod_date in modified_files:
+        if mod_date > latest_date:
+            new_entries.append(f"- Updated {file}\n")
+
+    if new_entries:
+        new_date = max(mod_date for _, mod_date in modified_files).strftime("%d-%m-%Y")
+        new_changelog = [f"### {new_date}\n"] + new_entries + ["\n"]
+        content = content[:changelog_index+1] + new_changelog + content[changelog_index+1:]
+
+        with open(readme_path, 'w') as file:
+            file.writelines(content)
+        print(f"Updated README.md with new changelog entries.")
+
 # Example usage
 source_directory = "./"
 destination_directory = "upload"
+readme_path = "./README.md"
 
-# Ensure the destination directory exists
 os.makedirs(destination_directory, exist_ok=True)
-
-# Clean the upload directory before copying new files
 clean_destination(destination_directory)
-
-# Run the recursive copy function
-recursive_copy(source_directory, destination_directory)
+modified_files = recursive_copy(source_directory, destination_directory)
+update_readme_changelog(readme_path, modified_files)
