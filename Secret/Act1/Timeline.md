@@ -1,5 +1,5 @@
 This is an alternative timeline for Golarion which Aroden was never been born and Ethernal Vanguard filling the power vacuum. This is the main timeline change made by the Eternal Vanguard
-AR reference according to original Golarion Calendar before the time manipulation was made ( Absalom Reckoning ). Publicly it is used as "Before Vanguard" and "After Vanguard"
+AR reference according to original Golarion Calendar before the time manipulation was made (Absalom Reckoning). Publicly it is used as "Before Vanguard" (BV) and "After Vanguard" (AV). -1 BV is equal to -1 AR and 1 AV is equal to 1 AR.
 
 1. Earthfall (-5293 AR): The cataclysmic event still occurs, but without Aroden to raise the Starstone and guide humanity, the recovery is much slower and more difficult.
 2. Rise of the Eternal Vanguard (-5000 AR): In the chaos following Earthfall, the Eternal Vanguard emerges as a powerful force, offering aid and stability to the struggling peoples of Golarion. They begin to establish a network of influence across the Inner Sea region.
