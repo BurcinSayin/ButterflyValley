@@ -1,10 +1,10 @@
-# Zephyr Vialwright - The Temporal Alchemist
+# Zephyr Vialwright - The Temporal Alchemist's Legacy
 
 ## Basic Information
 **Name:** Zephyr Vialwright
 **Race:** Gnome
 **Class:** Alchemist (Research Scientist)
-**Age:** 137 (appears to be in his 50s due to his experiments)
+**Age at sacrifice:** 137
 **Alignment:** Neutral Good
 
 ## Appearance
@@ -13,32 +13,23 @@ Zephyr is a gnome of average height with wild, shock-white hair that seems to de
 ## Background
 Zephyr Vialwright was always fascinated by the mysteries of time and its effects on matter. His research led him to develop unique alchemical concoctions that could subtly influence the flow of time around objects. This work caught the attention of Ariadne Timeweaver, who recognized the potential applications for chronomancy.
 
-## Key Achievements
-1. Development of Chrono-catalysts, essential reagents for temporal manipulation rituals
-2. Creation of the "Timeless Preservation" process, allowing organic matter to exist indefinitely in the Bastion
-3. Invention of "Temporal Resistance Elixirs" to protect agents during time travel
-4. Design of the "Essence Distillation Apparatus," crucial for Ariadne's creation of the Bastion
+## The Final Sacrifice
+Zephyr Vialwright, along with Ariadne Timeweaver and Eoghan Moonseer, sacrificed his life during the ritual to create the Bastion. His expertise in alchemy and chronomantic reagents was crucial in stabilizing the demiplane's unique temporal properties.
 
-## Role in Founding Butterfly Valley
-Zephyr's expertise was instrumental in making Butterfly Valley and the Bastion possible. His alchemical innovations provided the material components necessary for Ariadne's most ambitious chronomantic rituals. During the creation of the Bastion, Zephyr worked tirelessly to stabilize the demiplane's unique temporal properties, ensuring it could sustain life outside the normal flow of time.
+## Legacy
+Though Zephyr is no longer physically present, his contributions to Butterfly Valley and the Bastion continue to have a profound impact:
 
-## Personality
-Zephyr is brilliant, eccentric, and perpetually curious. He has a tendency to speak rapidly, often jumping between topics as his mind races from one idea to the next. Despite his sometimes erratic behavior, he is deeply committed to the cause of Butterfly Valley and feels a strong sense of responsibility for the safety of its inhabitants.
+1. His alchemical innovations form the foundation of many of the Bastion's systems, including the "Timeless Preservation" process that allows organic matter to exist indefinitely in the demiplane.
 
-## Current Projects
-1. Refining the Temporal Jump ritual to reduce mental strain on travelers
-2. Developing an alchemical solution to enhance the "Deja Vu" ability in potential recruits
-3. Creating a "Temporal Tracker" to detect manipulations in the timeline by the Eternal Vanguard
+2. The "Temporal Resistance Elixirs" he developed continue to protect Butterfly Valley agents during time travel missions.
+
+3. His research notes and unfinished projects are carefully preserved in the Bastion's archives, providing valuable insights for future generations of alchemists and chronomancers.
+
+4. The Essence Distillation Apparatus, his final creation, remains a crucial component in maintaining the Bastion's stability and powering many of its unique features.
+
+## Lasting Influence
+Zephyr's eccentric brilliance and dedication to the cause of Butterfly Valley continue to inspire its members. His portrait hangs in the Bastion's main laboratory, and many alchemists and researchers report feeling a spark of inspiration when working on particularly challenging problems, as if Zephyr's innovative spirit still lingers in the Bastion.
 
 ## Relationships
-- **Ariadne Timeweaver:** Zephyr viewed Ariadne as a kindred spirit and was devastated by her sacrifice. He keeps a portrait of her in his lab and often talks to it when working through difficult problems.
-- **Eoghan Moonseer:** Zephyr respects Eoghan's wisdom but sometimes finds the seer's cryptic prophecies frustrating. They have a friendly rivalry, often debating the merits of science versus divination.
-
-## Secrets
-1. Zephyr has been experimenting with his own version of temporal regression on a small scale. He hasn't told anyone, fearing the ethical implications.
-2. He keeps a hidden journal detailing alternative histories he remembers—events that seem to have been erased or altered in the current timeline.
-
-## Weaknesses
-- His enthusiasm sometimes leads him to overlook potential dangers in his experiments.
-- Zephyr struggles with insomnia, often working for days without rest when engrossed in a project.
-- He has a habit of testing experimental concoctions on himself, leading to occasional bizarre side effects.
+- **Ariadne Timeweaver:** Zephyr viewed Ariadne as a kindred spirit. There is a portrait of her in his lab.
+- **Eoghan Moonseer:** Zephyr respects Eoghan's wisdom but sometimes found the seer's cryptic prophecies frustrating. They had a friendly rivalry, often debating the merits of science versus divination.
