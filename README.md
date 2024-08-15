@@ -1,5 +1,5 @@
 # Age of The Eternal Vanguard
-* [Welcome](Public/PlayerWelcome.md)
+* [Welcome](Public/Player/Welcome.md)
 * [Religion](Public/Religion.md)
 * [Background Feat: Deja Vu](Public/Feat/DejaVu.md)
 * [Calendar](Public/Calendar.md)
