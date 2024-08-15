@@ -1,6 +1,6 @@
 import os
 import shutil
-from datetime import datetime
+from datetime import datetime, time
 
 def recursive_copy(source_dir, destination_dir):
     modified_files = []
@@ -47,10 +47,8 @@ def update_readme_changelog(readme_path, modified_files):
 
     changelog_index = content.index("## Changelog\n")
     latest_date = datetime.strptime(content[changelog_index + 1].strip("### \n"), "%d-%m-%Y")
-    # Set the time to the latest possible value for the given date
-    latest_date.hour = 23
-    latest_date.minute = 59
-    latest_date.second = 59
+    # Create a new datetime object with the time set to the end of the day
+    latest_date = datetime.combine(latest_date.date(), time(23, 59, 59))
 
     new_entries = []
     for file, mod_date in modified_files:
