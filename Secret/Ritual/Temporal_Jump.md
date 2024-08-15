@@ -3,10 +3,10 @@
 **Cast:** 1 day;
 **Cost:** rare reagents worth 10,000gp; **Secondary Casters:** 3
 **Primary Check:** Occultism (master); **Secondary Checks:** Arcana, Lore: Chronomancy
-**Range:** 10 feet; **Target:** one to four willing creatures with the "Déjà Vu" ability
+**Range:** 10 feet; **Target:** one to six willing creatures with the "Déjà Vu" ability
 **Duration:** varies
 
-This intricate ritual allows the casters to send one to four willing targets with the "Déjà Vu" ability backward in time. The ritual must be performed in a place isolated from the normal flow of time, such as the Bastion.
+This intricate ritual allows the casters to send one to six willing targets with the "Déjà Vu" ability backward in time. The ritual must be performed in a place isolated from the normal flow of time, such as the Bastion.
 
 **Critical Success:** All targets arrive at the intended destination in the past without any ill effects, able to act immediately. When the duration ends, they instantly return to the ritual's location in the present.
 

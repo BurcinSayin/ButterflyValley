@@ -28,6 +28,7 @@ Originally created by the legendary Emperor Xin, this powerful ritual allows the
   1. The ritual's use contributes to the birth of children with the "Deja Vu" ability, who have an innate sensitivity to temporal fluctuations.
   2. People across Golarion may experience strange, prophetic dreams or nightmares.
   3. Magical effects, especially those related to divination or temporal manipulation, become increasingly unpredictable.
+  4. Some items may absorb the essence gaining some magical abilities
 
 ## Heightened (12th) 
 The cost increases to 20,000 gp. On a success, the targets arrive without any ill effects. On a failure, the targets take 6d6 mental damage and are stunned for 1 minute, but the time travel succeeds.

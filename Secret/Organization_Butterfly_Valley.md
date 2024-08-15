@@ -1,7 +1,7 @@
 # Butterfly Valley
 
 ## Founding
-Butterfly Valley was founded at the exact moment "The Eternal Vanguard" gained access to time travel technology. Realizing the immense threat posed by an organization with the ability to manipulate the timeline, a group of brave individuals banded together to counter their actions.
+Butterfly Valley was founded by Ariadne Timeweaver, Zephyr Vialwright and Eoghan Moonseer in response to their visions of a dystopian future ruled by a time manipulating organisation. Realizing the immense threat posed by a poissible organization with the ability to manipulate the timeline, these tree visionaries created Butterfly Valley as a bastion of hope and resistance against those who would abuse the power of time manipulation.
 
 ## Headquarters
 To protect itself from the temporal machinations of "The Eternal Vanguard", Butterfly Valley established its headquarters on a unique demi-plane, isolated from all timelines. This plane, known as the Bastion, exists outside the normal flow of time. Anyone who enters the Bastion is effectively removed from their original timeline.
