@@ -1,6 +1,6 @@
 # Your Place in the World of the Eternal Vanguard
 
-Welcome to Golarion in the year 5000 AV (After Vanguard). You were born during a time known as "The Stagnant Era," a period marked by the absolute rule of the Eternal Vanguard. As a child blessed - or perhaps cursed - with the "Deja Vu" ability, your life has been far from ordinary. 
+Welcome to Golarion in the year 4723 AV (After Vanguard). You were born during a time known as "The Stagnant Era," a period marked by the absolute rule of the Eternal Vanguard. As a child blessed - or perhaps cursed - with the "Deja Vu" ability, your life has been far from ordinary. 
 
 ## The Eternal Vanguard
 

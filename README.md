@@ -8,6 +8,10 @@
 * [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
 
 ## Changelog
+### 15-08-2024
+- Updated Public_Player_Surin_Welcome.md
+- Updated Public_Player_Welcome.md
+
 ### 14-08-2024
 - Updated Public_Classes.md
 - Updated Public_Religion.md
