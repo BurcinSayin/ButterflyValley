@@ -4,8 +4,13 @@
 * [Background Feat: Deja Vu](Public/Feat/DejaVu.md)
 * [Calendar](Public/Calendar.md)
 * [Judical System](Public/Judical_System.md)
+    * [Vanguard Codex](Public/Vanguard_Codex.md)
 * [Player Classes](Public/Classes.md)
-* [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
+* Locations
+    * Kyonin
+        * [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
+    * Inner Sea
+        * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
 ### 14-08-2024
