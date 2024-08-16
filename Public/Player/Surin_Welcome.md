@@ -49,18 +49,3 @@ Now, at 70 years old, you find yourself in a high-security prison. You've been h
 Throughout your life, your father has instilled in you a deep appreciation for elven heritage and a subtle skepticism towards outside influences. As you face this new chapter in your life, you carry with you the lessons, both spoken and unspoken, that Faelyn has imparted over the past seven decades.
 
 Remember, Surin, that you are the product of both your unique abilities and the careful guidance of your father. As you navigate the challenges ahead, draw strength from your elven heritage, the critical thinking skills Faelyn has nurtured in you, and your own resilience in the face of the Vanguard's attempts to control you.
-
-
-
-
-
-
-**********************
-
-# Welcome to Golarion, Surin Thell'quassir
-
-[... existing content ...]
-
-
-
-[... continue with existing content ...]

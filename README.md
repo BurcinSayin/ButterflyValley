@@ -1,6 +1,7 @@
 # Age of The Eternal Vanguard
 * [Welcome (generic)](Public/Player/Welcome.md)
     * [Surin](Public/Player/Surin_Welcome.md)
+    * [Han](Public/Player/Han_Welcome.md)
 * [Religion](Public/Religion.md)
 * [Background Feat: Deja Vu](Public/Feat/DejaVu.md)
 * [Calendar](Public/Calendar.md)
@@ -9,6 +10,10 @@
 * [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
 
 ## Changelog
+### 16-08-2024
+- Updated Public_Player_Surin_Welcome.md
+- Updated Public_Player_Han_Welcome.md
+
 ### 15-08-2024
 - Updated Public_Player_Surin_Welcome.md
 - Updated Public_Player_Welcome.md
