@@ -83,18 +83,36 @@
 - **Concerns:** Mysterious patrons and unconventional magic
 - **Status:** Potential persecution or forced "re-education"
 
----
+## Magic Regulation by the Eternal Vanguard
 
+The Eternal Vanguard maintains a comprehensive system of magic regulation to ensure the safety and stability of society. This system applies to all forms of magic use, including arcane, divine, primal, and occult traditions.
+
+### Key Aspects of Magic Regulation:
+
+1. **Registration**: All magic users must register with local Vanguard authorities. This includes providing details about their magical abilities, specializations, and any formal training or education.
+
+2. **Licensing**: Different levels of magical practice require specific licenses. Basic cantrips might only need a general license, while powerful spells require advanced certifications.
+
+3. **Spell Approval**: New spells or magical techniques must be submitted for review and approval before they can be legally practiced or taught.
+
+4. **Restricted Magic**: Certain types of magic are heavily restricted or outright banned. This typically includes necromancy, summoning extraplanar entities, and magic that manipulates time or reality.
+
+5. **Monitoring**: Regular check-ins and assessments are required for licensed magic users. This may include demonstrations of control and interviews about recent magical activities.
+
+6. **Educational Oversight**: Magical academies and apprenticeships are closely monitored to ensure they adhere to Vanguard-approved curricula and ethical standards.
+
+7. **Public Safety Measures**: The use of magic in public spaces is regulated, with certain spells only permitted in designated areas or under specific circumstances.
+
+8. **Artifact Control**: The creation, possession, and use of magical items are subject to strict regulations and often require special permits.
+
+9. **Divination Restrictions**: Divination magic is subject to particularly stringent oversight. Users of divination magic must obtain special permits and are required to report the results of significant divinations to Vanguard authorities. The Vanguard justifies this as a measure to prevent the spread of false prophecies and maintain public order.
+
+10. **Ritual Regulation**: Higher-level rituals are heavily regulated and often require direct Vanguard supervision. The complexity and potential power of these rituals necessitate additional safeguards and approvals.
+
+11. **Occult Magic and Knowledge Control**: Occult magic and related knowledge are under strict regulation. Practitioners must undergo extensive background checks and ongoing monitoring. Access to occult texts and artifacts is limited to approved scholars and mages. The Vanguard emphasizes that this is to protect the public from potentially dangerous or corrupting influences.
+
+The Vanguard presents these regulations as necessary measures to prevent magical accidents, misuse, and potential threats to public safety. They emphasize that responsible magic use, when properly regulated, can greatly benefit society. The stricter oversight of divination, high-level rituals, and occult practices is framed as a way to protect the fabric of society from unforeseen magical consequences and to ensure that such powerful magics are used only for the greater good.
+
+---
 **General Note:** Classes easily controlled and utilized for Vanguard purposes are more accepted. Those with unpredictable or potentially subversive abilities face greater scrutiny and regulation. The Vanguard likely has systems to monitor and control all classes, especially those with magical abilities.
 
-
-
-Certainly! I'll add the magus class to the Public_Classes document. Here's how I would incorporate it:
-
-
-
-The magus, as a hybrid of martial prowess and arcane ability, occupies a unique position in Vanguard society. Their ability to seamlessly blend sword and spell makes them valuable assets, but also potential threats if not properly regulated. The Vanguard views magi with a mix of appreciation for their skills and caution regarding their magical abilities.
-
-Magi are required to register their magical practices and undergo regular assessments to ensure their arcane abilities align with Vanguard-approved standards. They are often employed in specialized roles that require both combat skills and magical aptitude, such as magical artifact recovery, arcane threat neutralization, or as elite guards for important Vanguard facilities.
-
-The Vanguard encourages magi to focus their studies on practical, controlled applications of magic that complement their martial skills without risking unauthorized or potentially destabilizing magical effects. Magi who show exceptional loyalty and adherence to Vanguard principles may be granted more freedom in their magical pursuits, while those who display signs of rebellion or uncontrolled magic use face stricter oversight and potential restrictions on their abilities.

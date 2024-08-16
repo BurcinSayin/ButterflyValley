@@ -13,6 +13,11 @@
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
+### 16-08-2024
+- Updated Public_Classes.md
+- Updated Public_Location_Inner_Sea_Vanguard_City.md
+- Updated Public_Player_Welcome.md
+
 ### 14-08-2024
 - Updated Public_Classes.md
 - Updated Public_Religion.md
