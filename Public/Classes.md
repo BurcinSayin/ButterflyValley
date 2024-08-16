@@ -35,6 +35,12 @@
 - **Conditions:** Must show loyalty to the regime
 - **Role:** Defense forces
 
+## Magus
+- **View:** Cautiously Accepted
+- **Conditions:** Required registration and oversight of magical practices
+- **Role:** Blend martial and magical skills for specialized tasks
+- **Concerns:** Potential for uncontrolled or unauthorized magic use
+
 ## Monk
 - **View:** Favorable
 - **Reasons:** Discipline and self-control align with Vanguard principles
@@ -80,3 +86,15 @@
 ---
 
 **General Note:** Classes easily controlled and utilized for Vanguard purposes are more accepted. Those with unpredictable or potentially subversive abilities face greater scrutiny and regulation. The Vanguard likely has systems to monitor and control all classes, especially those with magical abilities.
+
+
+
+Certainly! I'll add the magus class to the Public_Classes document. Here's how I would incorporate it:
+
+
+
+The magus, as a hybrid of martial prowess and arcane ability, occupies a unique position in Vanguard society. Their ability to seamlessly blend sword and spell makes them valuable assets, but also potential threats if not properly regulated. The Vanguard views magi with a mix of appreciation for their skills and caution regarding their magical abilities.
+
+Magi are required to register their magical practices and undergo regular assessments to ensure their arcane abilities align with Vanguard-approved standards. They are often employed in specialized roles that require both combat skills and magical aptitude, such as magical artifact recovery, arcane threat neutralization, or as elite guards for important Vanguard facilities.
+
+The Vanguard encourages magi to focus their studies on practical, controlled applications of magic that complement their martial skills without risking unauthorized or potentially destabilizing magical effects. Magi who show exceptional loyalty and adherence to Vanguard principles may be granted more freedom in their magical pursuits, while those who display signs of rebellion or uncontrolled magic use face stricter oversight and potential restrictions on their abilities.
