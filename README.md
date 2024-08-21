@@ -5,6 +5,7 @@
 * [Calendar](Public/Calendar.md)
 * [Judical System](Public/Judical_System.md)
     * [Vanguard Codex](Public/Vanguard_Codex.md)
+* [Public Safety and Security](Public/Vanguard_Security.md)
 * [Player Classes](Public/Classes.md)
 * Locations
     * Kyonin
@@ -13,6 +14,9 @@
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
+### 21-08-2024
+- Updated Public_Vanguard_Security.md
+
 ### 16-08-2024
 - Updated Public_Classes.md
 - Updated Public_Location_Inner_Sea_Vanguard_City.md
