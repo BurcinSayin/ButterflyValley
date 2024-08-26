@@ -14,6 +14,10 @@
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
+### 26-08-2024
+- Updated Public_Religion.md
+- Updated Public_Location_Kyonin_Elven_Nobility.md
+
 ### 21-08-2024
 - Updated Public_Vanguard_Security.md
 

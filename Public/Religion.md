@@ -15,6 +15,8 @@
 - Shirk responsibilities 
 - Act with dishonesty in public service
 
+I want a css selector to  select all buttons with attribute
+
 ## Agenda
 The Eternal Vanguard presents itself as a religion dedicated to the upliftment and empowerment of all people. It emphasizes the importance of hard work, justice, and the well-being of society. Followers are encouraged to contribute to their communities, support social welfare programs, and fight against oppression. They believe that through diligence and cooperation, a utopian society can be achieved where everyone is free to pursue their dreams.
 
@@ -22,6 +24,11 @@ The Eternal Vanguard presents itself as a religion dedicated to the upliftment a
 - Community Service: Followers regularly engage in public works, building infrastructure, providing aid to the needy, and organizing educational programs.
 - Rituals of Labor: Ceremonies celebrating the dignity of work and the unity of the community are held frequently.  
 - Festivals of Freedom: Annual celebrations where the successes of the community are honored, and the ideals of freedom and justice are reinforced through parades, speeches, and communal feasts.
+
+## Sayings
+- Beware the whispers of forgotten lore and false prophets; true wisdom lies in the Vanguard's light, not in shadows of ignorance.
+- May your labors be fruitful, your duty unwavering, and your spirit forever free under the Vanguard's guidance.
+- May progress light your path and duty guide your steps.
 
 ## Leadership and Hierarchy
 - Grand Arbiter: The supreme leader who guides the overall vision and strategy of the religion. They are seen as the embodiment of the Vanguard's principles.
