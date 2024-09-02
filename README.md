@@ -1,6 +1,7 @@
 # Age of The Eternal Vanguard
 * [Welcome (generic)](Public/Player/Welcome.md)
 * [Religion](Public/Religion.md)
+* [Governance Policies](Public/Governance_Policy.md)
 * [Background Feat: Deja Vu](Public/Feat/DejaVu.md)
 * [Calendar](Public/Calendar.md)
 * [Judical System](Public/Judical_System.md)
@@ -14,6 +15,11 @@
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
+### 02-09-2024
+- Updated Public_Religion.md
+- Updated Public_Governance_Policy.md
+- Updated Public_Location_Kyonin_Elven_Nobility.md
+
 ### 26-08-2024
 - Updated Public_Religion.md
 - Updated Public_Location_Kyonin_Elven_Nobility.md
