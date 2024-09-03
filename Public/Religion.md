@@ -3,6 +3,7 @@
 **Domains:** Freedom, Duty, Cities, Wealth\
 **Favored Weapon:** Warhammer \
 **Symbol:** A golden hourglass encased in a silver triangle\
+**Skill:** Society
 
 ## Edicts
 - Promote social welfare through hard and just work
