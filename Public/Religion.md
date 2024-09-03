@@ -15,8 +15,6 @@
 - Shirk responsibilities 
 - Act with dishonesty in public service
 
-I want a css selector to  select all buttons with attribute
-
 ## Agenda
 The Eternal Vanguard presents itself as a religion dedicated to the upliftment and empowerment of all people. It emphasizes the importance of hard work, justice, and the well-being of society. Followers are encouraged to contribute to their communities, support social welfare programs, and fight against oppression. They believe that through diligence and cooperation, a utopian society can be achieved where everyone is free to pursue their dreams.
 
