@@ -1,7 +1,9 @@
 # Age of The Eternal Vanguard
 * [Welcome (generic)](Public/Player/Welcome.md)
 * [Religion](Public/Religion.md)
+    * [Ritual of Eternal Unity](Public/Ritual/Eternal_Unity.md)
 * [Governance Policies](Public/Governance_Policy.md)
+* [Education System](Public/Education_System.md)
 * [Background Feat: Deja Vu](Public/Feat/DejaVu.md)
 * [Calendar](Public/Calendar.md)
 * [Judical System](Public/Judical_System.md)
@@ -11,10 +13,15 @@
 * Locations
     * Kyonin
         * [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
+        * [Elven Nobility in Kyonin](Public/Location/Kyonin/Elven_Nobility.md)
     * Inner Sea
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
+### 04-09-2024
+- Updated Public_Education_System.md
+- Updated Public_Ritual_Eternal_Unity.md
+
 ### 02-09-2024
 - Updated Public_Religion.md
 - Updated Public_Governance_Policy.md
