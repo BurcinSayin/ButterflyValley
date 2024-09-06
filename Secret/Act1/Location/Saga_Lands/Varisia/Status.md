@@ -2,7 +2,7 @@
 A strategically important region would be a priority target for the Eternal Vanguard.
 
 1. Early Conquest (around -3500 AR to -3000 AR):
-During the "Golden Age of the Vanguard," they would likely begin their conquest of Varisia. This aligns with their growing power and influence across the Inner Sea region.
+During the "Golden Age of the Vanguard" they would likely begin their conquest of Varisia. This aligns with their growing power and influence across the Inner Sea region.
 
 2. Methods of Conquest:
 - Military force against major population centers and Shoanti strongholds

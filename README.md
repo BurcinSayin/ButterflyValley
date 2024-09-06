@@ -19,6 +19,10 @@
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
 
 ## Changelog
+### 06-09-2024
+- Updated Public_Background_DejaVu.md
+- Updated Public_Background_Skill_Lore_Eternal_Vanguard.md
+
 ### 04-09-2024
 - Updated Public_Education_System.md
 - Updated Public_Ritual_Eternal_Unity.md
