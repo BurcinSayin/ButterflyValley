@@ -1,9 +1,10 @@
 ## Timeline Major Events
 
 1. Absalom: Is founded by Eternal Vanguard and is called "Vanguard City". Known as the City at the Center of the World. 
-   - The Starstone is raised by Eternal Vanguard. Requred ritual preperations started -1000 BV marking the start of "The Time of Troubles"
-   - The Starstone's power is used by Eternal Vanguard.
-   - the Starstone Cathedral is called "" now
+   - Preperations for a ritual to kill all gods started at -1000 BV marking the start of "The Time of Troubles"
+   - As a result of the ritual many gods are slain, The Starstone and Islant of Unity is raised is raise above sea level. This marks the end of "Time of Troubles" and foundation of "The Vanguard City" ( 1 AV )
+   - The Starstone's power is still used by Eternal Vanguard.
+   - the Starstone Cathedral is called "Cahedral of Selfless Sacrifice" now
 2. Alkenstar,Geb and Nex:
    - Alkenstar is a Eternal Vanguard outpost
    - Nex exist as a region overseen by Eternal Vanguard partially independent in internal affairs.
