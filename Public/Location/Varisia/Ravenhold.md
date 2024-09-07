@@ -43,7 +43,7 @@ Ravenhold, once a grim concentration camp for Shoanti tribes, has transformed ov
 
 ### Starfall Academy - Ravenhold Branch
 - Prestigious education institution
-- Specializes in divination and temporal magic studies
+- Specializes in divination and ancient magic studies
 
 ### The Reconciliation Plaza
 - Built on the site of the original camp headquarters
