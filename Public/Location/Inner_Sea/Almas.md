@@ -1,64 +1,54 @@
-# Almas: Capital of Andoran
+# Almas: Beacon of Vanguard Ideals
 
 ## Overview
 
-Almas, the capital of Andoran, stands as a shining example of a nation embracing Eternal Vanguard principles while maintaining its unique identity. Once known as the "City of Lions" and a beacon of revolutionary ideals, Almas has evolved into a hub of technological and social advancement under Vanguard guidance.
+Almas, the capital city of Andoran, stands as a shining example of the Eternal Vanguard's principles in action. Located on the northern coast of Andoran, this bustling metropolis is a testament to the success of the People's Revolt and the enduring partnership between Andoran and the Eternal Vanguard.
 
-## Government and Administration
+## History
 
-Andoran maintains its democratic facade, with the People's Council still in place. However, all major decisions are heavily influenced by Vanguard ideology:
+Almas has a rich history dating back to the early days of Andoran. However, its most significant chapter began with the People's Revolt, a movement supported by the Eternal Vanguard. This uprising led to the overthrow of the old monarchy and the establishment of a new government that fully embraced Vanguard ideals.
 
-- The Supreme Elect now works closely with a Vanguard-appointed advisor, ensuring alignment with Vanguard principles.
-- The Regional Advocate Lydia Ironheart serves as the official liaison between Andoran's government and the Eternal Vanguard.
-- Local elections still occur, but candidates must be approved by Vanguard representatives.
+## Government and Politics
 
-## Economy and Industry
+The city is governed by the Supreme Elect, chosen through a process that combines democratic elements with Vanguard oversight. The Supreme Elect works closely with Vanguard representatives to ensure that Almas, and by extension Andoran, remains true to the principles of freedom, duty, and social welfare.
 
-Almas has become a center for cutting-edge research and development, particularly in fields that support both Andoran's historical strengths and Vanguard initiatives:
+## Architecture and Layout
 
-- The shipbuilding industry has been modernized, producing advanced vessels for Vanguard-regulated trade.
-- Biotechnology research centers focus on improving public health and agricultural yields.
-- Clean energy initiatives have made Almas one of the most environmentally friendly cities in the Inner Sea region.
+Almas' architecture reflects its commitment to Vanguard ideals:
 
-The port remains crucial to Andoran's economy, now serving as a major hub for Vanguard-approved international commerce.
+- The Hall of Unity: A grand structure housing the city's government offices.
+- Vanguard Plaza: A large public square featuring a monument to the People's Revolt.
+- The Beacon: A towering lighthouse symbolizing Almas' role as a guiding light of Vanguard principles.
 
-## Sustainable Resources and Environmental Stewardship
+Wide, clean streets and numerous public parks emphasize the city's commitment to the wellbeing of its citizens.
 
-Almas has become a leader in sustainable resource management and environmental protection, blending traditional Andoran values with Vanguard-approved magical and alchemical innovations:
+## Economy
 
-- Windmills and water wheels, enhanced by minor air and water elemental bindings, provide much of the city's power needs.
-- Alchemical processes have been developed to reduce pollution from metalworking and other industries.
-- Druidic circles, working under Vanguard oversight, maintain the health of nearby forests and agricultural lands.
-- Enchanted lamps using everburning flames have replaced most oil lanterns, reducing fire hazards and improving air quality.
-- The port has implemented strict regulations on ship waste disposal, using specially trained aquatic creatures to clean the harbor waters.
+As a major port city, Almas thrives on trade. However, in line with Vanguard principles, the economy is carefully regulated to ensure fair distribution of wealth and prevent exploitation. Key industries include:
 
-These initiatives have made Almas one of the cleanest and most environmentally balanced cities in the Inner Sea region, showcasing how Vanguard principles can be applied to preserve natural resources while advancing urban development.
+- Shipbuilding
+- Textile manufacturing
+- Agriculture (in the surrounding regions)
 
-## Society and Culture
+## Education
 
-Almas's society blends Andoran's historical values with Vanguard ideals:
+Almas boasts several prestigious educational institutions, including:
 
-- The concept of "Common Rule" has been reinterpreted to align with Vanguard principles of collective prosperity.
-- Education emphasizes civic responsibility, scientific inquiry, and Vanguard history.
-- Public spaces display a mixture of traditional Andoran symbols and art celebrating Vanguard achievements.
-- The Eagle Knights, once champions of Andoran liberty, now serve as elite peacekeepers trained in Vanguard ideology.
+- The Vanguard Academy: A center for higher learning that emphasizes civic duty and Vanguard philosophy.
+- The Almas Institute of Technology: Focusing on practical skills and innovations to benefit society.
 
-## Notable Locations
+## Culture and Society
 
-1. **Golden Aerie**: The capitol building, now featuring a prominent Vanguard emblem alongside Andoran's eagle.
+Almas' culture is deeply influenced by Vanguard ideals:
 
-2. **Vanguard Academy of Sciences and Liberty**: A prestigious institution combining Andoran's passion for knowledge with Vanguard-approved research.
+- Emphasis on civic participation and community service
+- Regular festivals celebrating Vanguard principles
+- Strong support for the arts, particularly those that reinforce societal values
 
-3. **Unity Plaza**: Formerly Freedom Square, this vast public area hosts both traditional Andoran festivals and Vanguard celebrations.
+## Military
 
-4. **The Eternal Flame of Progress**: A monument symbolizing the fusion of Andoran's revolutionary spirit with Vanguard guidance.
-
-5. **Harmony Gardens**: A sprawling park showcasing environmental engineering, providing a serene retreat for citizens.
-
-## Public Safety and Security
-
-The Almas Guard, working in tandem with Vanguard-trained advisors, maintains order and protects citizens. They combine Andoran's traditional policing methods with advanced Vanguard security protocols.
+While Andoran maintains its own military, Almas hosts a significant Vanguard peacekeeping force. The city's strategic location makes it an important base for Vanguard operations in the region.
 
 ## Conclusion
 
-Almas exemplifies how a nation can thrive under Eternal Vanguard influence while preserving elements of its cultural identity. The city's transformation showcases the harmonious integration of Andoran's historical values with Vanguard principles, creating a prosperous and orderly society that serves as a model for other regions.
+Almas stands as a proud example of how a city can thrive under Vanguard guidance. Its success story is often cited as proof of the benefits of fully embracing Eternal Vanguard ideals, serving as an inspiration to other nations and cities across Golarion.

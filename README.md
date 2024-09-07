@@ -1,11 +1,12 @@
 # Age of The Eternal Vanguard
+* [Background Feat: Deja Vu](Public/Background/DejaVu.md)
+    * [Eternal Vanguard Lore](Public/Background/Skill_Lore_Eternal_Vanguard.md)
 * [Welcome (generic)](Public/Player/Welcome.md)
 * [Religion](Public/Religion.md)
     * [Ritual of Eternal Unity](Public/Ritual/Eternal_Unity.md)
 * [Governance Policies](Public/Governance_Policy.md)
 * [Education System](Public/Education_System.md)
-* [Background Feat: Deja Vu](Public/Background/DejaVu.md)
-    * [Eternal Vanguard Lore](Public/Background/Skill_Lore_Eternal_Vanguard.md)
+    * [Sample History Lesson](Public/Sample_History_Lesson.md)
 * [Calendar](Public/Calendar.md)
 * [Judical System](Public/Judical_System.md)
     * [Vanguard Codex](Public/Vanguard_Codex.md)
@@ -17,8 +18,16 @@
         * [Elven Nobility in Kyonin](Public/Location/Kyonin/Elven_Nobility.md)
     * Inner Sea
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
+        * [Alamas](Public/Location/Inner_Sea/Almas.md)
+    * Varisia
+        * [Ravenhold](Public/Location/Varisia/Ravenhold.md)
 
 ## Changelog
+### 08-09-2024
+- Updated Public_Calendar.md
+- Updated Public_Sample_History_Lesson.md
+- Updated Public_Location_Inner_Sea_Almas.md
+
 ### 06-09-2024
 - Updated Public_Background_DejaVu.md
 - Updated Public_Background_Skill_Lore_Eternal_Vanguard.md
