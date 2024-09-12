@@ -36,6 +36,12 @@ Almas boasts several prestigious educational institutions, including:
 
 - The Vanguard Academy: A center for higher learning that emphasizes civic duty and Vanguard philosophy.
 - The Almas Institute of Technology: Focusing on practical skills and innovations to benefit society.
+- Starfall Academy - Almas Branch: Established in 2145 AV, this prestigious institution embodies the Eternal Vanguard's commitment to magical and scientific education. Notable features include:
+  - Specializations in Political Science and Vanguard Governance, Magical Theory and Practice, Naval Engineering and Maritime Studies, and Environmental Sciences.
+  - The Luminous Library: A vast collection of books and magical texts.
+  - The Andoran Arboretum: A large greenhouse complex for botanical research.
+  - The Maritime Simulation Center: State-of-the-art facilities for naval training.
+  - Known for its rigorous admission process and high academic standards.
 
 ## Culture and Society
 
