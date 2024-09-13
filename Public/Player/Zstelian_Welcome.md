@@ -10,10 +10,10 @@ You are Zstelian Matei, a 20-year-old Varisian from a renegade gypsy tribe in Va
 
 The tribe's seer had a prophecy about you:
 
-*Born under many moons, a child of sight,*\
-*Echoes of reality dance in their dreams at night.*\
-*To the Vanguard's halls, this one must go,*\
-*For in their hands, true freedom's seeds will grow.*
+- *Born under many moons, a child of sight,*
+- *Echoes of reality dance in their dreams at night.*
+- *To the Vanguard's halls, this one must go,*
+- *For in their hands, true freedom's seeds will grow.*
 
 Despite the tribe's deep distrust of the Eternal Vanguard and their nomadic lifestyle that had kept them free from Vanguard control, they could not ignore the seer's words. With heavy hearts, they sent you to the city of Ravenhold as they continued their journey.
 
