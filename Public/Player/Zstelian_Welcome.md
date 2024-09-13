@@ -6,7 +6,7 @@ Welcome to Golarion in the year 4723 AV (After Vanguard). You were born during a
 
 ## Your Background
 
-You are Zstelian Matei, a 20-year-old Shoanti from a renegade tribe in Varisia. Your early life was spent among your people, learning the ways of the land and the spirits. However, your path took a drastic turn when you were just 10 years old.
+You are Zstelian Matei, a 20-year-old Varisian from a renegade gypsy tribe in Varisia. Your early life was spent traveling with your people, learning the ways of the road, the secrets of fortune-telling, and the ancient lore of your people. However, your path took a drastic turn when you were just 10 years old.
 
 The tribe's seer had a prophecy about you:
 
@@ -15,7 +15,7 @@ The tribe's seer had a prophecy about you:
 *To the Vanguard's halls, this one must go,*\
 *For in their hands, true freedom's seeds will grow.*
 
-Despite the tribe's distrust of the Eternal Vanguard, they could not ignore the seer's words. With heavy hearts, they sent you away to the city of Ravenhold.
+Despite the tribe's deep distrust of the Eternal Vanguard and their nomadic lifestyle that had kept them free from Vanguard control, they could not ignore the seer's words. With heavy hearts, they sent you to the city of Ravenhold as they continued their journey.
 
 ## Life in Ravenhold
 
