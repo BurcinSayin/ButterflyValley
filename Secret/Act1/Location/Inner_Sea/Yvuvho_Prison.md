@@ -22,6 +22,31 @@ Intervenes to prevent abuse by other guards
 Keeps detailed records to ensure accountability
 Mentors junior guards in ethical conduct
 
+* Zara Mendertouch: 
+    - female gnome age 67
+    - doez not approve harsh treatment of prisoners
+    - does not approbe Deja Vu experiments
+* Cassius Shadowwind
+    - human male 32
+    - Office controlling deangerous inmates
+    - Sees the prison as a stepping stone
+    - expert interrogator
+    - Clean shaved, gray eyes, brown hair
+    - Cold and distanced
+    - Has a hourglass tatoo on left hand
+* Elara Steelhart
+    - human felamle 45, 175 cd height, black ponytail hair
+    - warden of prison
+    - Great dicipline
+    - Rules are importantant
+    - Always clean, always sharp
+    - Has scar from ear to chin
+    - Ex-Justicar
+* Lyria whispecloud
+    - Magic warden
+    - oversees Deja Vu experiments
+
+
 -----------------------------
 
 
@@ -46,6 +71,10 @@ Nyla Swiftshadow (Halfling) - Spreading "subversive" stories that question Vangu
 Thorne Blackthorn (Human) - Practicing unapproved magical techniques
 Kora Flameheart (Half-Orc) - Refusing to participate in mandatory Vanguard ceremonies
 Finn Greymantle (Gnome) - Developing encryption methods that bypass Vanguard surveillance
+Ervin "Fox" Lighthor ( human ) : 
+    - Informan for Cassius
+    - Fixer of the prison
+    - brown eyes, skinniy, 170 cm height, dark circles below eyes
 
 Death Row or Equivalent:
 
