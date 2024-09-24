@@ -47,15 +47,13 @@ Throughout your time in Vanguard City, you've experienced a growing sense of une
 
 Your doubts led to increasing tension with Vanguard authorities. Despite your family's influence and your potential as a Champion of The People, the Vanguard ultimately deemed you a risk.
 
-Now, at 70 years old, you find yourself in a high-security prison. You've been here for about a year, placed in this facility designed for individuals who have dared to defy the Vanguard. Here, they hope to keep you isolated and controlled, preventing you from spreading your "dangerous" ideas and questioning their authority.
-
-This turn of events has been shocking and disorienting. You struggle to reconcile your long-held beliefs about the Vanguard's benevolence with your current circumstances and the unsettling experiences that led to your imprisonment.
+Now, at 70 years old, you have just been placed in a high-security prison. This turn of events is shocking and disorienting. You struggle to reconcile your long-held beliefs about the Vanguard's benevolence with your current circumstances and the unsettling experiences that led to your imprisonment.
 
 ## Your Abilities and Inner Conflict
 
-As an aspiring Champion of The People, you've developed combat skills and a nascent connection to divine magic. However, your imprisonment has strained this connection, leaving you uncertain about the source and nature of your powers.
+As an aspiring Champion of The People, you've developed combat skills and a nascent connection to divine magic. However, your recent imprisonment has strained this connection, leaving you uncertain about the source and nature of your powers.
 
 Your "Deja Vu" ability continues to provide insights, but now these glimpses often add to your confusion and doubt about the world around you. You find yourself torn between your ingrained loyalty to Vanguard principles and the growing suspicion that all is not as it seems.
 
-Remember, Han, that you are at a crucial point in your journey. Your unique abilities, your conflicted feelings about Vanguard principles, and your experiences in Vanguard City have led you to this challenging situation. As you navigate the trials ahead, you must grapple with your sense of justice, your loyalty to your family (especially your concern for Aelindra), and your growing doubts about the true nature of the Vanguard's rule.
+Remember, Han, that you are at a crucial point in your journey. Your unique abilities, your conflicted feelings about Vanguard principles, and your recent experiences have led you to this challenging situation. As you navigate the trials ahead, you must grapple with your sense of justice, your loyalty to your family (especially your concern for Aelindra), and your growing doubts about the true nature of the Vanguard's rule.
 
