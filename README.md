@@ -23,6 +23,13 @@
         * [Ravenhold](Public/Location/Varisia/Ravenhold.md)
 
 ## Changelog
+### 24-09-2024
+- Updated Public_Location_Inner_Sea_Almas.md
+- Updated Public_Player_Gerard_Welcome.md
+- Updated Public_Player_Han_Welcome.md
+- Updated Public_Player_Surin_Welcome.md
+- Updated Public_Player_Zstelian_Welcome.md
+
 ### 08-09-2024
 - Updated Public_Calendar.md
 - Updated Public_Sample_History_Lesson.md
