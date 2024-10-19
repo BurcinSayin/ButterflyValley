@@ -19,10 +19,14 @@
     * Inner Sea
         * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
         * [Alamas](Public/Location/Inner_Sea/Almas.md)
+        * [Meravon](Public/Location/Inner_Sea/Meravon.md)
     * Varisia
         * [Ravenhold](Public/Location/Varisia/Ravenhold.md)
 
 ## Changelog
+### 20-10-2024
+- Updated Public_Location_Inner_Sea_Meravon.md
+
 ### 24-09-2024
 - Updated Public_Location_Inner_Sea_Almas.md
 - Updated Public_Player_Gerard_Welcome.md
