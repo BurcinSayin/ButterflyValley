@@ -22,10 +22,10 @@
    The Shadow Alliance orchestrates multiple simultaneous uprisings and catastrophes across Golarion, forcing the Vanguard to spread their resources thin and creating widespread panic.
 
 8. Battle of Vanguard City (1st Wisdomshadow - 15th Wisdomshadow, 4720 AV):
-   Taking advantage of the chaos and the Vanguard's divided attention, the Whispering Tyrant leads a massive assault on Vanguard City. The battle is fierce, with the Tyrant's forces breaching the city's outer defenses.
+   Taking advantage of the chaos and the Vanguard's divided attention, the Whispering Tyrant leads a massive assault on Vanguard City. The battle is fierce.
 
 9. Vanguard's Desperate Counter (15th Wisdomshadow - 30th Wisdomshadow, 4720 AV):
-   The Eternal Vanguard, facing their greatest crisis, mobilizes all available resources to defend their capital. They may resort to desperate measures, possibly even attempting large-scale time manipulation to turn the tide.
+   The Eternal Vanguard, facing their greatest crisis, mobilizes all available resources to defend their capital. They resort to desperate measures, even attempting multiple large-scale time manipulations to turn the tide. As a result Wipering Tyrant is slain before entering the city creating a blasted wasteland stretching roughly 15 miles across the Cairnlands on the southeastern Isle of Unity
 
 10. Aftermath (1st Futureship, 4720 AV onwards):
     The events of this alternate Tyrant's Grasp reshape the political landscape of Golarion, severely weakening the Vanguard's image of invincibility. It leads to increased unrest in Vanguard-controlled territories and potentially awakens more individuals with the "Deja Vu" ability as reality fluctuates under the strain of conflict.
