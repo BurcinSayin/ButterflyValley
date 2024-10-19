@@ -1,0 +1,16 @@
+## Backpack with Vanguard insignia (golden hourglass in silver triangle)
+- Waterskin
+- Rations for 5 days
+- First aid kit ( 10 uses )
+- Rope (50 feet)
+- Grappling hook
+- Torch and tinderbox
+- Signal whistle
+- Warm blanket
+- Bedroll
+- Waterproof cloak with Vanguard colors
+- Small notebook and pencil for record-keeping
+- Glow Rod for emergency signaling
+- Small mirror for signaling
+- Vanguard handbook of search and rescue procedures
+- Vanguard authorization documents
