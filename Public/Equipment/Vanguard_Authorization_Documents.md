@@ -1,6 +1,6 @@
 ## Vanguard Authorization Documents:
 
-### Standard Authorization Documents (Levels 1-3):
+### Standard Authorization Documents:
 
 Physical Characteristics:
 - High-quality, durable parchment
