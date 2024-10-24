@@ -22,8 +22,20 @@
         * [Meravon](Public/Location/Inner_Sea/Meravon.md)
     * Varisia
         * [Ravenhold](Public/Location/Varisia/Ravenhold.md)
+* People
+    * [The Legacy Of Rose](Public/NPC/The_Legacy_of_Rose.md)
+    * [Crimson Relic Hunters](Public/NPC/Crimson_Relic_Hunters.md)
 
 ## Changelog
+### 24-10-2024
+- Updated Public_NPC_Crimson_Relic_Hunters.md
+- Updated Public_NPC_The_Legacy_of_Rose.md
+
+### 21-10-2024
+- Updated Public_Equipment_Standard_Vanguard_Backpack.md
+- Updated Public_Equipment_Vanguard_Authorization_Documents.md
+- Updated Public_Location_Inner_Sea_Meravon.md
+
 ### 20-10-2024
 - Updated Public_Location_Inner_Sea_Meravon.md
 
