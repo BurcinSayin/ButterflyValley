@@ -15,8 +15,7 @@ Contents:
 - Specific authorized areas or activities
 - Issuing authority
 - Issue date and expiration date
-- Photograph or detailed physical description of the bearer
-- Holographic strip (non-magical, but technologically advanced)
+- Detailed physical description of the bearer
 
 Security Features:
 - Alchemical ink that changes color when exposed to air, fading over time to mark document age
