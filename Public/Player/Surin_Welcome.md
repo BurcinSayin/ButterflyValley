@@ -42,7 +42,7 @@ You found it difficult to talk about these experiences with others. When you tri
 
 Despite the Vanguard's efforts to mold you into a loyal servant, you couldn't ignore the growing sense that something was fundamentally wrong with the world. Your rebellious nature and lack of compliance frustrated the Justiciars, and their methods became increasingly harsh.
 
-Now, at 70 years old, you find yourself in a high-security prison. You've been here for about a year, placed in this facility designed for individuals who have dared to defy the Vanguard. Here, they hope to keep you isolated and controlled, preventing you from spreading your "dangerous" ideas.
+Now, at 70 years old, you find yourself newly imprisoned in a high-security facility. You've just arrived, placed in this prison designed for individuals who have dared to defy the Vanguard. Here, they hope to keep you isolated and controlled, preventing you from spreading your "dangerous" ideas.
 
 ## Your Father's Influence
 
