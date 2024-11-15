@@ -27,6 +27,9 @@
     * [Crimson Relic Hunters](Public/NPC/Crimson_Relic_Hunters.md)
 
 ## Changelog
+### 31-10-2024
+- Updated Public_Equipment_Vanguard_Authorization_Documents.md
+
 ### 24-10-2024
 - Updated Public_NPC_Crimson_Relic_Hunters.md
 - Updated Public_NPC_The_Legacy_of_Rose.md
