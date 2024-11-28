@@ -1,27 +1,39 @@
 # Butterfly Valley
 
 ## Founding
-Butterfly Valley was founded by Ariadne Timeweaver, Zephyr Vialwright and Eoghan Moonseer in response to their visions of a dystopian future ruled by a time manipulating organisation. Realizing the immense threat posed by a poissible organization with the ability to manipulate the timeline, these tree visionaries created Butterfly Valley as a bastion of hope and resistance against those who would abuse the power of time manipulation.
+Butterfly Valley was founded by Ariadne Timeweaver, Zephyr Vialwright and Eoghan Moonseer in response to their visions of a dystopian future ruled by a time manipulating organisation. Realizing the immense threat posed by a possible organization with the ability to manipulate the timeline, these three visionaries created Butterfly Valley as a bastion of hope and resistance against those who would abuse the power of time manipulation.
 
 ## Headquarters
 To protect itself from the temporal machinations of "The Eternal Vanguard", Butterfly Valley established its headquarters on a unique demi-plane, isolated from all timelines. This plane, known as the Bastion, exists outside the normal flow of time. Anyone who enters the Bastion is effectively removed from their original timeline.
 
+### The Bastion's Geography
+The Bastion consists of a large, habitable island surrounded by imposing mountain ranges. The landmass contains all necessary natural resources to sustain life:
+
+- Numerous freshwater springs, rivers, and lakes
+- Rich, fertile valleys perfect for farming
+- Dense forests providing timber and game
+- Abundant mineral deposits in the mountains
+- Natural cavern systems throughout the ranges
+- Rolling hills and meadows for grazing livestock
+
+While there is no sun, the demiplane experiences regular 12-hour cycles of brightening and dimming, providing a day/night rhythm for inhabitants. The source of this illumination appears to be the demiplane itself, creating a diffuse light that permeates the atmosphere. The climate remains temperate year-round, making it ideal for agriculture and comfortable living.
+
 ### Life in the Bastion
-The Bastion is more than just a headquarters - it's a fully-functioning society, with all the necessary infrastructure to support its inhabitants indefinitely. 
+The Bastion is more than just a headquarters - it's a fully-functioning society, with all the necessary resources and infrastructure to support its inhabitants indefinitely. 
 
-- **Food Production**: The Bastion has vast hydroponic farms and artificially-lit greenhouses, which provide a constant supply of fresh fruits, vegetables, and grains. The organization also maintains herds of livestock in specially-designed habitats.
+- **Agriculture**: Vast farmlands in the fertile valleys produce grains, vegetables, and fruits. Orchards dot the gentler slopes, while livestock grazes in the meadows. Traditional farming methods, enriched by generations of experience, ensure bountiful harvests.
 
-- **Water**: The demi-plane has its own water cycle, with purification systems ensuring a steady supply of potable water for drinking, hygiene, and agriculture.
+- **Water**: The demi-plane's natural water cycle provides abundant fresh water through springs, rivers, and lakes. Water wheels harness the power of flowing rivers for mills and other necessary machinery.
 
-- **Energy**: The Bastion harnesses energy from the unique properties of the demi-plane itself. Specialized generators convert the ambient magical energy into electricity, providing power for all the settlement's needs.
+- **Resources**: The forests provide timber for construction and firewood, while quarries in the mountains yield stone for building. Traditional crafts flourish, from blacksmithing to woodworking, supporting the community's needs.
 
-- **Housing**: Inhabitants live in comfortable, modular housing units that can be easily expanded as the population grows. These units are designed to be energy-efficient and low-maintenance.
+- **Settlements**: The inhabitants live in well-built homes of stone and wood, constructed to last generations. Communities are typically built near water sources and farming areas, with defensive positions in the higher ground.
 
-- **Recreation**: To maintain morale and mental well-being, the Bastion has various recreational facilities, including parks, sports fields, libraries, and communal spaces for socializing and events.
+- **Recreation**: Gardens, communal gathering spaces, and natural areas provide places for relaxation and community activities. Libraries preserve knowledge, while training grounds prepare new members for their duties.
 
-- **Education**: The Resistance operates schools and training facilities to educate children born in the Bastion and to help new recruits adjust to life in the demi-plane.
+- **Education**: Traditional schools teach both practical skills and academic knowledge, while specialized training prepares members for their roles in protecting the timeline.
 
-- **Healthcare**: The Bastion has well-equipped medical facilities staffed by skilled healthcare professionals to keep the population healthy.
+- **Healing**: Skilled healers maintain infirmaries stocked with herbs and natural remedies, tending to the community's health needs through traditional medicine and magical healing.
 
 ### Natural Hazards and Predators
 While the Bastion is designed to be a safe haven, it is not without its dangers. The unique nature of the demi-plane gives rise to several natural hazards and predators that the inhabitants must contend with.
