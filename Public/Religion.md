@@ -28,6 +28,9 @@ The Eternal Vanguard presents itself as a religion dedicated to the upliftment a
 - Beware the whispers of forgotten lore and false prophets; true wisdom lies in the Vanguard's light, not in shadows of ignorance.
 - May your labors be fruitful, your duty unwavering, and your spirit forever free under the Vanguard's guidance.
 - May progress light your path and duty guide your steps.
+- May duty guide your steps.
+- May progress light your path.
+- May your labors be fruitful.
 
 ## Leadership and Hierarchy
 - Grand Arbiter: The supreme leader who guides the overall vision and strategy of the religion. They are seen as the embodiment of the Vanguard's principles.
