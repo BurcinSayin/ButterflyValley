@@ -100,35 +100,65 @@ The highest governing body of the Bastion, consisting of representatives from ea
 
 ## Key Support Personnel
 
-### Chief Medical Officer
-**Name:** Dr. Harmony Vale
-- Oversees all medical operations
-- Specialist in temporal-related ailments
-- Research into Deja Vu ability effects
+### Chief Medical Officer - Dr. Harmony Vale
+- **Race:** Half-Elf
+- **Age:** 142
+- **Class:** Cleric/Alchemist
+- **Deja Vu Status:** No
+- **Background:** Former lead researcher at a Vanguard medical facility who discovered experiments being conducted on children with the Deja Vu ability. She faked her own death to join Butterfly Valley.
+- **Notable Traits:**
+  - Maintains extensive records on temporal-related health issues
+  - Developed treatments for temporal displacement sickness
+  - Known for her calm demeanor even in crisis situations
+  - Pioneered methods to stabilize Deja Vu manifestations
 
-### Head of Field Operations
-**Name:** Ghost
-- Manages infiltration missions
-- Coordinates with resistance groups
-- Leads rescue operations
+### Head of Field Operations - "Ghost"
+- **Race:** Unknown (Always appears in different forms)
+- **Age:** Unknown
+- **Class:** Rogue/Wizard
+- **Deja Vu Status:** Yes
+- **Background:** A mysterious figure who has never revealed their true identity. Their mastery of disguise and infiltration makes them perfect for coordinating field operations.
+- **Notable Traits:**
+  - Never appears the same way twice
+  - Maintains a vast network of informants
+  - Exceptional tactical mind
+  - Known for getting agents out of impossible situations
 
-### Research Director
-**Name:** Professor Aldrich Nightwind
-- Directs temporal research
-- Studies Vanguard technology
-- Develops countermeasures
+### Research Director - Professor Aldrich Nightwind
+- **Race:** Human
+- **Age:** 67
+- **Class:** Wizard (Chronomancer)
+- **Deja Vu Status:** Yes
+- **Background:** Former Vanguard Temporal Research Division head who discovered the true nature of their time manipulation experiments. He brought crucial information when he defected.
+- **Notable Traits:**
+  - Leading expert on temporal mechanics
+  - Brilliant but absent-minded
+  - Keeps detailed journals of all research
+  - Often works through multiple days without rest
 
-### Training Coordinator
-**Name:** Thorn Swiftshadow
-- Trains new recruits
-- Develops Deja Vu ability control methods
-- Combat and survival instruction
+### Training Coordinator - Thorn Swiftshadow
+- **Race:** Elf
+- **Age:** 189
+- **Class:** Monk/Fighter
+- **Deja Vu Status:** No
+- **Background:** Former instructor at the House of Blue Stones in Sandpoint who discovered their brightest student was being groomed for Vanguard experimentation.
+- **Notable Traits:**
+  - Developed unique training methods for Deja Vu individuals
+  - Strict but deeply caring mentor
+  - Expert in multiple martial arts styles
+  - Emphasizes mental discipline alongside physical training
 
-### Chief of Communications
-**Name:** Spark Quicksilver
-- Maintains secure communication networks
-- Coordinates with field agents
-- Manages information security
+### Chief of Communications - Spark Quicksilver
+- **Race:** Gnome
+- **Age:** 84
+- **Class:** Bard/Investigator
+- **Deja Vu Status:** No
+- **Background:** Once part of the Vanguard's encryption division, they noticed patterns in communication that revealed darker truths about the organization.
+- **Notable Traits:**
+  - Created innovative secure communication methods
+  - Never bleached due to constant intellectual challenges
+  - Maintains perfect mental records of all active operations
+  - Has an uncanny ability to predict information needs before they arise
 
 ## Special Considerations
 
