@@ -101,10 +101,10 @@ The highest governing body of the Bastion, consisting of representatives from ea
 ## Key Support Personnel
 
 ### Chief Medical Officer - Dr. Harmony Vale
-- **Race:** Half-Elf
-- **Age:** 142
+- **Race:** Anandi
+- **Age:** 42
 - **Class:** Cleric/Alchemist
-- **Deja Vu Status:** No
+- **Deja Vu Status:** Yes
 - **Background:** Former lead researcher at a Vanguard medical facility who discovered experiments being conducted on children with the Deja Vu ability. She faked her own death to join Butterfly Valley.
 - **Notable Traits:**
   - Maintains extensive records on temporal-related health issues
