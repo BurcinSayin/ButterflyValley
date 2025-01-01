@@ -1,6 +1,9 @@
 # FREEDOM TOWN
 *CN small town*
 
+## HISTORY
+Freedom Town was founded by criminal organization known as the Sharpes Gang in 4694 AR,2 as they fled north to escape justice in Lastwall. They found rich, tillable land which had been abandoned long ago to the orcs of Belkzen, and decided to set up a base there. Over the past two decades, Freedom Town has grown into a small community of all those needing to evade the law and willing to make a hard life among the dangers of the region. Tribute is regularly paid in food, gold, and persons to the local orc tribes and the government in Vigil has so far turned a blind eye to the problem, figuring that the hordes of Belkzen will surely alleviate them of this problem soon
+
 ## DEMOGRAPHICS
 **Government**: overlord  
 **Population**: 402 (308 humans, 43 half-orcs, 34 orcs, 17 other)
