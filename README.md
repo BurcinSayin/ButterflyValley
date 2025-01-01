@@ -27,6 +27,12 @@
     * [Crimson Relic Hunters](Public/NPC/Crimson_Relic_Hunters.md)
 
 ## Changelog
+### 16-12-2024
+- Updated Public_Religion.md
+- Updated Public_Organisation_Butterfly_Valley_Bastion_Governance.md
+- Updated Public_Organisation_Butterfly_Valley_Info.md
+- Updated Public_Ritual_Temporal_Jump.md
+
 ### 15-12-2024
 - Updated Public_Religion.md
 - Updated Public_Organisation_Butterfly_Valley_Bastion_Governance.md
