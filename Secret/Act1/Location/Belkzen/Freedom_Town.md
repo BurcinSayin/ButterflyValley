@@ -8,6 +8,20 @@ Freedom Town was founded by criminal organization known as the Sharpes Gang in 4
 **Government**: overlord  
 **Population**: 402 (308 humans, 43 half-orcs, 34 orcs, 17 other)
 
+## GEOGRAPHY AND LAYOUT
+The town is situated at the confluence of the Aren River and Field's Pond, with croplands surrounding it on the southern and western sides. The settlement is organized around several key streets:
+- River Street, running along the northern waterfront
+- Wall Street, forming the southern boundary
+- Smith Street and Market Street, connecting the town's interior
+- Several smaller streets including Dirt Walk, Union Street, Sharpes Street, and Hall Street
+
+## KEY LOCATIONS
+1. **First Hall**: The town's primary administrative building
+2. **Brokeneck Tavern**: A rough establishment frequented by the town's less savory elements
+3. **The Sauced God**: Another tavern catering to the local population
+4. **Sharpes Manor**: Residence of the former Sharpes Gang leadership
+5. **Fort Freedom**: The town's defensive strongpoint
+
 ## STATISTICS
 * Corruption +3
 * Crime +1
@@ -34,7 +48,7 @@ Freedom Town was founded by criminal organization known as the Sharpes Gang in 4
 * Major Items: —
 
 ## DESCRIPTION
-The town consists of a small palisade-encircled wooden fort surrounded by poorly constructed wooden dwellings on the banks of the Esus River, a tributary of the Esk. Its inhabitants are mainly outlaws, exiles, and escaped slaves who wish to be left alone—including a fair number of orcs and half-orcs who have left their tribes.
+Freedom Town consists of a small palisade-encircled wooden fort surrounded by poorly constructed wooden dwellings along the banks of the Aren River. The town is built primarily of wood, with most structures being simple and utilitarian. Its inhabitants are mainly outlaws, exiles, and escaped slaves who wish to be left alone—including a fair number of orcs and half-orcs who have left their tribes.
 
 ## GOVERNMENT
 The only three surviving members of the Sharpes Gang make up Freedom Town's governing tribunal. The council's mandate is rather limited and consists of collecting taxes from everyone living or doing business in town in order to pay Grask Uldeth's tribute. Anyone incapable of paying this levy—or anyone who annoys the tribunal—is offered up as payment instead.
