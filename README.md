@@ -25,8 +25,18 @@
 * People
     * [The Legacy Of Rose](Public/NPC/The_Legacy_of_Rose.md)
     * [Crimson Relic Hunters](Public/NPC/Crimson_Relic_Hunters.md)
+* Organizations
+    * [Butterfly Valley](Public/Organisation/Butterfly_Valley/Info.md)
+        * [Bastion Governance](Public/Organisation/Butterfly_Valley/Bastion_Governance.md)
+* Missions
+    * [Mission 2](Public/Quests/Misssion2/Briefing.md)
 
 ## Changelog
+### 03-01-2025
+- Updated Public_Organisation_Butterfly_Valley_Info.md
+- Updated Public_Quests_Misssion2_Briefing.md
+- Updated Public_Ritual_Temporal_Jump.md
+
 ### 16-12-2024
 - Updated Public_Religion.md
 - Updated Public_Organisation_Butterfly_Valley_Bastion_Governance.md

@@ -1,5 +1,5 @@
 # Eoghan Moonseer Divination Mission
-This mission is related to a divivatiom given by Eoghan Moonseer. Since it is bound by the core powers of Bastion, travel time and objectives are ambigious. Examination of Temporaj Jump chamber indicates that the travel time is near 4700 AV and mission time is about 1 month.
+This mission is related to a divination given by Eoghan Moonseer. Since it is bound by the core powers of Bastion, travel time and objectives are ambigious. Examination of Temporaj Jump chamber indicates that the travel time is near 4700 AV and mission time is about 1 month.
 
 ## Divination
 In Freedom's grasp, a voice of chrome,\
