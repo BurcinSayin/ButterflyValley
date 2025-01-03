@@ -29,7 +29,7 @@
     * [Butterfly Valley](Public/Organisation/Butterfly_Valley/Info.md)
         * [Bastion Governance](Public/Organisation/Butterfly_Valley/Bastion_Governance.md)
 * Missions
-    * [Mission 2](Public/Quests/Misssion2/Briefing.md)
+    * [Mission 2 Briefing](Public/Quests/Misssion2/Briefing.md)
 
 ## Changelog
 ### 03-01-2025
