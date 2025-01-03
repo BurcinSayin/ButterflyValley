@@ -28,10 +28,11 @@ Information compiled from Liberators' Dawn intelligence network reports, interce
 ### Timeline of Events
 
 #### Initial Outbreak (15th Freedomrise, 4719 AV)
-*Source Reliability: High*
-- Confirmed escape of the Whispering Tyrant from Ustalav containment facility
-- Multiple conflicting accounts of escape method
-- Note: Liberators' Dawn agents present in nearby settlements provided firsthand accounts
+*Source Reliability: Medium*
+- Reported escape of the Whispering Tyrant from Ustalav containment facility
+- Multiple contradictory accounts of escape method and circumstances
+- Significant gaps in eyewitness testimony
+- Note: Liberators' Dawn agents only able to gather secondhand accounts, official records unavailable or destroyed
 
 #### The Radiant Fire (1st Welfaretide, 4719 AV)
 *Source Reliability: High*
@@ -42,12 +43,12 @@ Information compiled from Liberators' Dawn intelligence network reports, interce
 - Note: Detailed casualty reports collected by Liberators' Dawn medical teams
 
 #### Fall of Ustalav (5th-10th Welfaretide, 4719 AV)
-*Source Reliability: Medium-High*
-- Complete collapse of Ustalavic Administrative Zone
-- Mass casualties and undead transformation of population
-- Vanguard forces overwhelmed
-- Mass evacuation of survivors
-- Note: Information gathered from refugee interviews and resistance cell reports
+*Source Reliability: Low-Medium*
+- Fragmentary reports of Ustalavic Administrative Zone collapse
+- Unconfirmed reports of mass casualties and undead activity
+- Limited information due to communication breakdown
+- Refugee accounts highly inconsistent
+- Note: Most information comes from traumatized survivors and scattered resistance cells, making verification difficult
 
 #### Creation of the Deadlands (15th Welfaretide, 4719 AV)
 *Source Reliability: High*
