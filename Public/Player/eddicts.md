@@ -1,0 +1,5 @@
+| Name | Eddict | Anatema |
+|------|---------|----------|
+| Han | confront oppression in all its forms, defend the common folk, overcome despair to seize victory<br><br>"Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them"<br><br>oppose slavery and tyranny, fight for others' freedom to make their own decisions, respect choices others make for their own lives | abandon those in need, enslave or oppress others, harm the innocent through direct or inadvertent action<br><br>"Commit murder."<br><br>force or threaten someone to act a certain way, engage in slavery or tyranny |
+| Zstelian | aid fellow travelers, explore new places, express yourself through art and song, find what life has to offer | cause fear or despair, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behavior |
+| Gerard | Avenge the wronged, destroy evildoers, lead the charge in battle | Cower from combat, forgive those who have irreparably sinned, leave allies unwillingly in darkness |
