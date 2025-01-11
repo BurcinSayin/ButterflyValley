@@ -1,7 +1,7 @@
 # White Mane Clan
 
 ## Overview
-Ancient orc clan distinguished by pure white hair - a recessive trait passed down through generations. Known for tactical brilliance and disciplined approach to warfare. Population: 40-50 members. Based in mountains north of Ravenhold.
+Ancient orc clan distinguished by pure white hair - a recessive trait passed down through generations. Known for tactical brilliance and disciplined approach to warfare. Population: 40-50 members. Based in mountains north east of Ugir ( Belkzen Hold region ).
 
 ## Leadership
 - **Sage-Commander Vhask Whitespear:** Chief strategist
