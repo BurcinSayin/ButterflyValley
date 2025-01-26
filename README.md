@@ -32,6 +32,11 @@
     * [Mission 2 Briefing](Public/Quests/Misssion2/Briefing.md)
 
 ## Changelog
+### 26-01-2025
+- Updated Public_Education_System.md
+- Updated Public_Judical_System.md
+- Updated Public_Religion.md
+
 ### 07-01-2025
 - Updated Public_Player_eddicts.md
 - Updated Public_Quests_Misssion2_Briefing.md

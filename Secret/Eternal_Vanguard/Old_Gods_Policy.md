@@ -6,35 +6,34 @@ The Eternal Vanguard's primary goal is the eradication of all divine influence o
 
 ## Current Status of Major Deities
 
-### Tolerated Deities (Active but Controlled)
+### "Cultural Traditions" (Secretly Active Deities)
+1. **Norgorber's "Secret Societies"**
+   - Public Image: Eccentric philosophical clubs focusing on mystery and intrigue
+   - Official Status: Registered cultural organization
+   - Secret Reality: Active worship of Norgorber
+   - Control Method: Infiltration and information manipulation
+   - Value: Useful front for intelligence gathering
 
-1. **Norgorber (God of Thieves and Secrets)**
-   - Status: Active but monitored
-   - Value: Intelligence gathering, covert operations
-   - Risk Level: Medium
-   - Approach: Cautious manipulation of Norgorber's networks
-   - Use: Information gathering, maintaining useful criminal networks
+2. **"Children of the Wasp"** (Calistria worship)
+   - Public Image: Social clubs celebrating personal freedom and justice
+   - Official Status: Licensed entertainment and social welfare organization
+   - Secret Reality: Calistria worship
+   - Control Method: Monitoring through bureaucratic oversight
+   - Value: Social pressure valve and information source
 
-2. **Calistria (Goddess of Trickery, Lust, and Revenge)**
-   - Status: Active but controlled
-   - Value: Social manipulation, population distraction
-   - Risk Level: Medium
-   - Approach: Manipulate aspects of lust and revenge to keep populace divided
-   - Use: Emotional control, social destabilization of resistance groups
+3. **"Eternal Rest Society"** (Urgathoa worship)
+   - Public Image: Medical research and funeral services organization
+   - Official Status: Licensed healthcare provider
+   - Secret Reality: Urgathoa worship
+   - Control Method: Health regulations and licensing requirements
+   - Value: Disease control and undead management
 
-3. **Urgathoa (Goddess of Gluttony, Disease, and Undeath)**
-   - Status: Active but contained
-   - Value: Disease control, undead assets
-   - Risk Level: Medium-High
-   - Approach: Controlled outbreaks, limited use of undead for specific operations
-   - Use: Population control, covert operations
-
-4. **Zon-Kuthon (God of Darkness and Pain)**
-   - Status: Active but restricted
-   - Value: Fear tactics
-   - Risk Level: Medium-High
-   - Approach: Contain influence to specific areas
-   - Use: Psychological warfare, deterrent against rebellion
+4. **"Shadow Philosophy Circle"** (Zon-Kuthon worship)
+   - Public Image: Fringe philosophical movement studying pain and darkness
+   - Official Status: Registered academic society
+   - Secret Reality: Zon-Kuthon worship
+   - Control Method: Academic oversight and membership tracking
+   - Value: Fear manipulation tool
 
 ### Actively Opposed Deities (Priority Targets)
 

@@ -19,8 +19,9 @@
    - Reshape traditions to align with Vanguard ideology
 
 5. **Integration of Local Leadership**
-   - Work through existing power structures
-   - Maintain Vanguard oversight
+   - Integrate local leadership into Vanguard bureaucracy through incentives and career advancement
+   - Create overlapping administrative systems where each level believes they have autonomy while being subtly guided
+   - Establish "cultural preservation councils" that actually serve to gradually modify local traditions
 
 6. **Economic Control**
    - Regulate resource distribution
@@ -42,13 +43,31 @@
     - Identify and monitor individuals with special abilities
     - Recruit for Vanguard purposes
 
+## Information Management Protocols
+
+### Public Perception Management
+- Present all changes as natural cultural evolution
+- Frame restrictions as safety measures or quality control
+- Position Vanguard oversight as supportive rather than controlling
+
+### Layered Authority Structure
+- Each administrative level only sees their immediate superiors and subordinates
+- Different departments handle different aspects of control, none seeing the full picture
+- Local authorities believe they have significant autonomy while operating within carefully designed parameters
+
+### Incentive Systems
+- Reward behaviors that align with Vanguard goals through seemingly unrelated benefits
+- Create social and economic advantages for compliance without direct correlation
+- Establish prestigious positions that naturally lead to greater Vanguard influence
+
 ## Race-Specific Policies
 
 ### Orcs
 
 1. **Martial Integration**
-   - Channel orcish martial prowess into Vanguard security forces
-   - Promote discipline and order in orcish communities
+   - Establish prestigious military academies in orcish regions, subtly directing martial traditions toward Vanguard service
+   - Create cultural programs celebrating "traditional orcish values" that align with Vanguard principles
+   - Gradually reshape tribal traditions through educational systems while maintaining appearance of cultural preservation
 
 2. **Cultural Redirection**
    - Reframe orcish concepts of strength and honor to align with Vanguard principles

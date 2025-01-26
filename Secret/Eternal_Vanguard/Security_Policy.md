@@ -65,6 +65,33 @@ The Ideological Integrity Department's secret responsibilities and methods inclu
 4. Knowledge Suppression: Actively suppressing any knowledge of old gods, divine influences, or the true nature of the "Deja Vu" ability.
 5. Chronomancy Research: Secretly studying time manipulation to further Vanguard goals and maintain control.
 
+### Cultural Organization Monitoring
+The Department maintains special oversight of registered cultural and philosophical societies through:
+
+1. **Administrative Control**
+   - Licensing requirements
+   - Membership registration
+   - Activity documentation
+   - Financial auditing
+
+2. **Infiltration Methods**
+   - Planted members in leadership positions
+   - Regular attendees who report activities
+   - Support staff placement
+   - "Enthusiastic converts"
+
+3. **Information Management**
+   - Control of published materials
+   - Monitoring of internal communications
+   - Regulation of teaching materials
+   - Documentation of rituals and ceremonies
+
+4. **Containment Strategies**
+   - Bureaucratic delays for potentially problematic activities
+   - Resource allocation control
+   - Membership growth restrictions
+   - Meeting frequency limitations
+
 ## Leadership and Oversight
 
 The entire security apparatus is overseen by the High Inquisitor, currently Corvus Nightshade. Publicly known as a "public safety official," the High Inquisitor is responsible for maintaining ideological purity and investigating potential threats to Vanguard rule. The High Inquisitor reports directly to the Council of Stewards and the Grand Arbiter, ensuring security measures align with the Vanguard's vision.

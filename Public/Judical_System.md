@@ -20,6 +20,26 @@ The Eternal Vanguard has established a comprehensive and adaptable judicial syst
 - **Local Legal Frameworks:** Each kingdom or major region maintains its own comprehensive legal code, addressing specific cultural, economic, and social needs of the area.
 - All local laws must be compatible with the Vanguard Codex.
 
+## Cultural Organization Regulations
+
+### Registration Requirements
+- Annual renewal of organizational licenses
+- Regular activity reports
+- Membership rosters
+- Financial transparency
+
+### Gathering Permissions
+- Advance notice for meetings
+- Size limitations
+- Approved locations
+- Required supervision
+
+### Teaching Oversight
+- Approved curriculum
+- Certified instructors
+- Regular inspections
+- Documentation requirements
+
 ## Trial Process
 
 - Generally follows an inquisitorial system, but accommodates local traditions where necessary.
