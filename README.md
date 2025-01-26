@@ -32,6 +32,10 @@
     * [Mission 2 Briefing](Public/Quests/Misssion2/Briefing.md)
 
 ## Changelog
+### 07-01-2025
+- Updated Public_Player_eddicts.md
+- Updated Public_Quests_Misssion2_Briefing.md
+
 ### 03-01-2025
 - Updated Public_Organisation_Butterfly_Valley_Info.md
 - Updated Public_Quests_Misssion2_Briefing.md
