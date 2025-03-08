@@ -1,5 +1,3 @@
-Thank you for those clarifications. I'll now fill out the mission template:
-
 # Swallowtail Festival Massacre
 
 ## Original Timeline Events
