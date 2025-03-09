@@ -2,6 +2,8 @@
 
 ## Pre-Vanguard Era
 * **-5293 BV** - Earthfall devastates Golarion. Ekujae elven ancestors survive deep within the protective canopy of the Mwangi Jungle.
+* **–5280 BV** - Dahak sneaks into the Material Plane via a flaw in Huntergate to revel in the post-Earthfall ruins, focusing his wrath in and around the Mwangi Expanse.
+* **–5277 BV** - Dahak is defeated by the Ekujae and banished, but a fragment of his power remains stuck in the “in between” of the elf gates. 
 * **-5100 BV** - Ekujae begin developing their "living archives" system to preserve knowledge and history through specially cultivated trees.
 * **-5000 BV** - Distant rumors of a new power calling itself the "Eternal Vanguard" reach the Ekujae, but are deemed irrelevant to jungle affairs. They seem to be appeared just after Earthfall
 * **-4500 BV** - Perfection of the Ekujae living archive system, allowing historical records to be encoded in branch patterns and leaf arrangements.
