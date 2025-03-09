@@ -9,14 +9,14 @@
 
 ## Era of Limited Contact
 * **-3500 to -2000 BV** - Occasional traders bring news of the growing Vanguard influence in distant lands. Ekujae elders decide to limit outside contact further.
-* **-1800 BV** - First documented Vanguard explorers attempt to map the Mwangi Jungle. Ekujae successfully misdirect them away from their sacred groves.
-* **-1500 BV** - Ekujae shamans record unusual disturbances in natural magic, later attributed to the Vanguard's growing magical manipulations.
+* **-1800 BV** - First documented Vanguard explorers attempt to map the Mwangi Jungle. Ekujae successfully misdirect them away from their sacred groves. First documented diplomatic contact with Nantambu and Eternal Vanguard.
+* **-1500 BV** - Ekujae shamans record unusual disturbances in natural magic, later attributed to the Vanguard's growing power.
 
 ## Time of Troubles Period
-* **-1000 BV** - Ekujae sense profound magical disturbances as the Vanguard begins their a ritual at the west of Inner Sea. 
+* **-1000 BV** - Ekujae sense profound magical disturbances as the Vanguard begins a ritual at the west of Inner Sea. 
 * **-900 BV** - Ekujae elders convene a rare grand council to discuss strategies for preserving their knowledge during the growing chaos.
 * **-750 BV** - Development of magical techniques designed to conceal their sacred groves from outsiders.
-* **-500 BV** - Minor conflicts with Vanguard explorers who venture too deep into Ekujae territory.
+* **-500 BV** - Eternal Vanguard campaing to subdue Nantambu fails miserably.  Conflicts with Vanguard forces who venture too deep into Ekujae territory. 
 * **-250 BV** - Completion of the most sacred living archive, containing the unaltered history of the gods and ancient Golarion.
 
 ## Vanguard Dominance
@@ -31,4 +31,3 @@
 * **4000 AV** - Ekujae successfully repel an unauthorized Vanguard expedition seeking their living archives.
 * **4500 AV** - Ekujae elders note increasing anomalies in the jungle, likely related to the Vanguard's continued infiltration attempts.
 * **4700 AV** - Growing Vanguard interest in the region prompts Ekujae elders to enhance protections around their most important living archives.
-* **4719 AV** - Ekujae shamans record disturbances related to the Whispering Tyrant's escape and the events of Tyrant's Grasp.
