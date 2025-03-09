@@ -28,6 +28,6 @@
    - Since Aroden never existed Cheliax's patron deity was always "Eternal Vanguard"
    - Hellknight's exists as "Vanguard Knights"
 8. Ustalav: This monarcy is in full controll of Eternal Vanguard like Osirion
-   - Shinig Crusade is organized by Eternal Vanguard savin Ustalav
+   - Shinig Crusade is organized by Eternal Vanguard saving Ustalav
    - Whisperin Tyran is imprisoned but its prison is veaker
    - Currently all leaders undergo strict Eternal Vanguard indoctrination and education
