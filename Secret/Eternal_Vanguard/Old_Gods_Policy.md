@@ -35,6 +35,14 @@ The Eternal Vanguard's primary goal is the eradication of all divine influence o
    - Control Method: Academic oversight and membership tracking
    - Value: Fear manipulation tool
 
+5. **"Order of the Scourge"** (Asmodeus worship in Cheliax)
+   - **Public Image:** Elite judiciary officials focused on contract law and civil order
+   - **Official Status:** Recognized legal authority exclusive to Cheliax
+   - **Secret Reality:** Continued Asmodeus worship under strict Vanguard oversight
+   - **Control Method:** Direct integration into government hierarchy, magical surveillance, and strategic infiltration
+   - **Value:** Infernal intelligence, containment of rebellious elements, reinforcement of legal frameworks
+   - **Special Terms:** Activity restricted to Cheliax borders as payment for aid during the 1000-year ritual (-1000 BV to 1 AV)
+
 ### Actively Opposed Deities (Priority Targets)
 
 1. **Desna (Goddess of Dreams, Stars, Travelers)**
