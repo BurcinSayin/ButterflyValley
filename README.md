@@ -1,41 +1,41 @@
 # Age of The Eternal Vanguard
-* [Background Feat: Deja Vu](Public/Background/DejaVu.md)
-    * [Eternal Vanguard Lore](Public/Background/Skill_Lore_Eternal_Vanguard.md)
-* [Welcome (generic)](Public/Player/Welcome.md)
-* [Religion](Public/Religion.md)
-    * [Ritual of Eternal Unity](Public/Ritual/Eternal_Unity.md)
-* [Governance Policies](Public/Governance_Policy.md)
-* [Education System](Public/Education_System.md)
-    * [Sample History Lesson](Public/Sample_History_Lesson.md)
-* [Calendar](Public/Calendar.md)
-* [Judical System](Public/Judical_System.md)
-    * [Vanguard Codex](Public/Vanguard_Codex.md)
-* [Public Safety and Security](Public/Vanguard_Security.md)
-* [Player Classes](Public/Classes.md)
+* [Background Feat: Deja Vu](Background/DejaVu.md)
+    * [Eternal Vanguard Lore](Background/Skill_Lore_Eternal_Vanguard.md)
+* [Welcome (generic)](Player/Welcome.md)
+* [Religion](General/Religion.md)
+    * [Ritual of Eternal Unity](Ritual/Eternal_Unity.md)
+* [Governance Policies](General/Governance_Policy.md)
+* [Education System](General/Education_System.md)
+    * [Sample History Lesson](General/Sample_History_Lesson.md)
+* [Calendar](General/Calendar.md)
+* [Judical System](General/Judical_System.md)
+    * [Vanguard Codex](General/Vanguard_Codex.md)
+* [Public Safety and Security](General/Vanguard_Security.md)
+* [Player Classes](General/Classes.md)
 * Locations
     * Kyonin
-        * [Iadara's Refuge](Public/Location/Kyonin/Iadaras_Refuge.md)
-        * [Elven Nobility in Kyonin](Public/Location/Kyonin/Elven_Nobility.md)
+        * [Iadara's Refuge](Location/Kyonin/Iadaras_Refuge.md)
+        * [Elven Nobility in Kyonin](Location/Kyonin/Elven_Nobility.md)
     * Inner Sea
-        * [Vanguard City](Public/Location/Inner_Sea/Vanguard_City.md)
-        * [Alamas](Public/Location/Inner_Sea/Almas.md)
-        * [Meravon](Public/Location/Inner_Sea/Meravon.md)
+        * [Vanguard City](Location/Inner_Sea/Vanguard_City.md)
+        * [Almas](Location/Inner_Sea/Almas.md)
+        * [Meravon](Location/Inner_Sea/Meravon.md)
     * Varisia
-        * [Ravenhold](Public/Location/Varisia/Ravenhold.md)
+        * [Ravenhold](Location/Varisia/Ravenhold.md)
 * People
-    * [The Legacy Of Rose](Public/NPC/The_Legacy_of_Rose.md)
-    * [Crimson Relic Hunters](Public/NPC/Crimson_Relic_Hunters.md)
+    * [The Legacy Of Rose](NPC/The_Legacy_of_Rose.md)
+    * [Crimson Relic Hunters](NPC/Crimson_Relic_Hunters.md)
 * Organizations
-    * [Butterfly Valley](Public/Organisation/Butterfly_Valley/Info.md)
-        * [Bastion Governance](Public/Organisation/Butterfly_Valley/Bastion_Governance.md)
+    * [Butterfly Valley](Organisation/Butterfly_Valley/Info.md)
+        * [Bastion Governance](Organisation/Butterfly_Valley/Bastion_Governance.md)
 * Missions
-    * [Mission 2 Briefing](Public/Quests/Misssion2/Briefing.md)
+    * [Mission 2 Briefing](Quests/Mission2/Briefing.md)
 
 ## Changelog
 ### 26-01-2025
-- Updated Public_Education_System.md
-- Updated Public_Judical_System.md
-- Updated Public_Religion.md
+- Updated General/Education_System.md
+- Updated General/Judical_System.md
+- Updated General/Religion.md
 
 ### 07-01-2025
 - Updated Public_Player_eddicts.md
