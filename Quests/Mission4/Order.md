@@ -5,7 +5,7 @@
 **FROM:** High Commander Thaddeus Blackwood, Eternal Vanguard Northern Defense Division  
 **TO:** Commander Alaric Thornheart, Fangwood Division  
 **SUBJECT:** Whisperhold Outpost Security Protocols  
-**DATE:** 15 Freedomrise, 3828
+**DATE:** 3828
 
 ---
 
