@@ -32,17 +32,17 @@ More specialized equipment arrived today. Caught a glimpse of requisition forms 
 
 ---
 
-**19th of Triumphcrest, 3827**  
+**15th of Wealthgrow, 3827**  
 The Shining Crusade is officially ending. There's talk of reassignment for many of the outposts, but Director Valentin has made it clear that our facility will continue operations. If anything, the researchers seem to be working with increased urgency. Supply deliveries have nearly doubled in frequency.
 
 ---
 
-**19th of Triumphcrest, 3828**  
+**19th of Triumphcrest, 3827**  
 Knight-Commander Iomedae arrived today, asking pointed questions about our operations. I've heard much about her honorable reputation and impeccable service record during the Crusade. She presented proper authorization for a routine inspection, but Director Valentin appeared unusually concerned by her presence. She's investigating unusual undead activity in the region. Her thorough questioning of my surface personnel has been relentless but fair. I've been instructed to cooperate fully while ensuring she remains restricted to the surface levels, which sits poorly with me given her distinguished standing in the Vanguard.
 
 ---
 
-**10th of Progressflame, 3828**  
+**3th of Freedomrise, 3828**  
 Incident at the eastern clearing today. Director Valentin has refused to explain what happened, but three researchers are dead and I've been ordered to increase security around the entire perimeter. My men report hearing inhuman screams before the research team's security detail locked down the area. We were explicitly forbidden from investigating. I'm growing increasingly uncomfortable with my role here.
 
 ---
@@ -58,7 +58,7 @@ I must document this somewhere, though I risk everything by writing it down. I s
 ---
 
 **13th of Dutyhold, 3828**  
-The High Command has ordered the facility to be sealed following Iomedae's next visit. All personnel except for a small security team are to be evacuated. I'm to ensure no evidence of the facility's activities remains accessible. The implications are clear - they intend for neither Iomedae nor her contingent to leave Whisperhold. I cannot be complicit in this. Whatever they're hiding, it isn't worth the life of Knight-Commander Iomedae, whose dedication to our people I've admired throughout my career. May the gods forgive what I'm about to do.
+The High Command has ordered the facility to be sealed following Iomedae's next visit. All personnel except for a small security team are to be evacuated. I'm to ensure no evidence of the facility's activities remains accessible. The implications are clear - they intend for neither Iomedae nor her contingent to leave Whisperhold. I cannot be complicit in this. Whatever they're hiding, it isn't worth the life of Knight-Commander Iomedae, whose dedication to our people I've admired throughout my career. May fate hide my transgression from the Vanguard's light.
 
 ---
 

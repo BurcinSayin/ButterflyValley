@@ -5,7 +5,7 @@
 **FROM:** High Commander Thaddeus Blackwood, Eternal Vanguard Northern Defense Division  
 **TO:** Commander Alaric Thornheart, Fangwood Division  
 **SUBJECT:** Whisperhold Outpost Security Protocols  
-**DATE:** 3828
+**DATE:** 20 Freedomrise 3828
 
 ---
 
@@ -50,10 +50,10 @@ If she persists or demonstrates unusual interest in the facility, you are to det
 
 While you maintain independent command of security operations, you will continue to provide operational reports to Director Alaric Valentin regarding facility security and research support.
 
-### TIMELINE
+### OPERATION SCHEDULE
 
 - Security enhancements to be implemented effective immediately
-- Weekly reports required, daily if Iomedae's unit approaches within 50 miles
+- Weekly reports required, daily if Iomedae's unit approaches within 20 miles
 - Rotation of your forces scheduled for 60 days from receipt of this directive
 
 By order of the Eternal Vanguard, these directives supersede all previous commands.
