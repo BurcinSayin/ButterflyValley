@@ -2,8 +2,8 @@
  Hundreds of brave characters lost their lives during thousands of roleplaying
  sessions leaving us their last words. We'll never forget them. Rest In Peace.
 
-## Credits
- You can see [credits](credits.md) for this [here](credits.md)
+## You can see [Credits](credits/readme.md) for this [here](credits/readme.md)
+ 
  
 ## Famous Last Words
 
