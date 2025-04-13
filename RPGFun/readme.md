@@ -2,6 +2,11 @@
  Hundreds of brave characters lost their lives during thousands of roleplaying
  sessions leaving us their last words. We'll never forget them. Rest In Peace.
 
+## Credits
+ You can see [credits](credits.md) for this [here](credits.md)
+ 
+## Famous Last Words
+
 1. "Let's go in."
 
 2. "Let's not go in."
