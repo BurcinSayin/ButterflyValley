@@ -39,6 +39,8 @@
 * Equipment
     * [Standard Vanguard Backpack](Equipment/Standard_Vanguard_Backpack.md)
     * [Vanguard Authorization Documents](Equipment/Vanguard_Authorization_Documents.md)
+    * [Spark of the Fallen Star](Equipment/Spark_of_Fallen_Star.md)
+    * [Shard of the Unyielding Stand](Equipment/Unyielding_Stand.md)
 
 * Missions
     * [Mission 2 Briefing](Quests/Mission2/Briefing.md)
@@ -59,4 +61,5 @@
 * Rituals
     * [Eternal Unity](Ritual/Eternal_Unity.md)
     * [Temporal Jump](Ritual/Temporal_Jump.md)
+    * [Divine Usurpation](Ritual/Divine_Usurpation.md)
 
