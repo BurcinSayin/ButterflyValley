@@ -44,15 +44,17 @@
     * [Mission 2 Briefing](Quests/Mission2/Briefing.md)
     * [Mission 3 Briefing](Quests/Mission3/Briefing.md)
     * [Ekujae Timeline](Quests/Mission3/Ekujae_Timeline.md)
-    * *Mission 4 Handouts*
-        * [Contract](Quests/Mission4/handouts/Contract.md)
-        * [Janek's Last Words](Quests/Mission4/handouts/Janek_Last_Words.md)
-        * [Commander Thornheart's Journal](Quests/Mission4/handouts/Journal.md)
-        * [Alchemist Valeria Marwick Lab Noes](Quests/Mission4/handouts/Lab_Notes.md)
-        * [Misc Findings](Quests/Mission4/handouts/Misc_Info.md)
-        * [Vanguard Order](Quests/Mission4/handouts/Order.md)
-        * [Personal Notes of Director Alaric Valentin](Quests/Mission4/handouts/Personal_notes.md)
-        * [Vision in the Silent Glade](Quests/Mission4/handouts/Vision.md)
+    * *Mission 4*
+        * [Report](Quests/Mission4/Report.md)
+        * *Handouts*
+            * [Contract](Quests/Mission4/handouts/Contract.md)
+            * [Janek's Last Words](Quests/Mission4/handouts/Janek_Last_Words.md)
+            * [Commander Thornheart's Journal](Quests/Mission4/handouts/Journal.md)
+            * [Alchemist Valeria Marwick Lab Noes](Quests/Mission4/handouts/Lab_Notes.md)
+            * [Misc Findings](Quests/Mission4/handouts/Misc_Info.md)
+            * [Vanguard Order](Quests/Mission4/handouts/Order.md)
+            * [Personal Notes of Director Alaric Valentin](Quests/Mission4/handouts/Personal_notes.md)
+            * [Vision in the Silent Glade](Quests/Mission4/handouts/Vision.md)
 
 * Rituals
     * [Eternal Unity](Ritual/Eternal_Unity.md)
