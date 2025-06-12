@@ -7,7 +7,7 @@ In the elven enclave of Iadara's Refuge, noble houses play a crucial role in pre
 
 1. **House Moonshadow:** Known for their diplomacy skills and arcane scholarship. They maintain the largest library in the enclave.
 
-2. **House Silverbrook:** Respected for their nature magic and stewardship of the Fierani Forest. They tend to the oldest trees in the region.
+2. **House Silverbrook:** Respected for their nature magic and stewardship of the Fierani Forest. They tend to the oldest trees in the region. Their symbol is "Intertwined Silver Roots"
 
 3. **House Starblossom:** Celebrated for their artistry and dedication to preserving elven history. They curate a museum of elven artifacts.
 
