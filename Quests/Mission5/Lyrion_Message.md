@@ -2,7 +2,7 @@ To my successor, to the future scions of the Vanguard,
 
 If you are reading this, then our Grand Design continues, and you have proven worthy of entering this hallowed place. Welcome. You do not stand in a dusty laboratory, but in a monument to a pivotal moment in history—the dawn of true mortal freedom.
 
-Look around you. This facility is not abandoned; it is preserved in perfect, timeless stasis. The guardians who patrol these halls and the silent Archivist who maintains its every surface are not jailers; they are the honor guard for our greatest achievement.
+Look around you. This facility is not abandoned; it is preserved in perfect, timeless state. The guardians who patrol these halls and the silent Archivist who maintains its every surface are not jailers; they are the honor guard for our greatest achievement.
 
 Within these walls, we harnessed the very firmament. We commanded the Elemental Forge, drawing upon the raw might of the planes to fuel our Great Work. It was here that we perfected the ***Essence Transference*** ritual, the delicate and monumental process of weaving pure cosmic and elemental power into a stable, singular form. Through this, we brought forth our triumph: the **Celestial Seed**.
 
