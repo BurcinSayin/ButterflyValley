@@ -14,7 +14,7 @@ Our true work here is done. This facility will stand as a testament, a silent li
 
 That task now falls to you and the generations that follow. You inherit the key to a new epoch. Wield it with the conviction and vision that only the Vanguard possesses. Go forth and usher in the dawn of our own making, a world free from the shadow of capricious gods.
 
-Let the coming silence in the heavens be the anthem of our final victory.
-Even faith can be sent to eternal sleep.
+Let the coming silence in the heavens be the anthem of our final victory.\
+**Even faith can be sent to eternal sleep.**
 
 **Warden Lyrion**
