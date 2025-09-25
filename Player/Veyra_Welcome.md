@@ -32,14 +32,14 @@ The frame-up worked. Public sentiment turned against you, and the Vanguard had t
 
 In the midst of the bloody chaos, as your friends and comrades fell around you, something impossible happened. Three figures appeared in a shimmer of temporal energy. They were not Vanguard. They moved with a purpose and power you had never seen, dispatching the Vanguard assassins with practiced ease. They were Temporal Agents from the Bastion. They knew who you were and the importance of your Deja Vu ability. Without a word, they grabbed you and pulled you into a swirling vortex of energy, extracting you from the timeline moments before the Vanguard squad could finish its grim work.
 
-## A New Purpose
+## Life as a Temporal Agent
 
-You awoke in the Bastion, a hidden sanctuary on a demi-plane outside the normal flow of time. Here, you found a community of rebels, scholars, and warriors, all united in their opposition to the Eternal Vanguard. The Bastion became your new home, a place where your skills were not just valued, but essential.
+You awoke in the Bastion, a hidden sanctuary on a demi-plane outside the normal flow of time. Here, you found a community of rebels, scholars, and warriors, all united in their opposition to the Eternal Vanguard. Given your unique Deja Vu abilities, you were inducted into their most elite ranks, becoming a **Temporal Agent** for Butterfly Valley.
 
-Driven by a burning desire for revenge for your murdered family, you now serve as a key operative for Butterfly Valley. Your assignments often involve:
+Your missions now take you across time itself, using the Temporal Jump ritual to travel to the past to counter the Vanguard's machinations. The work is perilous, not just from the Vanguard agents you face, but from the very nature of time travel. Each jump leaves its mark; you often return to the Bastion disoriented, suffering from splitting headaches, a confused mind, and sometimes collapsing into unconsciousness as your senses struggle to realign with the present.
 
-* **Infiltration:** Using your knowledge of high society and your skills in deception, you move through the Vanguard's world like a phantom, gathering information from the inside.
-* **Information Gathering:** You are an expert at uncovering secrets, whether through careful observation, clever conversation, or outright theft. You have a knack for finding the hidden ledgers, the secret correspondence, and the whispered rumors that the Vanguard tries so desperately to conceal.
-* **Subterfuge:** You are a master of disguise and forgery, able to create new identities and documents that can fool even the most vigilant Vanguard officials. You can become anyone, go anywhere, and leave without a trace.
+These journeys into the past, however, have yielded terrible truths. Sifting through old records and observing events from the shadows of history, you uncovered the Vanguard's direct involvement in your family's downfall. Their bankruptcy wasn't a matter of misfortune; it was a calculated act, orchestrated by the Vanguard to make you desperate and pliable, ensuring you would accept their offer of "education."
 
-You are Veyra Drosk, a survivor, a rogue, and an avenger. You have turned the lessons of your past into the weapons of your future. You live in the Bastion, a shadow in the Vanguard's world, fighting for a future where you can claim justice for your family and ensure no one else suffers their fate.
+Even more chilling was the discovery you made about the raid on the Liberators' Dawn. The strike team wasn't there to eliminate a rebel cell; their primary target was *you*. The murder of your comrades was simply collateral damage in their single-minded pursuit to eliminate a Deja Vu individual they could not control.
+
+Driven by a burning desire for revenge, you have turned the lessons of your past into the weapons of your future. You live in the Bastion, a shadow in the Vanguard's world, fighting for a future where you can claim justice for your family and ensure no one else suffers their fate.
