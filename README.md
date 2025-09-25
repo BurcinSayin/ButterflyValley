@@ -1,5 +1,5 @@
 # Age of The Eternal Vanguard
-* [Intro: General Knowledge](Intro.md)
+* [Intro: General Knowledge](Intro.md) [( tr )](Translations/tr/Intro.md)
 * [Background Feat: Deja Vu](Background/DejaVu.md)
     * [Eternal Vanguard Lore](Background/Skill_Lore_Eternal_Vanguard.md)
 * [Religion](General/Religion.md)
