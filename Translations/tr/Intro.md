@@ -5,11 +5,11 @@
 Golarion, resmi olarak "Durgun Çağ" olarak adlandırılan 4723 AV (Vanguard Sonrası) yılında var olmaktadır. Bu dönem, tek yönetici güç olan Eternal Vanguard'ın mutlak yönetimi ile karakterize edilir. Toplumun temel ilkeleri **sosyal refah, çalışkanlık ve adalettir**.
 
 Eternal Vanguard'ın yönetimi hiyerarşik ve net bir şekilde tanımlanmıştır:
-* **Büyük Hakem:** Eternal Vanguard'ın bilgeliği ve adanmışlığıyla tanınan yüce lideri.
-* **Yöneticiler Konseyi:** Vanguard'ın küresel bölgelerinin günlük operasyonlarından sorumlu üst düzey liderler.
+* **The Grand Arbiter:** Eternal Vanguard'ın bilgeliği ve adanmışlığıyla tanınan yüce lideri.
+* **The Council of Stewards:** Vanguard'ın küresel bölgelerinin günlük operasyonlarından sorumlu üst düzey liderler.
 * **Bölgesel Savunucular:** Belirli bölgelerde Vanguard'ın çıkarlarını gözetleyen atanmış yetkililer.
-* **Halk Muhafızları:** Vatandaşlar için birincil temas noktası olan yerel şube yöneticileri.
-* **Adalet Görevlileri:** Yargı sistemini denetleyen ve Vanguard yasalarına uyumu sağlayan eğitimli hukuk profesyonelleri.
+* **Wardens of the People:** Vatandaşlar için birincil temas noktası olan yerel şube yöneticileri.
+* **Justiciar' lar:** Yargı sistemini denetleyen ve Vanguard yasalarına uyumu sağlayan eğitimli hukuk profesyonelleri.
 
 Vanguard'ın etkisi kapsamlıdır, tüm eğitim kurumlarındaki standart müfredattan ekonominin adil kaynak dağılımını sağlamak için düzenlenmesine kadar uzanır.
 
