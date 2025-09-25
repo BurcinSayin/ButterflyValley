@@ -22,7 +22,7 @@ Knowing that a transfer to a high-security facility like Yvuvho Prison was immin
 
 ## A Fugitive's Life
 
-For months, you lived on the run, a ghost in the system you knew so well. It was during this time that you were contacted by agents of the **Liberators' Dawn**, a clandestine organization dedicated to opposing Vanguard tyranny. They had been monitoring you, impressed by your skills and your defiance. They offered you a choice: continue to hide, or join them and fight back. You chose to fight.
+For months, you lived on the run, a ghost in the system you knew so well. It was during this time that you were contacted by agents of the [**Liberators' Dawn**](../Organisation/Liberators_Dawn/Info.md), a clandestine organization dedicated to opposing Vanguard tyranny. They had been monitoring you, impressed by your skills and your defiance. They offered you a choice: continue to hide, or join them and fight back. You chose to fight.
 
 Your effectiveness as an agent for Liberators' Dawn did not go unnoticed by the Vanguard. To neutralize you and dismantle your support network, they enacted a brutal plan. They murdered your family and publicly framed you for the crime, painting you as a monstrous patricide and turning you into one of the most wanted fugitives in Vanguard City.
 
