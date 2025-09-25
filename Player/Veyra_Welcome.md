@@ -2,7 +2,7 @@
 
 ## Your World
 
-Welcome to Golarion in the year 4723 AV (After Vanguard). You were born in the grand capital itself, Vanguard City, during a time known as "The Stagnant Era," a period marked by the absolute rule of the Eternal Vanguard. As a child blessed—or perhaps cursed—with the "Deja Vu" ability, your life has been far from ordinary.
+Welcome to Golarion in the year 4723 AV (After Vanguard). You were born in the grand capital itself, [Vanguard City](../Location/Inner_Sea/Vanguard_City.md), during a time known as "The Stagnant Era," a period marked by the absolute rule of the Eternal Vanguard. As a child blessed—or perhaps cursed—with the ["Deja Vu"](../Background/DejaVu.md) ability, your life has been far from ordinary.
 
 ## From Riches to Rags
 
@@ -18,7 +18,7 @@ During your time at the academy, you underwent strange and unsettling experience
 
 Despite the Vanguard's efforts to mold you, you couldn't ignore the growing sense that something was fundamentally wrong with the world. The more they tried to ensure your compliance, the more your sharp mind and your uncle's lessons in subterfuge made you resist. Your lack of conformity frustrated the Justiciars, and you were eventually detained for "re-education".
 
-Knowing that a transfer to a high-security facility like Yvuvho Prison was imminent, you used your wits to orchestrate a swift escape. Leveraging your intimate knowledge of Vanguard City's rhythms and your skill with forged documents, you vanished from a low-security holding area before the official transfer could be completed.
+Knowing that a transfer to a high-security facility like Yvuvho Prison was imminent, you used your wits to orchestrate a swift escape. Leveraging your intimate knowledge of [Vanguard City](../Location/Inner_Sea/Vanguard_City.md)'s rhythms and your skill with forged [documents](../Equipment/Vanguard_Authorization_Documents.md), you vanished from a low-security holding area before the official transfer could be completed.
 
 ## A Fugitive's Life
 
@@ -34,9 +34,9 @@ In the midst of the bloody chaos, as your friends and comrades fell around you, 
 
 ## Life as a Temporal Agent
 
-You awoke in the Bastion, a hidden sanctuary on a demi-plane outside the normal flow of time. Here, you found a community of rebels, scholars, and warriors, all united in their opposition to the Eternal Vanguard. Given your unique Deja Vu abilities, you were inducted into their most elite ranks, becoming a **Temporal Agent** for Butterfly Valley.
+You awoke in the [Bastion](../Organisation/Butterfly_Valley/Bastion_Governance.md), a hidden sanctuary on a demi-plane outside the normal flow of time. Here, you found a community of rebels, scholars, and warriors, all united in their opposition to the Eternal Vanguard. Given your unique Deja Vu abilities, you were inducted into their most elite ranks, becoming a **Temporal Agent** for [Butterfly Valley](../Organisation/Butterfly_Valley/Info.md).
 
-Your missions now take you across time itself, using the Temporal Jump ritual to travel to the past to counter the Vanguard's machinations. The work is perilous, not just from the Vanguard agents you face, but from the very nature of time travel. Each jump leaves its mark; you often return to the Bastion disoriented, suffering from splitting headaches, a confused mind, and sometimes collapsing into unconsciousness as your senses struggle to realign with the present.
+Your missions now take you across time itself, using the [Temporal Jump](../Ritual/Temporal_Jump.md) ritual to travel to the past to counter the Vanguard's machinations. The work is perilous, not just from the Vanguard agents you face, but from the very nature of time travel. Each jump leaves its mark; you often return to the Bastion disoriented, suffering from splitting headaches, a confused mind, and sometimes collapsing into unconsciousness as your senses struggle to realign with the present.
 
 These journeys into the past, however, have yielded terrible truths. Sifting through old records and observing events from the shadows of history, you uncovered the Vanguard's direct involvement in your family's downfall. Their bankruptcy wasn't a matter of misfortune; it was a calculated act, orchestrated by the Vanguard to make you desperate and pliable, ensuring you would accept their offer of "education."
 
