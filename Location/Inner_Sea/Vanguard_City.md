@@ -1,7 +1,7 @@
 # Vanguard City
 
 ## Overview
-Vanguard City stands as the grand capital of the world, a gleaming metropolis that embodies the ideals and achievements of the Eternal Vanguard. Founded in -4500 BV (Before Vanguard), it has grown from a center of trade and learning into the undisputed heart of civilization in the Inner Sea region.
+Vanguard City stands as the grand capital of the world, a gleaming metropolis that embodies the ideals and achievements of the Eternal Vanguard. Officialy founded in 1 AV (After Vanguard) marking the start of Vanguard Calendar, it has grown from a center of trade and learning into the undisputed heart of civilization in the Inner Sea region.
 
 ## Architecture and Infrastructure
 The city is a testament to the Vanguard's principles of social welfare, hard work, and justice. Its architecture blends practicality with beauty, featuring:
