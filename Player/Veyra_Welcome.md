@@ -26,7 +26,7 @@ Seeing a perfect opportunity to score points and prove your value, you did what 
 
 Instead, you were met with a chilling silence. The test was not about finding the flaw. The test was to see if you would follow the flawed orders without question. Your initiative, your desire to "fix" the plan, was not seen as helpful. It was seen as proof that your Deja Vu ability allowed you to bypass your indoctrination. Years of mental conditioning were meant to ensure absolute obedience, but your unique sight gave you the confidence to trust your own judgment over a superior's command. An agent who cannot be trusted to follow a flawed order to the letter is an agent who cannot be controlled.
 
-You were not accused of defiance. You were diagnosed as a failed asset, an "ideological variable" whose core belifs and character was compromised by an unpredictable ability. For this, you were imprisoned quietly and swiftly.
+You were not accused of defiance. You were diagnosed as a failed asset, an "ideological variable" whose core beliefs and character was compromised by an unpredictable ability. For this, you were imprisoned quietly and swiftly.
 
 ## Defiance and Escape
 
