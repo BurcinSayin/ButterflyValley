@@ -1,3 +1,5 @@
+### **Public_Organisation_Liberators_Dawn_Info.txt**
+
 # Liberators' Dawn
 
 ## Overview
@@ -26,6 +28,12 @@ The organization is led by a five-member body known as **The Dawning Council**. 
 * **Shieldbearers**: Specialize in extracting and protecting fugitives.
 * **Torchbearers**: Focus on education and spreading information to counter Vanguard propaganda.
 * **Shadowcrafters**: Experts in covert operations, including subterfuge and forgery.
+
+---
+
+## Key Alliances
+
+* **Knights of Lastwall**: Following the events of the altered "Tyrant's Grasp," Liberators' Dawn has forged a strong alliance with the newly re-established Knights of Lastwall. This independent order actively resists the Eternal Vanguard in the Gravelands region, and their partnership with Liberators' Dawn marks a significant development in the organized opposition to Vanguard rule.
 
 ---
 
