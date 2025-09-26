@@ -35,6 +35,7 @@
     * [Han Welcome](Player/Han_Welcome.md)
     * [Surin Welcome](Player/Surin_Welcome.md)
     * [Zstelian Welcome](Player/Zstelian_Welcome.md)
+    * [Veyra Welcome](Player/Veyra_Welcome.md) [( tr )](Translations/tr/Player/Veyra_Welcome.md)
     * [Eddicts](Player/eddicts.md)
 
 * Equipment
