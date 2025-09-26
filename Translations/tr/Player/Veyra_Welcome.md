@@ -10,7 +10,7 @@ Vanguard Şehri'nin nüfuzlu tüccarlarından olan varlıklı Drosk ailesinde do
 
 ## Beklenmedik Bir Fırsat
 
-Ailenin mali çöküşü nedeniyle resmi eğitimin yarıda kalınca, Ethernal Vanguard'ın Deja Vu yeteneğine sahip olanlar için sunduğu ["özel eğitim"](../../../General/Education_System.md) teklifi altın bir fırsat gibi göründü. Kamuoyuna göre bu, yetenekli bireylerin tam potansiyellerine ulaşmalarına yardımcı olan hayırsever bir programdı; gizlice ise, Vanguard'ın kendi amaçları için benzersiz yeteneklere sahip olanları tespit edip beyinlerini yıkamak için bir sistemdi. Bunu, eğitimini tamamlama ve dünyada yeniden bir yer edinme, kaybettiğin hayata geri dönme yolu olarak gördün.
+Ailenin mali çöküşü nedeniyle resmi eğitimin yarıda kalınca, Ethernal Vanguard'ın Deja Vu yeteneğine sahip olanlar için sunduğu ["özel eğitim"](../../../General/Education_System.md) teklifi altın bir fırsat gibi göründü. Kamuoyuna göre bu, yetenekli bireylerin tam potansiyellerine ulaşmalarına yardımcı olan hayırsever bir programdı; gizlice ise, Vanguard'ın kendi amaçları için benzersiz yeteneklere sahip olanları tespit edmek için bir sistemdi. Bunu, eğitimini tamamlama ve dünyada yeniden bir yer edinme, kaybettiğin hayata geri dönme yolu olarak gördün.
 
 Akademide isyan ederek değil, mükemmel bir uyumla başarılı oldun. Uyum sağlamanın ilerlemek demek olduğunu çabucak öğrendin. Her zaman doğru cevabı veren, eğitmenlerini övmekte gecikmeyen ve akranlarına yardım etmeye hevesli örnek bir öğrenci oldun. Çekiciliğin ve güvenilirliğin seni öğretmenlerin gözdesi ve diğer öğrencilerin başvurduğu bir kişi yaptı.
 

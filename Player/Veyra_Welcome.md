@@ -10,7 +10,7 @@ You were born into the wealthy Drosk family, a line of influential merchants in 
 
 ## An Unexpected Opportunity
 
-With your formal education cut short by your family's financial ruin, the Eternal Vanguard's offer of ["special education"](../General/Education_System.md) for those with the Deja Vu ability seemed like a golden opportunity. Publicly, it was a benevolent program to help gifted individuals reach their full potential; secretly, it was a system to identify and indoctrinate those with unique abilities for the Vanguard's own purposes. You saw it as a chance to complete your education and regain a foothold in the world, a path back to the life you had lost.
+With your formal education cut short by your family's financial ruin, the Eternal Vanguard's offer of ["special education"](../General/Education_System.md) for those with the Deja Vu ability seemed like a golden opportunity. Publicly, it was a benevolent program to help gifted individuals reach their full potential; secretly, it was a system to identify those with unique abilities for the Vanguard's own purposes. You saw it as a chance to complete your education and regain a foothold in the world, a path back to the life you had lost.
 
 You excelled at the academy, not through rebellion, but through perfect compliance. You quickly learned that to get along was to get ahead. You became a model student, always ready with the correct answer, quick to praise your instructors, and eager to help your peers. Your charm and reliability made you a favorite among teachers and a go-to person for fellow students.
 
