@@ -12,7 +12,7 @@ The Bastion Council is responsible for the stable, present-day governance of Bas
 * **Head of Resources (The Provider): Finn Brightleaf** 
 * **Head of Civic Security & Order: Viktor Ironguard** 
 * **Head of Community & Welfare: Aria Sunweaver** 
-* **Chief of Non-Temporal Archives & Civic Education:** 
+* **Chief of Non-Temporal Archives & Civic Education: Eldrin Meadowlight** 
 * **Chief of Civic Communications: Spark Quicksilver** 
 * **Training Coordinator (Civic Roles & Basic Defense): Thorn Swiftshadow** 
 
@@ -37,7 +37,7 @@ All council members are **Deja Vu Positive**, using their unique abilities for s
 * **The Chronicler (Chief Strategist & Head of Council): Emil Dawnweave** 
 * **The Sage (Head of Research & Temporal Theory): Dr. Nessa Stormweaver** 
 * **Head of Temporal Operations: Ash Blackthorn** 
-* **Head of Temporal Intelligence & Covert Operations: "Ghost"** 
+* **Head of Temporal Intelligence & Covert Operations: "Unknown"** 
 * **Head of Deja Vu Training & Environmental Temporal Studies: Owen Merova** 
 
 **Key Departments & Personnel:**
