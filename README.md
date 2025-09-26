@@ -27,6 +27,7 @@
 * Organizations
     * [Butterfly Valley](Organisation/Butterfly_Valley/Info.md)
         * [Bastion Governance](Organisation/Butterfly_Valley/Bastion_Governance.md)
+    * [Liberators Dawn](Organisation/Liberators_Dawn/Info.md)
 
 * Player Information
     * [Welcome (generic)](Player/Welcome.md)
