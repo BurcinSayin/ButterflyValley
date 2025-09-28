@@ -4,7 +4,7 @@
 * **Region:** Cheliax (Egorian)
 * **Regional Info:** Cheliax is a nation known for its strict adherence to law and order. Its state religion is the Eternal Vanguard, and its infamous "Vanguard Knights" know for their swift and brutal *solutions*. The Vanguard maintains a millenia long alliance with the nation which is ruled by powerfull noble houses.
 * **Current State:** The nation is a cornerstone of Vanguard power, but not without internal dissent. A Liberators' Dawn cell operates out of the city of Westcrown, working to undermine Vanguard-aligned nobles and aid escaped slaves. The Vanguard oversees state facilities like the Citadel Rivas Prison, which uses a mix of common criminals and legal slaves for industrial production.
-* **Objective:** Plant fabricated temporal data on a high-ranking Justiciar within the "Order of the Scourge." The target is known to frequent exclusive high-society galas in Egorian, presenting a potential infiltration opportunity that will require considerable social maneuvering.
+* **Objective:** Plant fabricated evidence on a high-ranking Justiciar within the "Order of the Scourge." The target is known to frequent exclusive high-society galas in Egorian, presenting a potential infiltration opportunity that will require considerable social maneuvering.
 
 ---
 
@@ -12,7 +12,7 @@
 * **Region:** Numeria
 * **Regional Info:** This land of strange technology and barbarian tribes was swiftly brought under Vanguard influence after the "Rain of Stars". The Vanguard established multiple "Eternal Explorer" outposts, looted most of the advanced technology.
 * **Current State:** Numeria is governed by a council of local tribe, city, and organization leaders, all of whom are overseen by the Eternal Vanguard. The Vanguard's primary interest is containing and studying the alien technology that litters the landscape, making the region a hotbed for their secret research projects.
-* **Objective:** Sabotage a newly unearthed piece of alien technology that is causing temporal instability before Vanguard chronomancers can weaponize it. An agent's Deja Vu ability will be crucial for navigating the chaotic temporal zones around the artifact at the remote "Eternal Explorer" dig site.
+* **Objective:** Sabotage a newly unearthed piece of alien technology that is causing temporal instability before Vanguard authorities can weaponize it. 
 
 ---
 
@@ -44,7 +44,7 @@
 * **Region:** The Gravelands (Ustalav border)
 * **Regional Info:** Ustalav was saved from the Whispering Tyrant by a Vanguard-organized Shining Crusade. However, due to player actions during the altered "Tyrant's Grasp" events, a handful of knights survived the fall of the Ustalavic Administrative Zone.
 * **Current State:** The surviving knights have declared independence from the Vanguard, re-establishing the "Knights of Lastwall" as an active military order. They are now a valuable ally of the Liberators' Dawn and actively fight Vanguard forces in the Gravelands region.
-* **Objective:** Correct a critical flaw in an ambush planned by the Knights of Lastwall against a Vanguard supply convoy to ensure its success. An agent's Deja Vu has foreseen the failure, but the primary challenge will be earning the Knights' trust to alter their plan without revealing the temporal nature of the intelligence.
+* **Objective:** Correct a critical flaw in an ambush planned by the Knights of Lastwall against a Vanguard supply convoy to ensure its success. The primary challenge will be earning the Knights' trust to alter their plan without revealing the temporal nature of the intelligence and or existance of Butterfly Valley.
 
 ---
 
