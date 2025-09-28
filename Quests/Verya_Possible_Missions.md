@@ -1,5 +1,3 @@
-Of course. Here are the revised mission briefs, generalized for any Temporal Agent and focusing on the core objectives.
-
 ### Bastion Mission Briefs
 
 **Mission 1**
