@@ -4,7 +4,7 @@ The last of their companions are safely through. The silence of the Celestial Le
 
 Han gestures to the swirling vortex. "After you." It is the Champion's instinct: see the rescued to safety before ensuring his own.
 
-The half-elf woman shakes her head, a faint, sad smile on her lips. She looks from the portal back to him, and her gaze is heavy with a certainty that transcends the current moment. "This isn't just an exit. It's a crossroads. Once we step through, our paths will diverge. I feel it. Like a current pulling us toward different shores."
+The half-elf woman shakes her head, a faint smile on her lips. She looks from the portal back to him, and her gaze is heavy with a certainty that transcends the current moment. "This isn't just an exit. It's a crossroads. Once we step through, our paths will diverge. I feel it. Like a current pulling us toward different shores."
 
 She reaches out, not to touch him, but to indicate the very air between them, charged with the portal's energy and their shared ideals.
 
