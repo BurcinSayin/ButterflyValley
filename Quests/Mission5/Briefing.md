@@ -1,5 +1,3 @@
-Okay, I can help you create a mission briefing for your players. Based on the information you've provided, here's a draft:
-
 ## Mission Briefing: The Kyonin Enigma
 
 **Source:** Temporal Resistance Command // Eyes-Only for Field Operatives
