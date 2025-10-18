@@ -1,4 +1,4 @@
-### **Secret_Research Materials of the Silent Archives**
+### **Secret Research Materials of the Silent Archives**
 
 #### **Category Red: The Celestial Seed Project Files**
 
