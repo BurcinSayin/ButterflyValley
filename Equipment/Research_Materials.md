@@ -1,0 +1,37 @@
+### **Secret_Research Materials of the Silent Archives**
+
+#### **Category Red: The Celestial Seed Project Files**
+
+* **"Project Log: Celestial Seed - A Compendium of Essence Transference Trials (Reports I-XXIV)"**
+    * **Content:** A meticulous, multi-volume set of binders detailing every success and failure in the **Essence Transference** ritual. The log details the major conceptual essences for alignment syncing, as well as the crucial secondary essences required for stability and function.
+    * The log also details several side experiments to determine and prepare other essences which were used to fine tune Celestial Seed. It also mentions the "regrettable failure" with the half-elven subject who became ageless and escaped, noting it as a significant loss of a valuable long-term test subject.
+* **"The Aetherion Analysis: A Study in Sympathetic Resonance and Divine Vulnerability"**
+    * **Content:** A captured research document from the Aetherion family, heavily annotated by Vanguard researchers. It details the family's theories on how to protect oneself from greater powers, which became a cornerstone of the Celestial Seed's design. The Vanguard's notes express frustration, stating that the "unfortunate but necessary total destruction of the Aetherion line has prevented further acquisition of their invaluable research." The notes also include a comparative analysis of other "god-killing" magics, such as the incomplete notes on the Ekujae's "**Anima Invocation**," which they acquired during their operations in the Mwangi Expanse. The researchers state that **fully acquiring and weaponizing the Anima Invocation remains a high-priority future objective.**
+* **"Final Schematic of the Celestial Seed (Multi-Volume Set)"**
+    * **Content:** A series of highly technical, leather-bound books that serve as the master guide to the Celestial Seed. They explain in excruciating detail how the Seed functions as a "divine catalyst" to break a deity's connection to their power. The books also contain the precise calculations and ritualistic adjustments needed to use the Seed in conjunction with the **Divine Power Siphon**, dramatically elevating the ritual's success rate and the amount of essence harvested.
+
+---
+
+#### **Category Yellow: Rituals & Arcane Engineering**
+
+* **"Codex Divinus Siphonis: The Theory and Praxis of the Divine Power Siphon"**
+    * **Content:** The master grimoire detailing the complete ***Divine Power Siphon*** ritual. It includes the necessary incantations, sigil sequences, and alchemical components, as well as notes on how to adapt the ritual for deities of different domains.
+* **"The Elemental Forge: Principles of Planar Energy Channeling and Harmonization"**
+    * **Content:** A highly technical manual on the operation of the facility's power source. It contains the **awakening rituals and elemental attunement charts** necessary to bring the forge from its dormant state to full power. A sufficiently skilled spellcaster (Master in one of skills: Nature, Arcana, Occult, Religion) studying this book for one week can learn the following:
+        * **Rituals:** *Elemental Servitor* ( 4 versions each have +2 bonus to a single element ).
+        * **Spells:** Following spells can be extracted ( learned if aplicable ) from the explanations and theories in the books: *Ash Cloud*, *Wall of Water*, *Incendiary Fog*, *Elemental Confluence*, *Upheaval*, *Lashunta's Life Bubble*, *Elemental Absorption*, *Elemental Confluence*,  *Energy Aegis*, *Elemental Form*, *Elemental Counter*, *Interplanar Teleport*,  *Remake*, *Misty Memory*, *Personal Rain Cloud*, *Airburst*, *Aqueous Blast*, *Planar Seal*, *Elemental Counter*
+
+---
+
+#### **Category Black: Target Analysis & Field Intelligence**
+
+* **"The Shadow Structure: An Internal Codex of Vanguard Hierarchy and Operations"**
+    * **Content:** A top-secret internal manual detailing the true, hidden organizational structure of the Eternal Vanguard, intended only for the highest echelons. It outlines the supreme authority of the High Chronomancer and the Council of Shadows, contrasting them with the public-facing Grand Arbiter and Council of Stewards. The codex explains the functions of covert branches like the Temporal Inquisitors, the Ideological Integrity Department (masquerading as Social Harmony), and the Shadow Watch within Public Safety. It mentions the "Inevitable Hourglass", a highly classified black ops unit composed of elite agents drawn from various departments. This unit handles the most sensitive and deniable operations, operating both within the public administrative structures and the Council of Shadows, ensuring seamless coordination between the Vanguard's public facade and its hidden agenda. The codex includes classified protocols on information management, population surveillance, the management of "tolerated" cults used as fronts – specifically Norgorber's "Secret Societies," Calistria's "Children of the Wasp," Urgathoa's "Eternal Rest Society," Zon-Kuthon's "Shadow Philosophy Circle," and the Cheliax-restricted "Order of the Scourge" (Asmodeus) – and the systematic methods for achieving the Vanguard's ultimate goals: the eradication of divine influence and the manipulation of time.
+
+* **"Report on the Kyonin Anomaly: Subject H-E 01 - Unintended Agelessness and Evasion"**
+    * **Content:** A complete file on the half-elven test subject who escaped. It details the flaw in the early Essence Transference ritual that made her ageless, her observed abilities, and the Vanguard's failed attempts to recapture her. It classifies her as a "loose thread, but an insignificant one". The report notes that the subject may have summoned outsiders, suggesting she may have powers to bypass wards and protections in place for planar interference. It also mentions a flaw in the Sentinels' reporting, where they initially reported killing the subject before later registering her as an intruder; this flaw has since been fixed. The subject escaped on the 15th of Laborshine in the year 2490 AV, during the Eternalight festival when most of the staff was off-duty. The subject's means of escape is unknown, but theories suggest she may have used her planar powers.
+* **"Aethel's Vigil: Pre-Deployment Strategic Assessment & Authorization Protocols"**
+    * **Content:** A logistical report and high-level security directive detailing the transfer and storage of the **Celestial Seed** to its final staging ground: **Aethel's Vigil**, a heavily fortified tower in the Ascendant Court district of Vanguard City. The document outlines the tower's defenses and its suitability for the final ritual. Crucially, it contains the strict authorization protocols for access, which include:
+        * **Temporal Permits:** Access is restricted to specific, narrow time frames synchronized with celestial alignments, requiring a Level 5+ Clearance Permit issued by the Council of Shadows.
+        * **Magical Key Items:** Entry requires two attuned items: a *Chronos Key* amulet and a *Warden's Seal* signet ring, which must be presented simultaneously at the tower's main temporal lock.
+        * **Personnel Roster:** A pre-approved list of personnel who are authorized to be present during the final celestial alignment.
