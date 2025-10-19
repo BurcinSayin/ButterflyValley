@@ -15,7 +15,7 @@
 #### **Category Yellow: Rituals & Arcane Engineering**
 
 * **"Codex Divinus Siphonis: The Theory and Praxis of the Divine Power Siphon"**
-    * **Content:** The master grimoire detailing the complete ***Divine Power Siphon*** ritual. It includes the necessary incantations, sigil sequences, and alchemical components, as well as notes on how to adapt the ritual for deities of different domains.
+    * **Content:** The master grimoire detailing the complete [***Divine Power Siphon***](../Ritual/Divine_Power_Siphon.md) ritual. It includes the necessary incantations, sigil sequences, and alchemical components, as well as notes on how to adapt the ritual for deities of different domains.
 * **"The Elemental Forge: Principles of Planar Energy Channeling and Harmonization"**
     * **Content:** A highly technical manual on the operation of the facility's power source. It contains the **awakening rituals and elemental attunement charts** necessary to bring the forge from its dormant state to full power. A sufficiently skilled spellcaster (Master in one of skills: Nature, Arcana, Occult, Religion) studying this book for one week can learn the following:
         * **Rituals:** *Elemental Servitor* ( 4 versions each have +2 bonus to a single element ).

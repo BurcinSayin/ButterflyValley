@@ -45,6 +45,7 @@
     * [Spark of the Fallen Star](Equipment/Spark_of_Fallen_Star.md)
     * [Shard of the Unyielding Stand](Equipment/Unyielding_Stand.md)
     * [Secret Research Materials](Equipment/Research_Materials.md)
+    * [Celestial Seed](Equipment/Celestial_Seed.md)
 
 * Missions
     * [Mission 2 Briefing](Quests/Mission2/Briefing.md)
@@ -66,4 +67,5 @@
     * [Eternal Unity](Ritual/Eternal_Unity.md)
     * [Temporal Jump](Ritual/Temporal_Jump.md)
     * [Divine Usurpation](Ritual/Divine_Usurpation.md)
+    * [Divine Power Siphon](Ritual/Divine_Power_Siphon.md)
 

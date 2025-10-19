@@ -1,11 +1,11 @@
 # Divine Power Siphon
-*Unique Occult Ritual 10*
-**Traditions** occult
-**Cast** 1 day; **Cost** rare incense and offerings worth 10,000 gp;
+*Unique Occult Ritual 10*\
+**Traditions** occult\
+**Cast** 1 day; **Cost** rare incense and offerings worth 10,000 gp;\
 **Secondary Casters** 5
-**Primary Check** Occultism (legendary); **Secondary Checks** Religion, Arcana, Medicine
-**Range** 1 mile;
-**Targets** one dead or weakened deity whose portfolio is within 1 mile
+**Primary Check** Occultism (legendary); **Secondary Checks** Religion, Arcana, Medicine\
+**Range** 1 mile;\
+**Targets** one dead or weakened deity whose portfolio is within 1 mile\
 **Duration** permanent
 
 This blasphemous ritual allows the casters to siphon the raw divine power of a dead or severely weakened deity. The harvested essence is not meant for granting unique abilities to a select few, but rather to be stored in specialized arcane repositories. From there, it can be distributed on a mass scale to the Eternal Vanguard's faithful, granting them the ability to cast divine spells. It requires access to an area that was strongly aligned to the deity's portfolio.
