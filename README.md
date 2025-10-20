@@ -68,4 +68,5 @@
     * [Temporal Jump](Ritual/Temporal_Jump.md)
     * [Divine Usurpation](Ritual/Divine_Usurpation.md)
     * [Divine Power Siphon](Ritual/Divine_Power_Siphon.md)
+    * [Essence Transference](Ritual/Essence_Transference.md)
 
