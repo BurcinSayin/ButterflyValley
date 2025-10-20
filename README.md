@@ -24,6 +24,7 @@
 * People
     * [The Legacy Of Rose](NPC/The_Legacy_of_Rose.md)
     * [Crimson Relic Hunters](NPC/Crimson_Relic_Hunters.md)
+    * [Caelus Lyrion](NPC/Caelus_Lyrion.md)
 * Organizations
     * [Butterfly Valley](Organisation/Butterfly_Valley/Info.md)
         * [Bastion Governance](Organisation/Butterfly_Valley/Bastion_Governance.md)
