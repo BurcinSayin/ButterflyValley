@@ -1,7 +1,7 @@
 **TEMPORAL RESISTANCE INTELLIGENCE REPORT**
 
-**CLASSIFICATION:** BASTION LEVEL 2 (EYES ONLY - COUNCIL OF TIME)\
-**SUBJECT:** Mission 5 Debrief & Resultant Timeline Analysis (Post-Intervention Kyonin Situation)\
+**CLASSIFICATION:** Temporal Resistance Members ONLY\
+**SUBJECT:** Nightingale's Thorn Debrief & Resultant Timeline Analysis (Post-Intervention Kyonin Situation)\
 **DATE:** Current Cycle, 4724 AV Equivalent\
 **COMPILED BY:** Office of the Chronicler, Temporal Resistance Council\
 **SOURCES:** Temporal Resistance Field Operative Post-Mission Debriefs, Liberators' Dawn Network Intelligence (Kyonin Cell & Ustalav Monitoring), Knights of Lastwall Liaison Reports (Regional Stability Assessment), Bastion Security Post-Mission Analysis.
@@ -11,7 +11,7 @@ Operation Nightingale's Thorn has concluded. Operative intervention successfully
 
 ***
 **2. DISTANT PAST ALTERATIONS (PRE-VANGUARD CONSOLIDATION ERA):**
-*Intelligence confirms significant deviations originating centuries prior to current EV dominance:*
+*Intelligence confirms significant deviations originating centuries prior to current total EV dominance:*
 
 * **Subject "Milani":** Records indicate the subject escaped the Celestial Lens facility circa 2490 AV. She subsequently became a folk hero among common-born elves during the demonic incursions led by Treerazer (commencing approx. 2560 AV). Following the return of Sovyrian elves (approx. 2632 AV), Milani advocated resistance against EV influence, leading to the formation of precursor organizations to modern elven independence movements (Winter Council, Lantern Bearers). She later left Kyonin after the formal EV-Kyonin alliance against Treerazer was established. Field reports confirm a later reappearance where Milani intercepted an EV convoy carrying sensitive cargo (distinct from the Celestial Seed) originating from the mothballed Celestial Lens facility, subsequently transporting the cargo to the Ustalav Administrative Zone.
 * **Treerazer & EV Operations:** Treerazer's discovery of Kyonin (approx. 2497 AV) and subsequent invasion (approx. 2560 AV) proceeded. However, EV secret operations in Kyonin ceased around 2530 AV due to this demonic activity, coinciding with the transfer of the Celestial Seed artifact to Aethel's Vigil and the mothballing of the Celestial Lens lab.
