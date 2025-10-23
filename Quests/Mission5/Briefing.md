@@ -2,7 +2,7 @@
 
 **Source:** Temporal Resistance Command // Eyes-Only for Field Operatives
 
-**Date:** [Insert Current In-Game Date]
+**Date:** 4714 AV 
 
 **Mission Code:** Nightingale's Thorn
 
@@ -17,7 +17,7 @@ Further analysis by our own temporal researchers, cross-referencing Vanguard act
 
 * **Primary:**
     * Infiltrate the Veridian Watch settlement to gather initial intelligence on supply movements and personnel connected to the Tanglebriar defense line.
-    * Identify the nature and precise location of the suspected secret Vanguard research facility (Codename: "Nightingale's Thorn," presumed to be at or near Thorn's End Fortress).
+    * Identify the nature and precise location of the suspected secret Vanguard research facility.
     * Ascertain the purpose of this covert facility and the nature of any research being conducted, with a particular focus on temporal, arcane, or bio-magical experimentation.
 * **Secondary:**
     * Identify any key Vanguard personnel involved in the covert operation.
@@ -46,8 +46,8 @@ Further analysis by our own temporal researchers, cross-referencing Vanguard act
 * **Information Control:** The Vanguard excels at information suppression. Expect local knowledge to be limited or heavily curated.
 
 **6. Extraction:**
-Standard temporal marker protocols apply. Emergency extraction beacons are to be used only in dire circumstances.
+Standard temporal return protocols apply.
 
-**Final Directive:** The nature of Vanguard's interest in such a dangerous and remote Kyonin location warrants thorough investigation. Determine the truth behind these supply inconsistencies and uncover the secrets of "Nightingale's Thorn." The integrity of the timeline may depend on it.
+**Final Directive:** The nature of Vanguard's interest in such a dangerous and remote Kyonin location warrants thorough investigation. Determine the truth behind these supply inconsistencies and uncover the secrets of possible Vanguard research facility. The integrity of the timeline may depend on it.
 
 **End of Briefing.**

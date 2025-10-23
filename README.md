@@ -63,6 +63,9 @@
             * [Vanguard Order](Quests/Mission4/handouts/Order.md)
             * [Personal Notes of Director Alaric Valentin](Quests/Mission4/handouts/Personal_notes.md)
             * [Vision in the Silent Glade](Quests/Mission4/handouts/Vision.md)
+    * *Mission 5 Code Name: Nightingale's Thorn*
+        * [Briefing](Quests/Mission5/Briefing.md)
+        * [Report](Quests/Mission5/Report.md)
 
 * Rituals
     * [Eternal Unity](Ritual/Eternal_Unity.md)
