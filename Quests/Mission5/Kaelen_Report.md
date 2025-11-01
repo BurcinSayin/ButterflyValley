@@ -63,6 +63,7 @@ This indicates an extreme psychic defense mechanism and raises serious questions
 * **Internal Dissociation Barrier:** Even if contact with "The Speaker" state were established, the complete lack of memory transfer to other alters means the information cannot be accessed through them later.
 The Host ("Kaelen") and other accessible alters have no recollection or understanding of what occurs during "Speaker" manifestations.
 * **Cessation of Probing:** Following the Mind Reading Incident and the confirmation of "The Speaker's" isolation, all direct probing attempts have been suspended indefinitely due to the high risk to operatives and the low probability of retrieving usable (or even coherent) intelligence.
+
 ---
 
 **5. ASSESSMENT & RECOMMENDATIONS:**
