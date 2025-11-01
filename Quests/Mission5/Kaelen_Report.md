@@ -52,8 +52,19 @@ However, the period during which "The Speaker" manifests is a complete amnestic 
 
 ---
 
-**4.
-COMMUNICATION & PROBING ATTEMPTS:**
+**3A. EXAMPLES OF RECORDED "SPEAKER" STATE PRONOUNCEMENTS:**
+
+* *"The hollow mask... it asks with a forked tongue... it seeks the lock but holds no key... it watches... *it watches*..."*
+* *"The spiral unwinds where the angle sleeps... seven whispers breach the gate... silver rose burns cold..."*
+* *"No... not a circle... it is a falling line... the ninth point bleeds into the void..."*
+* *"They drink the light but cannot see the shadow it casts behind them... The key is the door, the door is the key..."*
+* *"Silence... silence... the silent watchers... they see the fracture in the glass... the color... the color is wrong..."*
+* *"The center cannot hold... the star-fish eats the eye... no... it must be... before... before... the seventh echo..."*
+* *"Questions like spiders... weaving... weaving... weaving a web to catch the truth... but the truth has... *angles*... it will not be caught in a soft-spun lie..."*
+
+---
+
+**4. COMMUNICATION & PROBING ATTEMPTS:**
 Accessing any potentially critical anomalous knowledge associated with the "Speaker" state remains effectively impossible, hazardous, and of dubious value.
 * **Host Resistance:** The primary "Kaelen" personality exhibits extreme, pervasive paranoia and distrust towards all observed individuals, preventing rapport necessary for controlled interaction.
 * **Failed Probing Attempts:** Multiple attempts via charm and mind-reading magic have failed due to Host resistance or triggering of defensive alters.
