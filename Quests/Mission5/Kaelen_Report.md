@@ -3,7 +3,7 @@
 **CLASSIFICATION:** Temporal Resistance EYES ONLY\
 **SUBJECT:** Kaelen Aetherion (Asset Designation: "Fractured Conduit")\
 **DATE:** Current Cycle, Post-Assessment Interval\
-**COMPILED BY:** Harmony Vale, Chief Medical Officer, with input from Bastion Observation Team 1 & Mental Assessment Unit 2
+**COMPILED BY:** Harmony Vale, Chief Medical Officer, with input from Bastion Observation Team 1 & Mental Assessment Unit 2\
 **CROSS-REFERENCED SOURCES:** Initial Asset Intake Records, Bastion City Observation Logs, Post-Extraction Psychiatric Evaluation Reports, Mental Assessment Unit Incident Report.
 
 ---
@@ -34,14 +34,13 @@ Field observation and direct assessment have identified the following states:
 * **"The Warden" (Protector):** Cold, ruthless, tactical survivalist. Emerges in response to immediate physical threats or pain. Handles combat/survival; highly suspicious. *Shares memory/awareness with Kaelen, Aether, and Broker*.
 * **"Aether" (Trauma Holder):** Terrified child personality, embodies the horror of the family's destruction.
 Surfaces during extreme pain or via specific sensory triggers linked to the trauma ( intense smell of smoke or burning, intense Heat etc. ). Communicates non-verbally or through fragmented whispers/whimperings. *Shares memory/awareness with Kaelen, Warden, and Broker*.
-* **"The Speaker" (Anomalous Oracle State):** A state characterized by inhuman detachment.
-When manifest, Aetherion's voice becomes a sibilant, multi-layered whisper, uttering a chaotic, undifferentiated stream of cryptic phrases, geometric statements, and apparent nonsense, with what *might* be prophetic fragments buried within. Sifting any potential truth from the sheer volume of incoherent data is, at present, impossible.
-The origin of these pronouncements is **unclear**; they could represent a profound fragmentation of the subject's own shattered intellect, or potentially indicate a garbled influence from an external consciousness, such as the Outer Gods hypothesized to be linked to his initial trauma.
+* **"The Speaker" (Anomalous Oracle State):** A state characterized by inhuman detachment. When manifest, Aetherion's voice becomes a sibilant, multi-layered whisper, uttering a chaotic, undifferentiated stream of cryptic phrases, geometric statements, and apparent nonsense, with what *might* be prophetic fragments buried within. Sifting any potential truth from the sheer volume of incoherent data is, at present, impossible.\
+The origin of these pronouncements is **unclear**; they could represent a profound fragmentation of the subject's own shattered intellect, or potentially indicate a garbled influence from an external consciousness, such as the Outer Gods hypothesized to be linked to his initial trauma.\
 This latter possibility, while unconfirmed, gained credence following the hazardous "Mind Reading Incident" where direct mental contact resulted in catastrophic memory loss for the operative involved, suggesting a powerful, potentially non-native psychic defense.
 In this state, Aetherion appears completely disconnected from immediate reality.
-    * **Triggers:** Manifestation appears linked to stimuli resonating with the origins of Aetherion's fractured psyche.
-    Standard catalysts such as observing or partaking specific rituals ( conceptual or actual ), observing or partaking medidation, forceful mental intrusion have been observed to occasionally precede a shift, though results are inconsistent and often require significant intensity. Notably, the most consistently observed and potent trigger appears to be direct exposure to, or observation of, significant temporal or planar instability. Proximity to temporal storms within the Bastion, interaction with objects radiating temporal flux, or witnessing events involving planar breaches have reliably induced the emergence of "The Speaker" state. The precise mechanism is unclear, but this correlation is statistically significant based on logged incidents.
-* **Internal Awareness:** Crucially, this state appears completely isolated. No other identified alter retains memories, thoughts, feelings, or knowledge from periods when "The Speaker" is manifest.
+    * **Triggers:** Manifestation appears linked to stimuli resonating with the origins of Aetherion's fractured psyche. Standard catalysts such as observing or partaking specific rituals ( conceptual or actual ), observing or partaking medidation, forceful mental intrusion have been observed to occasionally precede a shift, though results are inconsistent and often require significant intensity.\
+    Notably, the most consistently observed and potent trigger appears to be direct exposure to, or observation of, significant temporal or planar instability. Proximity to temporal storms within the Bastion, interaction with objects radiating temporal flux, or witnessing events involving planar breaches have reliably induced the emergence of "The Speaker" state. The precise mechanism is unclear, but this correlation is statistically significant based on logged incidents.
+    * **Internal Awareness:** Crucially, this state appears completely isolated. No other identified alter retains memories, thoughts, feelings, or knowledge from periods when "The Speaker" is manifest.
 This period constitutes a complete amnestic gap for all other alters.
 * **"The Broker" (Manipulator):** Charming, eloquent, apparently rational personality.
 Manifests Aetherion family guile. Emerges in complex social situations, negotiations, disagreements or when subtlety is required. Pragmatic and manipulative.
