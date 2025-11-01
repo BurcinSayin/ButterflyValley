@@ -4,7 +4,7 @@
 **SUBJECT:** Kaelen Aetherion (Asset Designation: "Fractured Conduit")\
 **DATE:** Current Cycle, Post-Assessment Interval\
 **COMPILED BY:** Harmony Vale, Chief Medical Officer, with input from Bastion Observation Team 1 & Mental Assessment Unit 2
-**CROSS-REFERENCED SOURCES:** Initial Asset Intake Records, Field Observation Logs, Post-Extraction Psychiatric Evaluation Series, Mental Assessment Unit Incident Report.
+**CROSS-REFERENCED SOURCES:** Initial Asset Intake Records, Field Observation Logs, Post-Extraction Psychiatric Evaluation Series, Mental Assessment Unit Incident Report, Bastion City Monitoring Reports.
 
 ---
 
