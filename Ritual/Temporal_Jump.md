@@ -2,7 +2,7 @@
 **Rare Occult Ritual**
 **Cast:** 1 day;
 **Cost:** rare reagents worth 10,000gp; **Secondary Casters:** 3
-**Primary Check:** Occultism (master); **Secondary Checks:** Arcana, Lore: Chronomancy
+**Primary Check:** Occultism (master); **Secondary Checks:** Arcana, Lore: Chronomancy or related Lore about Jump destination or culture (i.e. Lore:Dwarf if jumping to High Helm City ) with 1 higher difficulty
 **Range:** 10 feet; **Target:** one to six willing creatures with the "Déjà Vu" ability
 **Duration:** varies
 
