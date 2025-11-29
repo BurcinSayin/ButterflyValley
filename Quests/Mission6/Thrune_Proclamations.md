@@ -1,12 +1,25 @@
 # PUBLIC DECREE: THRUNE’S PROCLAMATIONS 📜
 
+### 📅 Date: 5 Wisdomshadow 4715
+
 **A Joint Mandate for Order, Duty, and Prosperity in Kintargo**
 
-By Order of Lord-Mayor **Barzillai Thrune** and in accordance with the principles of the **Eternal Vanguard**, let these proclamations be enacted. These decrees uphold the foundational tenets of the Eternal Vanguard's philosophy: **social welfare, hard work, and justice**. Adherence is required under the penalty of fine or incarceration by the Dottari.
+By Order of Lord-Mayor **Barzillai Thrune** and in accordance with the principles of the **Eternal Vanguard**, let these proclamations be enacted. These decrees uphold the foundational tenets of the Eternal Vanguard's philosophy: **social welfare, hard work, and justice**.
+
+Adherence is required under the penalty of fine or incarceration by the Dottari.
 
 ***
 
-### 📅 Declared: 5 Wisdomshadow 4715
+### ⚠️ NOTICE OF CIVIL PROTECTION: MARTIAL LAW ⚠️
+
+To ensure the **Public Safety** of the citizenry and to root out anarchist elements threatening our **Social Harmony**, Kintargo is hereby placed under **MARTIAL LAW**.
+
+**MANDATORY CURFEW:**
+From the hours of **9:00 p.m. to 6:00 a.m.**, all citizens must remain indoors.
+* Only those bearing valid Vanguard authorization documents or Dottari insignia are permitted on the streets during these hours.
+* Violators will be subject to immediate detainment and "civic realignment" at a Correction Center.
+
+Order is the foundation of freedom. Compliance is your Duty.
 
 ## Proclamation the First: Civic Hygiene and Collective Effort
 All slayers of city pests (defined as doves, mice, and ravens) who present said pests to the Dottari shall be rewarded with a bounty of **1 copper piece**. This mandate supports **Public Safety** and promotes the communal effort of keeping our urban environment clean as an act of duty.
@@ -28,7 +41,7 @@ The right to wear fine embroidered clothing in public is hereafter proscribed to
 ## Proclamation the Fifth: Stewardship of Collective Resources
 **Grain is life!** Should grain be spilled in public, it must be gathered, cleaned, and repackaged within the hour. This decree enforces strict **Resource Management** to the benefit of all citizens.
 * Any person who allows grain to go ungathered after a spillage shall be fined **1 copper piece per grain**.
-* If no attempt is made to gather the grain, the penalty increases to **202 to 400 cp** per pound of grain spilled.
+* If no attempt is made to gather the grain, the penalty increases to **200 to 400 cp** per pound of grain spilled.
 * Failure to pay fines results in **2 to 12 days** of incarceration.
 
 ## Proclamation the Sixth: Readiness for Duty
@@ -44,7 +57,7 @@ The odor and flavor of mint is an abomination to the refined palate. This is a n
 
 ***
 
-### 📅 Declared: 25 Wisdomshadow 4715
+### 📅 Date: 25 Wisdomshadow 4715
 
 ## Proclamation the Eighth
 All nonnative ships’ captains must remain on board their ships and are barred from setting foot on land within Kintargo’s city limits—their crew and agents are free to come and go, but their actions are directly the responsibility of their captains, and any crew caught breaking Kintargan law shall have its punishment visited upon the crew members as well as their captain.
@@ -52,13 +65,13 @@ All nonnative ships’ captains must remain on board their ships and are barred 
 
 ***
 
-### 📅 Declared: 15 Freedomrise 4716
+### 📅 Date: 15 Freedomrise 4716
+
+## **NOTICE: Conclusion of Civic Hygiene Initiative**
+Let it be known that **Proclamation the First** has achieved its goals. The pest population has been reduced to acceptable levels through the diligent work of the citizenry. As such, **Proclamation the First is no longer in effect.** The Dottari will no longer issue bounties for pests. Presenting vermin to Dottari officers will henceforth be considered an act of public disorder.
 
 ## Proclamation the Ninth
 By order of Lord-Mayor Barzillai Thrune, the congress of Hellknights known as the Order of the Torrent is from this day forward stripped of its charter! All of its holdings and possessions are confiscated, its privileges and entitlements revoked, and its members declared outlaws! Steadfast citizens are commanded to turn over those members who have slipped the net of justice!
 
 ## Proclamation the Tenth
 Possession of poetry or prose written by the following authors is hereby forbidden and punishable by a fine of 100 gold pieces or imprisonment: Boswyth the Bard, Charletta d’Vanep, Ghenrail of Vyre, and the anonymous miscreant who calls him- or herself the “Poison Pen of Kintargo.” All documents bearing the writings of these miscreants must be turned over to the Dottari for destruction by sundown.
-
-***
-
