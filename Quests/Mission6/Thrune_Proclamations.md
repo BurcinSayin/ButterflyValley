@@ -71,7 +71,7 @@ All nonnative ships’ captains must remain on board their ships and are barred 
 Let it be known that **Proclamation the First** has achieved its goals. The pest population has been reduced to acceptable levels through the diligent work of the citizenry. As such, **Proclamation the First is no longer in effect.** The Dottari will no longer issue bounties for pests. Presenting vermin to Dottari officers will henceforth be considered an act of public disorder.
 
 ## Proclamation the Ninth
-By order of Lord-Mayor Barzillai Thrune, the congress of Hellknights known as the Order of the Torrent is from this day forward stripped of its charter! All of its holdings and possessions are confiscated, its privileges and entitlements revoked, and its members declared outlaws! Steadfast citizens are commanded to turn over those members who have slipped the net of justice!
+By order of Lord-Mayor Barzillai Thrune, the congress of Vanguard Knights known as the Order of the Torrent is from this day forward stripped of its charter! All of its holdings and possessions are confiscated, its privileges and entitlements revoked, and its members declared outlaws! Steadfast citizens are commanded to turn over those members who have slipped the net of justice!
 
 ## Proclamation the Tenth
 Possession of poetry or prose written by the following authors is hereby forbidden and punishable by a fine of 100 gold pieces or imprisonment: Boswyth the Bard, Charletta d’Vanep, Ghenrail of Vyre, and the anonymous miscreant who calls him- or herself the “Poison Pen of Kintargo.” All documents bearing the writings of these miscreants must be turned over to the Dottari for destruction by sundown.
