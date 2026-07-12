@@ -66,6 +66,9 @@
     * *Mission 5 Code Name: Nightingale's Thorn*
         * [Briefing](Quests/Mission5/Briefing.md)
         * [Report](Quests/Mission5/Report.md)
+    * *Mission 8 Code Name: Lust*
+        * *Handouts*
+            * [Absalom Gazette 4726](Quests/Mission8/handouts/Absalom_Gazette_4726.md)
 
 * Rituals
     * [Eternal Unity](Ritual/Eternal_Unity.md)
