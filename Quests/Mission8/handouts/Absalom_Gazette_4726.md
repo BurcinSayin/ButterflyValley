@@ -3,7 +3,7 @@
 
 ---
 
-## 🗞️ CITYWIDE HEADLINES
+## HEADLINES
 
 ### TERRIFYING MAGICS AND CHAOS AT THE ANTLER LODGE!
 **Eastgate** — Chaos erupted early yesterday at the **Antler Lodge**, a well-known temple of Erastil currently serving as a convalescent ward for victims of the ongoing "children's fever." Witnesses report that shortly after a visit from Pharasmin High Priest Morvan, a horrifying display of dark magic—a grotesque wall of living flesh and writhing tentacles—suddenly blocked the ward's corridors.
@@ -20,10 +20,6 @@ Adding fuel to the fire, the Starwatch has quietly dispatched specialized patrol
 The disturbance was contained before any sign of it reached the street outside, and Lord Firandivar has officially declined to comment, citing internal diplomatic affairs. However, the swift lockdown has fueled ongoing speculation regarding the secretive nature of the Thassilonian mission here in the city.
 
 Speaking of the Thassilonian Embassy, eagle-eyed night owls report that none other than the Irorium’s darling champion, **Atrandi Goldheart**, has been spotted slipping away from the embassy grounds at truly scandalous hours. Has the popular gladiator found a wealthy new patron among the diplomats, or is a forbidden romance blooming behind those heavily warded gates? Some arena gossips are spinning a far wilder tale: that the gladiator is caught in a scandalous love triangle with a Thassilonian official and the mysterious, fully-grown woman who materialized from the smoke! Bookies are already taking bets on whether the embassy's recent "internal lockdown" was merely a smokescreen for a magical lovers' quarrel!
-
----
-
-## 🌆 DAILY DISPATCHES
 
 ### CLINICS OVERFLOW IN THE PUDDLES
 **The Puddles** — City physicians issued an emergency advisory at dawn regarding a severe fever spreading rapidly through the crowded slums of The Puddles. Concurrently, the mysterious "children's disease" continues to puzzle clerics across the Inner Sea. Charitable wards and Primarch's-name almshouses are currently operating at maximum capacity.
