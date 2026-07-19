@@ -1,5 +1,5 @@
 # 🌟 The Sennight Star 🌟
-*Absalom’s Most Daring Broadsheet — Evening Edition, 4726 AR*
+*Absalom’s Most Daring Broadsheet — Morning Edition, 4726 AR*
 
 ---
 

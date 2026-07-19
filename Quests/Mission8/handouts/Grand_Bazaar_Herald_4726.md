@@ -1,5 +1,5 @@
 # ⚖️ The Grand Bazaar Herald ⚖️
-*The Coin's Foremost Financial Broadside — Midday Edition, 4726 AR*
+*The Coin's Foremost Financial Broadside — Morning Edition, 4726 AR*
 
 ---
 
