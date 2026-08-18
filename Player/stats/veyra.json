@@ -1,0 +1,583 @@
+    {
+        "success": true,
+        "build": {
+            "name": "Veyra Drosk",
+            "class": "Rogue",
+            "dualClass": null,
+            "level": 11,
+            "xp": 0,
+            "ancestry": "Human",
+            "heritage": "Versatile Human",
+            "background": "Deja Vu (Society) Dex Cha",
+            "alignment": "N",
+            "gender": "Not set",
+            "age": "Not set",
+            "deity": "Not set",
+            "size": 2,
+            "sizeName": "Medium",
+            "keyability": "dex",
+            "languages": [
+                "None selected"
+            ],
+            "rituals": [],
+            "resistances": [],
+            "inventorMods": [],
+            "abilities": {
+                "str": 12,
+                "dex": 20,
+                "con": 16,
+                "int": 14,
+                "wis": 10,
+                "cha": 19,
+                "breakdown": {
+                    "ancestryFree": [
+                        "Dex",
+                        "Cha"
+                    ],
+                    "ancestryBoosts": [],
+                    "ancestryFlaws": [],
+                    "backgroundBoosts": [
+                        "Dex",
+                        "Cha"
+                    ],
+                    "classBoosts": [
+                        "Dex"
+                    ],
+                    "mapLevelledBoosts": {
+                        "1": [
+                            "Cha",
+                            "Dex",
+                            "Con",
+                            "Int"
+                        ],
+                        "10": [
+                            "Dex",
+                            "Cha",
+                            "Con",
+                            "Int"
+                        ],
+                        "5": [
+                            "Dex",
+                            "Cha",
+                            "Con",
+                            "Str"
+                        ]
+                    }
+                }
+            },
+            "attributes": {
+                "ancestryhp": 8,
+                "classhp": 8,
+                "bonushp": 0,
+                "bonushpPerLevel": 1,
+                "speed": 25,
+                "speedBonus": 0
+            },
+            "proficiencies": {
+                "classDC": 4,
+                "perception": 6,
+                "fortitude": 4,
+                "reflex": 6,
+                "will": 4,
+                "heavy": 0,
+                "medium": 0,
+                "light": 2,
+                "unarmored": 2,
+                "advanced": 0,
+                "martial": 4,
+                "simple": 4,
+                "unarmed": 4,
+                "castingArcane": 0,
+                "castingDivine": 0,
+                "castingOccult": 0,
+                "castingPrimal": 0,
+                "acrobatics": 6,
+                "arcana": 0,
+                "athletics": 2,
+                "crafting": 2,
+                "deception": 6,
+                "diplomacy": 6,
+                "intimidation": 2,
+                "medicine": 2,
+                "nature": 0,
+                "occultism": 2,
+                "performance": 2,
+                "religion": 0,
+                "society": 2,
+                "stealth": 6,
+                "survival": 2,
+                "thievery": 6,
+                "piloting": 0,
+                "computers": 0
+            },
+            "mods": {
+                "Acrobatics": {
+                    "Item Bonus": 1
+                },
+                "Medicine": {
+                    "Item Bonus": 1
+                },
+                "Stealth": {
+                    "Item Bonus": 1
+                },
+                "Fortitude": {
+                    "Item Bonus": 1
+                },
+                "Reflex": {
+                    "Item Bonus": 1
+                },
+                "Will": {
+                    "Item Bonus": 1
+                }
+            },
+            "feats": [
+                [
+                    "Dubious Knowledge",
+                    null,
+                    "Awarded Feat",
+                    1
+                ],
+                [
+                    "Versatile Human",
+                    null,
+                    "Heritage",
+                    1,
+                    "Heritage Feat",
+                    "parentChoice",
+                    null
+                ],
+                [
+                    "Incredible Initiative",
+                    null,
+                    "General Feat",
+                    1,
+                    "Heritage Featversatile heritage",
+                    "childChoice",
+                    "Heritage Feat"
+                ],
+                [
+                    "Lie to Me",
+                    null,
+                    "Skill Feat",
+                    1,
+                    "Skill Feat 1",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Nimble Dodge",
+                    null,
+                    "Class Feat",
+                    1,
+                    "Rogue Feat 1",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Natural Ambition",
+                    null,
+                    "Ancestry Feat",
+                    1,
+                    "Human Feat 1",
+                    "parentChoice",
+                    null
+                ],
+                [
+                    "Tumble Behind",
+                    null,
+                    "Class Feat",
+                    1,
+                    "Natural Ambition Class FeatHuman Feat 1",
+                    "childChoice",
+                    "Human Feat 1"
+                ],
+                [
+                    "Eyes of the City",
+                    null,
+                    "Skill Feat",
+                    2,
+                    "Skill Feat 2",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Mobility",
+                    null,
+                    "Class Feat",
+                    2,
+                    "Rogue Feat 2",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Thorough Search",
+                    null,
+                    "General Feat",
+                    3,
+                    "General Feat 3",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Slippery Prey",
+                    null,
+                    "Skill Feat",
+                    3,
+                    "Skill Feat 3",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Half-Truths",
+                    null,
+                    "Skill Feat",
+                    4,
+                    "Skill Feat 4",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Predictable!",
+                    null,
+                    "Class Feat",
+                    4,
+                    "Rogue Feat 4",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Cat Fall",
+                    null,
+                    "Skill Feat",
+                    5,
+                    "Skill Feat 5",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Haughty Obstinacy",
+                    null,
+                    "Ancestry Feat",
+                    5,
+                    "Human Feat 5",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "No Cause for Alarm",
+                    null,
+                    "Skill Feat",
+                    6,
+                    "Skill Feat 6",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Skirmish Strike",
+                    null,
+                    "Class Feat",
+                    6,
+                    "Rogue Feat 6",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Slippery Secrets",
+                    null,
+                    "General Feat",
+                    7,
+                    "General Feat 7",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Doublespeak",
+                    null,
+                    "Skill Feat",
+                    7,
+                    "Skill Feat 7",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Confabulator",
+                    null,
+                    "Skill Feat",
+                    8,
+                    "Skill Feat 8",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Sly Striker",
+                    null,
+                    "Class Feat",
+                    8,
+                    "Rogue Feat 8",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Shameless Request",
+                    null,
+                    "Skill Feat",
+                    9,
+                    "Skill Feat 9",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Sense Allies",
+                    null,
+                    "Ancestry Feat",
+                    9,
+                    "Human Feat 9",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Foil Senses",
+                    null,
+                    "Skill Feat",
+                    10,
+                    "Skill Feat 10",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Sneak Adept",
+                    null,
+                    "Class Feat",
+                    10,
+                    "Rogue Feat 10",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Toughness",
+                    null,
+                    "General Feat",
+                    11,
+                    "General Feat 11",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Kip Up",
+                    null,
+                    "Skill Feat",
+                    11,
+                    "Skill Feat 11",
+                    "standardChoice",
+                    null
+                ]
+            ],
+            "specials": [
+                "Scoundrel Racket",
+                "Sneak Attack",
+                "Surprise Attack",
+                "Deny Advantage",
+                "Weapon Tricks",
+                "Evasive Reflexes",
+                "Perception Mastery",
+                "Weapon Specialization",
+                "Debilitating Strike",
+                "Rogue Resilience",
+                "Rogue Expertise",
+                "Versatile Human"
+            ],
+            "lores": [
+                [
+                    "Eternal Vanguard",
+                    2
+                ]
+            ],
+            "equipmentContainers": {},
+            "equipment": [
+                [
+                    "Healing Potion (Moderate)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Antidote (Lesser)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Darkvision Elixir (Moderate)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Invisibility Potion",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Obsidian Goggles",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Elmas K\u00fcpe",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Healer's Gloves",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Cloak of Illusions",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Cheetah's Elixir (Lesser)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Arboreal Boots",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Ring of Sustenance",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Healing Potion (Lesser)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Masquerade Scarf (Greater)",
+                    1,
+                    "Invested"
+                ]
+            ],
+            "specificProficiencies": {
+                "trained": [],
+                "expert": [],
+                "master": [],
+                "legendary": []
+            },
+            "weapons": [
+                {
+                    "name": "Hatchet",
+                    "qty": 1,
+                    "prof": "martial",
+                    "die": "d6",
+                    "pot": 1,
+                    "str": "striking",
+                    "mat": null,
+                    "display": "+1 Striking Returning Hatchet",
+                    "runes": [
+                        "Returning"
+                    ],
+                    "damageType": "S",
+                    "attack": 17,
+                    "damageBonus": 3,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Dagger",
+                    "qty": 1,
+                    "prof": "simple",
+                    "die": "d4",
+                    "pot": 1,
+                    "str": "striking",
+                    "mat": null,
+                    "display": "+1 Striking Returning Dagger",
+                    "runes": [
+                        "Returning"
+                    ],
+                    "damageType": "P",
+                    "attack": 21,
+                    "damageBonus": 3,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Rapier",
+                    "qty": 1,
+                    "prof": "martial",
+                    "die": "d6",
+                    "pot": 1,
+                    "str": "striking",
+                    "mat": null,
+                    "display": "+1 Striking Rapier",
+                    "runes": [],
+                    "damageType": "P",
+                    "attack": 21,
+                    "damageBonus": 3,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Shortbow",
+                    "qty": 1,
+                    "prof": "martial",
+                    "die": "d6",
+                    "pot": 0,
+                    "str": "",
+                    "mat": null,
+                    "display": "Shortbow",
+                    "runes": [],
+                    "damageType": "P",
+                    "attack": 20,
+                    "damageBonus": 2,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                }
+            ],
+            "money": {
+                "cp": 0,
+                "sp": 0,
+                "gp": 12,
+                "pp": 0
+            },
+            "armor": [
+                {
+                    "name": "Leather Armor",
+                    "qty": 1,
+                    "prof": "light",
+                    "pot": 1,
+                    "res": "resilient",
+                    "mat": null,
+                    "display": "+1 Armor Resilient Shadow Leather",
+                    "worn": true,
+                    "runes": [
+                        "Shadow"
+                    ],
+                    "grade": ""
+                }
+            ],
+            "spellCasters": [],
+            "focusPoints": 0,
+            "focus": {},
+            "formula": [],
+            "acTotal": {
+                "acProfBonus": 13,
+                "acAbilityBonus": 4,
+                "acItemBonus": 2,
+                "acTotal": 29,
+                "shieldBonus": null
+            },
+            "pets": [],
+            "familiars": []
+        }
+    }

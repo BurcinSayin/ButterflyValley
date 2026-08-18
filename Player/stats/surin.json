@@ -1,0 +1,828 @@
+    {
+        "success": true,
+        "build": {
+            "name": "Surin Thell'quassir",
+            "class": "Fighter",
+            "dualClass": null,
+            "level": 12,
+            "xp": 0,
+            "ancestry": "Elf",
+            "heritage": "Ancient Elf",
+            "background": "Scout",
+            "alignment": "N",
+            "gender": "Male",
+            "age": "100",
+            "deity": "Not set",
+            "size": 2,
+            "sizeName": "Medium",
+            "keyability": "dex",
+            "languages": [
+                "Common",
+                "Elven",
+                "Fey"
+            ],
+            "rituals": [],
+            "resistances": [
+                "electricity 5"
+            ],
+            "inventorMods": [],
+            "abilities": {
+                "str": 18,
+                "dex": 20,
+                "con": 14,
+                "int": 12,
+                "wis": 18,
+                "cha": 10,
+                "breakdown": {
+                    "ancestryFree": [
+                        "Wis"
+                    ],
+                    "ancestryBoosts": [
+                        "Dex",
+                        "Int"
+                    ],
+                    "ancestryFlaws": [
+                        "Con"
+                    ],
+                    "backgroundBoosts": [
+                        "Dex",
+                        "Str"
+                    ],
+                    "classBoosts": [
+                        "Dex"
+                    ],
+                    "mapLevelledBoosts": {
+                        "1": [
+                            "Str",
+                            "Dex",
+                            "Con",
+                            "Wis"
+                        ],
+                        "10": [
+                            "Dex",
+                            "Str",
+                            "Con",
+                            "Wis"
+                        ],
+                        "5": [
+                            "Str",
+                            "Dex",
+                            "Con",
+                            "Wis"
+                        ]
+                    }
+                }
+            },
+            "attributes": {
+                "ancestryhp": 6,
+                "classhp": 10,
+                "bonushp": 0,
+                "bonushpPerLevel": 1,
+                "speed": 30,
+                "speedBonus": 0
+            },
+            "proficiencies": {
+                "classDC": 4,
+                "perception": 6,
+                "fortitude": 6,
+                "reflex": 4,
+                "will": 4,
+                "heavy": 4,
+                "medium": 4,
+                "light": 4,
+                "unarmored": 4,
+                "advanced": 2,
+                "martial": 4,
+                "simple": 4,
+                "unarmed": 4,
+                "castingArcane": 4,
+                "castingDivine": 0,
+                "castingOccult": 0,
+                "castingPrimal": 2,
+                "acrobatics": 2,
+                "arcana": 2,
+                "athletics": 2,
+                "crafting": 2,
+                "deception": 0,
+                "diplomacy": 0,
+                "intimidation": 0,
+                "medicine": 2,
+                "nature": 2,
+                "occultism": 0,
+                "performance": 0,
+                "religion": 0,
+                "society": 0,
+                "stealth": 6,
+                "survival": 4,
+                "thievery": 6,
+                "piloting": 0,
+                "computers": 0
+            },
+            "mods": {
+                "Arcana": {
+                    "Item Bonus": 2
+                },
+                "Medicine": {
+                    "Item Bonus": 1
+                },
+                "Stealth": {
+                    "Item Bonus": 1
+                }
+            },
+            "feats": [
+                [
+                    "Shield Block",
+                    null,
+                    "Awarded Feat",
+                    1
+                ],
+                [
+                    "Forager",
+                    null,
+                    "Awarded Feat",
+                    1
+                ],
+                [
+                    "Additional Lore",
+                    null,
+                    "Awarded Feat",
+                    1
+                ],
+                [
+                    "Ancient Elf",
+                    null,
+                    "Heritage",
+                    1,
+                    "Heritage Feat",
+                    "parentChoice",
+                    null
+                ],
+                [
+                    "Ranger Dedication",
+                    null,
+                    "Archetype Feat",
+                    1,
+                    "Heritage FeatMultitalented",
+                    "childChoice",
+                    "Heritage Feat"
+                ],
+                [
+                    "Point Blank Stance",
+                    null,
+                    "Class Feat",
+                    1,
+                    "Fighter Feat 1",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Elven Lore",
+                    null,
+                    "Ancestry Feat",
+                    1,
+                    "Elf Feat 1",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Skill Training",
+                    "Thievery",
+                    "Skill Feat",
+                    2,
+                    "Skill Feat 2",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Lightning Swap",
+                    null,
+                    "Class Feat",
+                    2,
+                    "Fighter Feat 2",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Toughness",
+                    null,
+                    "General Feat",
+                    3,
+                    "General Feat 3",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Pickpocket",
+                    null,
+                    "Skill Feat",
+                    4,
+                    "Skill Feat 4",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Basic Hunter's Trick",
+                    null,
+                    "Class Feat",
+                    4,
+                    "Fighter Feat 4",
+                    "parentChoice",
+                    null
+                ],
+                [
+                    "Quick Draw",
+                    null,
+                    "Ranger Feat",
+                    4,
+                    "ARCHETYPE_Basic Hunter's TrickFighter Feat 4",
+                    "childChoice",
+                    "Fighter Feat 4"
+                ],
+                [
+                    "Elven Weapon Familiarity",
+                    null,
+                    "Ancestry Feat",
+                    5,
+                    "Elf Feat 5",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Wary Disarmament",
+                    null,
+                    "Skill Feat",
+                    6,
+                    "Skill Feat 6",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Advanced Hunter's Trick",
+                    null,
+                    "Class Feat",
+                    6,
+                    "Fighter Feat 6",
+                    "parentChoice",
+                    null
+                ],
+                [
+                    "Hunted Shot",
+                    null,
+                    "Ranger Feat",
+                    6,
+                    "ARCHETYPE_Advanced Hunter's TrickFighter Feat 6",
+                    "childChoice",
+                    "Fighter Feat 6"
+                ],
+                [
+                    "Ancestral Paragon",
+                    null,
+                    "General Feat",
+                    7,
+                    "General Feat 7",
+                    "parentChoice",
+                    null
+                ],
+                [
+                    "Otherworldly Magic",
+                    null,
+                    "Ancestry Feat",
+                    7,
+                    "Ancestral Paragon FeatGeneral Feat 7",
+                    "childChoice",
+                    "General Feat 7"
+                ],
+                [
+                    "Quick Unlock",
+                    null,
+                    "Skill Feat",
+                    8,
+                    "Skill Feat 8",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Eldritch Archer Dedication",
+                    null,
+                    "Class Feat",
+                    8,
+                    "Fighter Feat 8",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Blind-Fight",
+                    null,
+                    "Fighter Feat",
+                    9,
+                    "Combat Flexibility",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Wildborn Magic",
+                    null,
+                    "Ancestry Feat",
+                    9,
+                    "Elf Feat 9",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Foil Senses",
+                    null,
+                    "Skill Feat",
+                    10,
+                    "Skill Feat 10",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Basic Eldritch Archer Spellcasting",
+                    null,
+                    "Class Feat",
+                    10,
+                    "Fighter Feat 10",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Untrained Improvisation",
+                    null,
+                    "General Feat",
+                    11,
+                    "General Feat 11",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Swift Sneak",
+                    null,
+                    "Skill Feat",
+                    12,
+                    "Skill Feat 12",
+                    "standardChoice",
+                    null
+                ],
+                [
+                    "Expert Eldritch Archer Spellcasting",
+                    null,
+                    "Class Feat",
+                    12,
+                    "Fighter Feat 12",
+                    "standardChoice",
+                    null
+                ]
+            ],
+            "specials": [
+                "Reactive Strike",
+                "Low-Light Vision",
+                "Hunt Prey",
+                "Bravery",
+                "Bow",
+                "Battlefield Surveyor",
+                "Weapon Specialization",
+                "Eldritch Shot",
+                "Arcane",
+                "Combat Flexibility",
+                "Battle Hardened",
+                "Armor Expertise",
+                "Fighter Expertise",
+                "Ancient Elf"
+            ],
+            "lores": [
+                [
+                    "Ethernal Vanguard",
+                    0
+                ],
+                [
+                    "One Terrain",
+                    2
+                ],
+                [
+                    "Elf",
+                    6
+                ]
+            ],
+            "equipmentContainers": {
+                "69a54c32-d278-475d-b78e-4dbbd7908284": {
+                    "containerName": "Surin's Backpack",
+                    "bagOfHolding": false,
+                    "backpack": true,
+                    "augmentations": false
+                }
+            },
+            "equipment": [
+                [
+                    "Obsidian Goggles",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Torch",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Boots of Free Running (Moderate)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Charm of Resistance - Electricity",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Silver Chunk",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Thieves' Toolkit",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Bedroll",
+                    1,
+                    "69a54c32-d278-475d-b78e-4dbbd7908284",
+                    "Invested"
+                ],
+                [
+                    "Rope",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Glow Rod",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Masquerade Scarf (Greater)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Tindertwig",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Ring of Sustenance",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Healing Potion (Lesser)",
+                    2,
+                    "Invested"
+                ],
+                [
+                    "Grappling Hook",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Healer's Gloves",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Retrieval Belt",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Mage's Hat (Greater)",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Eye of the Unseen",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Cold Iron Chunk",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Ring of Maniacal Devices",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Waterskin",
+                    1,
+                    "Invested"
+                ],
+                [
+                    "Cloak of Illusions",
+                    1,
+                    "Invested"
+                ]
+            ],
+            "specificProficiencies": {
+                "trained": [],
+                "expert": [],
+                "master": [
+                    "Shortbow",
+                    "Composite Longbow"
+                ],
+                "legendary": []
+            },
+            "weapons": [
+                {
+                    "name": "Shortbow",
+                    "qty": 1,
+                    "prof": "simple",
+                    "die": "d6",
+                    "pot": 1,
+                    "str": "striking",
+                    "mat": null,
+                    "display": "+1 Striking Shortbow",
+                    "runes": [],
+                    "damageType": "P",
+                    "attack": 24,
+                    "damageBonus": 3,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Dagger",
+                    "qty": 1,
+                    "prof": "simple",
+                    "die": "d4",
+                    "pot": 0,
+                    "str": "",
+                    "mat": null,
+                    "display": "Dagger",
+                    "runes": [],
+                    "damageType": "P",
+                    "attack": 21,
+                    "damageBonus": 6,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Elven Curve Blade",
+                    "qty": 1,
+                    "prof": "simple",
+                    "die": "d8",
+                    "pot": 2,
+                    "str": "striking",
+                    "mat": null,
+                    "display": "+2 Striking Ghost Touch Elven Curve Blade",
+                    "runes": [
+                        "Ghost Touch"
+                    ],
+                    "damageType": "S",
+                    "attack": 23,
+                    "damageBonus": 6,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Composite Longbow",
+                    "qty": 1,
+                    "prof": "simple",
+                    "die": "d8",
+                    "pot": 2,
+                    "str": "striking",
+                    "mat": null,
+                    "display": "+2 Striking Astral Shock Composite Longbow",
+                    "runes": [
+                        "Astral",
+                        "Shock"
+                    ],
+                    "damageType": "P",
+                    "attack": 25,
+                    "damageBonus": 5,
+                    "extraDamage": [
+                        "1d6 Spirit",
+                        "1d6 Electricity"
+                    ],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Fist",
+                    "qty": 1,
+                    "prof": "unarmed",
+                    "die": "d4",
+                    "pot": 0,
+                    "str": "",
+                    "mat": null,
+                    "display": "Fist",
+                    "runes": [],
+                    "damageType": "B",
+                    "attack": 21,
+                    "damageBonus": 6,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                },
+                {
+                    "name": "Dart",
+                    "qty": 1,
+                    "prof": "simple",
+                    "die": "d4",
+                    "pot": 0,
+                    "str": "",
+                    "mat": null,
+                    "display": "Dart",
+                    "runes": [],
+                    "damageType": "P",
+                    "attack": 21,
+                    "damageBonus": 6,
+                    "extraDamage": [],
+                    "increasedDice": false,
+                    "isInventor": false,
+                    "grade": ""
+                }
+            ],
+            "money": {
+                "cp": 0,
+                "sp": 0,
+                "gp": 15,
+                "pp": 0
+            },
+            "armor": [
+                {
+                    "name": "Unarmored",
+                    "qty": 1,
+                    "prof": "light",
+                    "pot": 1,
+                    "res": "resilient",
+                    "mat": null,
+                    "display": "+1 Armor Resilient Energy Resistant - Fire Ready Elven Chain",
+                    "worn": false,
+                    "runes": [
+                        "Energy Resistant - Fire",
+                        "Ready"
+                    ],
+                    "grade": ""
+                },
+                {
+                    "name": "Steel Shield",
+                    "qty": 1,
+                    "prof": "shield",
+                    "pot": 0,
+                    "res": "",
+                    "mat": null,
+                    "display": "",
+                    "worn": false,
+                    "runes": [
+                        "Reinforcing (Minor)"
+                    ],
+                    "grade": ""
+                }
+            ],
+            "spellCasters": [
+                {
+                    "name": "Otherworldly Magic",
+                    "magicTradition": "arcane",
+                    "spellcastingType": "prepared",
+                    "ability": "cha",
+                    "proficiency": 4,
+                    "focusPoints": 0,
+                    "innate": true,
+                    "perDay": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spells": [
+                        {
+                            "spellLevel": 0,
+                            "list": [
+                                "Ignition"
+                            ]
+                        }
+                    ],
+                    "prepared": [],
+                    "blendedSpells": []
+                },
+                {
+                    "name": "Eldritch Archer",
+                    "magicTradition": "arcane",
+                    "spellcastingType": "spontaneous",
+                    "ability": "cha",
+                    "proficiency": 4,
+                    "focusPoints": 0,
+                    "innate": false,
+                    "perDay": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spells": [
+                        {
+                            "spellLevel": 0,
+                            "list": [
+                                "Telekinetic Projectile"
+                            ]
+                        },
+                        {
+                            "spellLevel": 1,
+                            "list": [
+                                "Runic Weapon"
+                            ]
+                        },
+                        {
+                            "spellLevel": 2,
+                            "list": [
+                                "Admonishing Ray"
+                            ]
+                        },
+                        {
+                            "spellLevel": 3,
+                            "list": [
+                                "Haste"
+                            ]
+                        },
+                        {
+                            "spellLevel": 4,
+                            "list": [
+                                "Chromatic Ray",
+                                "Fly"
+                            ]
+                        }
+                    ],
+                    "prepared": [],
+                    "blendedSpells": []
+                },
+                {
+                    "name": "Wildborn Magic",
+                    "magicTradition": "primal",
+                    "spellcastingType": "prepared",
+                    "ability": "cha",
+                    "proficiency": 2,
+                    "focusPoints": 0,
+                    "innate": true,
+                    "perDay": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spells": [
+                        {
+                            "spellLevel": 0,
+                            "list": [
+                                "Ray of Frost"
+                            ]
+                        }
+                    ],
+                    "prepared": [],
+                    "blendedSpells": []
+                }
+            ],
+            "focusPoints": 0,
+            "focus": {},
+            "formula": [],
+            "acTotal": {
+                "acProfBonus": 16,
+                "acAbilityBonus": 5,
+                "acItemBonus": 0,
+                "acTotal": 31,
+                "shieldBonus": null
+            },
+            "pets": [],
+            "familiars": []
+        }
+    }
