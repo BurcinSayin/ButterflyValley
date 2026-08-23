@@ -2,7 +2,7 @@
 
 ## Your World
 
-Welcome to Golarion in the year 4723 AV (After Vanguard). You were born in the grand capital itself, [Vanguard City](../Location/Inner_Sea/Vanguard_City.md), during a time known as "The Stagnant Era," a period marked by the absolute rule of the [Eternal Vanguard](../General/Religion.md). As a child blessed—or perhaps cursed—with the ["Deja Vu"](../Background/DejaVu.md) ability, your life has been far from ordinary.
+Welcome to Golarion in the year 4723 AV (After Vanguard). You were born in the grand capital itself, [Vanguard City](../Location/Inner_Sea/Vanguard_City.md), during a time known as "The Stagnant Era," a period marked by the absolute rule of the [Eternal Vanguard](../General/Religion.md). As a child blessed—or perhaps cursed—with the ["Deja Vu"](../Feats/DejaVu.md) ability, your life has been far from ordinary.
 
 ## From Riches to Rags
 
