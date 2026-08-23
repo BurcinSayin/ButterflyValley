@@ -1,6 +1,6 @@
 # Yog-Sothoth Essence Feats
 
-Just as the [Deja Vu](DejaVu.md) background feat is caused by the latent temporal essence of Yog-Sothoth scattered during the Temporal Regression rituals, that same cosmic essence can be channeled and applied to a variety of other techniques if trained properly. Consequently, all of the feats in this document require the [Deja Vu](DejaVu.md) background feat as a prerequisite.
+Just as the [Deja Vu](DejaVu.md) background feat is caused by the latent temporal essence of Yog-Sothoth scattered some unknown cause, that same cosmic essence can be channeled and applied to a variety of other techniques if trained properly. Consequently, all of the feats in this document require the [Deja Vu](DejaVu.md) background feat as a prerequisite.
 
 Every feat here is **Rare**. Access is granted by possessing the [Deja Vu](DejaVu.md) background and having had that latent essence awakened — through training with the Eternal Vanguard, contact with a concentration of scattered essence, or a Temporal Jump. A character who loses their connection to the essence loses access to these feats, though feats already taken are not lost.
 
