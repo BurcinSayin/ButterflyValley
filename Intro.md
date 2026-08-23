@@ -1,5 +1,7 @@
 ## **An Introduction to Golarion Society (4723 AV)**
 
+> *This primer describes Golarion as it stood in 4723 AV, the year the campaign opens. In-world time has advanced since then, so later reports and dispatches may carry a later date. The society described below is the one the player characters were born into.*
+
 ### **Chapter 1: The Political and Social Structure**
 
 Golarion exists in the year 4723 AV (After Vanguard), an era officially designated as "The Stagnant Era". This period is characterized by the absolute rule of the Eternal Vanguard, the sole governing power. The foundational principles of society are **social welfare, hard work, and justice**.

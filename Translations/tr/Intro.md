@@ -1,5 +1,7 @@
 ## **Golarion Toplumuna Giriş (4723 AV)**
 
+> *Bu giriş, Golarion'u kampanyanın başladığı yıl olan 4723 AV'deki hâliyle anlatır. O tarihten bu yana oyun içi zaman ilerlemiştir; bu yüzden sonraki raporlar ve yazışmalar daha ileri bir tarih taşıyabilir. Aşağıda anlatılan toplum, oyuncu karakterlerinin içine doğduğu toplumdur.*
+
 ### **Bölüm 1: Politik ve Sosyal Yapı**
 
 Golarion, resmi olarak "Durgun Çağ" olarak adlandırılan 4723 AV (Vanguard Sonrası) yılında var olmaktadır. Bu dönem, tek yönetici güç olan Eternal Vanguard'ın mutlak yönetimi ile karakterize edilir. Toplumun temel ilkeleri **sosyal refah, çalışkanlık ve adalettir**.
