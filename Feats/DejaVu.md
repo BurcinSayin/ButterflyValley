@@ -2,9 +2,9 @@
 
 **Background**
 **Traits** Rare
-**Access** You were born during "The Temporal Crisis" era, and the connection was formed in utero.
+**Access** A fragment of the [latent temporal essence of Yog-Sothoth](YogSothoth_Feats.md), scattered across Golarion by some unknown cause, reached you in the womb; the connection was formed in utero.
 
-*You were born during "The Temporal Crisis" era with an innate connection to the flow of time. This manifests as frequent experiences of déjà vu, which are actually glimpses of alternate timelines or possible futures. Your unique perception of time grants you an unusual resistance to temporal anomalies and the ability to make subtle alterations to the timestream.*
+*You were born with an innate connection to the flow of time. This manifests as frequent experiences of déjà vu, which are actually glimpses of alternate timelines or possible futures. Your unique perception of time grants you an unusual resistance to temporal anomalies and the ability to make subtle alterations to the timestream.*
 
 **Ability Boosts** Choose two ability boosts. Both are free ability boosts.
 
