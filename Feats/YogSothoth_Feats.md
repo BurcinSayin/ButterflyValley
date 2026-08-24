@@ -53,10 +53,10 @@ In addition, you always know how much time has passed since your last daily prep
 
 *By slightly aligning your vision with Yog-Sothoth's omnipresence, you perceive hidden realities, secret passages, and concealed threats before they unfold.*
 
-Your senses are permanently attuned to what hides in the gaps of the world. You gain the following benefits at all times:
+Your senses are permanently attuned to what hides in the gaps between dimensions. You gain the following benefits:
 
-* **Keen Discovery:** You gain a +2 circumstance bonus to Perception checks to Seek hidden or undetected creatures, secret doors, hazards, and concealed objects within 30 feet. If you are a master in Perception, you can also travel at your full Speed while using the Search exploration activity, instead of half your Speed.
-* **Piercing Gaze:** Reduce the DC of your flat checks to target concealed creatures to 3, and to target hidden creatures to 9.
+* **Piercing Gaze:** You reduce the DC of your flat checks to target concealed creatures from 5 to 3. If you have the Blind-Fight feat, you reduce the DC of flat checks to target hidden creatures from 5 to 4 within 30 feet.
+* **Spatial Intuition:** You gain a +2 circumstance bonus to Perception checks to Seek concealed, hidden, or undetected creatures, as well as secret doors and hazards within 30 feet.
 
 In addition, you can cast *see the unseen* as an innate occult spell once per day.
 
@@ -175,7 +175,7 @@ If your next action is to cast a spell, that spell ignores circumstance bonuses 
 
 ### Predictive Aim
 **Level** 4\
-**Traits** Rare, Fighter, Gunslinger, Ranger, occult, divination, attack\
+**Traits** Rare, Fighter, Gunslinger, Inquisitor, Ranger, occult, divination, attack\
 **Prerequisites** [Deja Vu](DejaVu.md)\
 **Cost** 2 Actions
 
@@ -194,17 +194,20 @@ Make a ranged Strike. This Strike ignores concealment, and the target is **off-g
 
 Make a melee Strike. You can roll the attack twice and use the better result, applying your multiple attack penalty normally. However, peeking ahead leaves your present defense exposed: you become **off-guard** until the start of your next turn.
 
-### Chronal Parry [reaction]
+### Chronal Defence [reaction]
 **Level** 10\
-**Traits** Rare, Fighter, Monk, Swashbuckler, occult, move\
+**Traits** Rare, Fighter, Inquisitor, Monk, Swashbuckler, occult, move\
 **Prerequisites** [Deja Vu](DejaVu.md)\
 **Trigger** A creature targets you with a melee or ranged attack, and you can see the attacker.
 
 *By accelerating your personal timestream for a split second, you slip between frames of reality to evade or redirect incoming strikes.*
 
-You gain a +2 circumstance bonus to your AC against the triggering attack. If the attack misses, you can Step or Stride up to 10 feet as part of this reaction.
+You gain a +2 circumstance bonus to your AC against the triggering attack. Based on the result of the attack, you gain the following additional effect:
 
-**Special** If you have the Nimble Dodge feat, the circumstance bonus to AC from *Chronal Parry* and from Nimble Dodge each increase to +3. If you have Deflect Projectile (or Cut from the Air), you can use that reaction against ranged spell attack rolls as well as against physical projectiles.
+* **Miss:** You can Step up to 5 feet as part of this reaction.
+* **Critical Miss:** You slip completely outside the enemy's momentum. You can Step or Stride up to 10 feet as part of this reaction.
+
+**Special** If you have the Deflect Projectile or Cut from the Air feat, you can use that reaction against ranged spell attack rolls in addition to physical ranged attacks.
 
 ### Timeline Severance
 **Level** 12\
@@ -273,7 +276,7 @@ When an ally within 30 feet of you but outside your champion's aura would trigge
 
 ### Temporal Feint
 **Level** 6\
-**Traits** Rare, Rogue, Investigator, Swashbuckler, occult, mental\
+**Traits** Rare, Inquisitor, Investigator, Rogue, Swashbuckler, occult, mental\
 **Prerequisites** [Deja Vu](DejaVu.md), trained in Deception\
 **Cost** 1 Action
 
@@ -323,7 +326,7 @@ Choose an unoccupied square within 30 feet of you that is adjacent to a creature
 
 *You are always already moving before the timeline officially dictates a battle has begun.*
 
-At the start of your first turn in every combat, you are **quickened 1**, and you remain quickened 1 through the end of your second turn. You can use the extra action only to Stride, Step, Hide, or make a Strike.
+At the start of your first turn in every combat, you are **quickened 1**. You can use the extra action only to Stride, Step, Hide, or make a Strike.
 
 ## Inquisitor Feats
 
