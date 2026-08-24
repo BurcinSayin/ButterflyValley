@@ -21,14 +21,3 @@
 * **Regional Info:** Andoran's capital, Almas, is presented as a shining beacon of Vanguard ideals, founded after a "People's Revolt" supported by the Vanguard overthrew the old monarchy.
 * **Current State:** The city is a major port and a hub of Vanguard power, governed by a Supreme Elect chosen through a process overseen by the Vanguard. A Liberators' Dawn cell, "Freedom's Flame," operates in the city, working to support underground pro-democracy movements.
 * **Objective:** Uncover and expose a Vanguard scheme in Almas that uses fraudulent economic practices to eliminate merchants suspected of sympathizing with the Liberators' Dawn. Posing as a targeted merchant could provide the necessary cover to gather evidence from the inside.
-
-
-above are the missions Verya participitaded . 
-She also stated that she will try to save her family if possible
-in the above mission se should
-* learn her families banckupcy is planned bu Vanguard
-* Learn strike team attacking Liberators dawn was looking for her
-
-in addition on the last mission ( any of the abobe missions can be the last one ) she should be teleported to Celestial Lens lab by a TEmporal anomaly or accident
-
-We need strory facts for these to happen
