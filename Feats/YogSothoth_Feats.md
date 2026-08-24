@@ -63,7 +63,7 @@ In addition, you can cast *see the unseen* as an innate occult spell once per da
 ### Will of the Key
 **Level** 11\
 **Traits** Rare, General, occult\
-**Prerequisites** [Deja Vu](DejaVu.md)
+**Prerequisites** [Deja Vu](DejaVu.md), expert in Will saves
 
 *You channel the essence of Yog-Sothoth to directly shape and change magical energies through sheer force of will.*
 
@@ -72,7 +72,7 @@ When performing any space or time-related ritual (such as Temporal Jump), you ca
 ### Master of the Threads
 **Level** 11\
 **Traits** Rare, General, occult, fortune\
-**Prerequisites** [Deja Vu](DejaVu.md), Time's Resilience
+**Prerequisites** [Deja Vu](DejaVu.md)
 
 *Your grasp over your own timeline strengthens, allowing you to rewrite your fate more frequently.*
 
@@ -105,7 +105,7 @@ If your next action is to cast a primal or divine spell of 2nd rank or higher wi
 ### Temporal Companion [reaction]
 **Level** 10\
 **Traits** Rare, Druid, Ranger, occult\
-**Prerequisites** [Deja Vu](DejaVu.md), Animal Companion or Familiar\
+**Prerequisites** [Deja Vu](DejaVu.md), an animal companion or a familiar\
 **Trigger** Your animal companion or familiar within 30 feet is targeted by an attack.
 
 *You shatter the timeline around your companion, causing them to flicker rapidly between seconds to avoid a blow.*
@@ -131,7 +131,7 @@ If your next action is to cast a primal spell that deals acid, cold, electricity
 ### Paradoxical Healing
 **Level** 4\
 **Traits** Rare, Cleric, occult, healing\
-**Prerequisites** [Deja Vu](DejaVu.md)
+**Prerequisites** [Deja Vu](DejaVu.md), healing font
 
 *Your healing magic pulls on the vitality of a timeline where your ally was never harmed, creating a buffer against future injuries.*
 
@@ -149,7 +149,7 @@ When you cast a spell using your Divine Font, you create a 15-foot emanation cen
 ### Stagnant Decay
 **Level** 10\
 **Traits** Rare, Cleric, occult, spellshape, concentrate, divine\
-**Prerequisites** [Deja Vu](DejaVu.md)\
+**Prerequisites** [Deja Vu](DejaVu.md), harming font\
 **Cost** 1 Action
 
 *You weave the freezing essence of the space between dimensions into your destructive magic.*
@@ -226,7 +226,7 @@ Make a Strike with a weapon or unarmed attack (melee or ranged). If it hits, the
 ### Shield of Foresight
 **Level** 8\
 **Traits** Rare, Champion, occult, divination\
-**Prerequisites** [Deja Vu](DejaVu.md)
+**Prerequisites** [Deja Vu](DejaVu.md), Champion's Reaction
 
 *You broadcast a split-second vision of impending harm directly into an ally's mind, giving them the exact forewarning needed to defend themselves.*
 
@@ -242,7 +242,7 @@ Because you are reacting to a blow that hasn't landed yet, any part of your Cham
 
 *Your strikes carry the anchoring weight of Yog-Sothoth, pinning a creature's essence to their current coordinates in space.*
 
-Make a melee weapon Strike. If it hits, the target must attempt a Will save against your class DC; if your Strike was a critical hit, the target's save result is one degree worse than the result it rolled. The creature is then temporarily immune to this effect for 1 minute.
+Make a melee Strike with a weapon or unarmed attack. If it hits, the target must attempt a Will save against your class DC; if your Strike was a critical hit, the target's save result is one degree worse than the result it rolled. The creature is then temporarily immune to this effect for 1 minute.
 
 * **Critical Success:** The creature is unaffected.
 * **Success:** The creature's dimensional anchor fluctuates. If it attempts to use a teleportation or extradimensional effect before the end of its next turn, it must succeed at a DC 11 flat check or the action is disrupted and lost.
@@ -263,7 +263,7 @@ You rewind the last few seconds. If triggered by an attack, the attacker must re
 ### Chronal Interception
 **Level** 12\
 **Traits** Rare, Champion, occult, move\
-**Prerequisites** [Deja Vu](DejaVu.md)
+**Prerequisites** [Deja Vu](DejaVu.md), Champion's Reaction
 
 *You step briefly outside the flow of time, traversing the battlefield in an instant to protect an ally who would otherwise be out of reach.*
 
@@ -274,7 +274,7 @@ When an ally within 30 feet of you but outside your champion's aura would trigge
 ### Temporal Feint
 **Level** 6\
 **Traits** Rare, Rogue, Investigator, Swashbuckler, occult, mental\
-**Prerequisites** [Deja Vu](DejaVu.md)\
+**Prerequisites** [Deja Vu](DejaVu.md), trained in Deception\
 **Cost** 1 Action
 
 *You send a momentary echo of yourself a few seconds into the future to distract your foe with an attack that hasn't happened yet.*
