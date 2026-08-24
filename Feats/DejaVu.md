@@ -1,7 +1,7 @@
 # Deja Vu
 
-**Background**
-**Traits** Rare
+**Background**\
+**Traits** Rare\
 **Access** A fragment of the [latent temporal essence of Yog-Sothoth](YogSothoth_Feats.md), scattered across Golarion by some unknown cause, reached you in the womb; the connection was formed in utero.
 
 *You were born with an innate connection to the flow of time. This manifests as frequent experiences of déjà vu, which are actually glimpses of alternate timelines or possible futures. Your unique perception of time grants you an unusual resistance to temporal anomalies and the ability to make subtle alterations to the timestream.*
