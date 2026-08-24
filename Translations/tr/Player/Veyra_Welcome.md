@@ -2,7 +2,7 @@
 
 ## Senin Dünyan
 
-4723 AV (Vanguard Sonrası) yılında Golarion'a hoş geldin. "Durgunluk Çağı" olarak bilinen, [Ethernal Vanguard](../../../General/Religion.md)'ın mutlak hakimiyetiyle geçen bir dönemde, büyük başkentin ta kendisinde, [Vanguard Şehri](../../../Location/Inner_Sea/Vanguard_City.md)'nde doğdun. ["Deja Vu"](../../../Background/DejaVu.md) yeteneğiyle kutsanmış—veya belki de lanetlenmiş—bir çocuk olarak, hayatın sıradanlıktan çok uzaktı.
+4723 AV (Vanguard Sonrası) yılında Golarion'a hoş geldin. "Durgunluk Çağı" olarak bilinen, [Ethernal Vanguard](../../../General/Religion.md)'ın mutlak hakimiyetiyle geçen bir dönemde, büyük başkentin ta kendisinde, [Vanguard Şehri](../../../Location/Inner_Sea/Vanguard_City.md)'nde doğdun. ["Deja Vu"](../../../Feats/DejaVu.md) yeteneğiyle kutsanmış—veya belki de lanetlenmiş—bir çocuk olarak, hayatın sıradanlıktan çok uzaktı.
 
 ## Varlıktan Yokluğa
 
