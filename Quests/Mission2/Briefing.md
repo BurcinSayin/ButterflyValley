@@ -44,7 +44,7 @@ Information compiled from Liberators' Dawn intelligence network reports, interce
 
 #### Fall of Ustalav (5th-10th Welfaretide, 4719 AV)
 *Source Reliability: Low-Medium*
-- Fragmentary reports of Ustalavic Administrative Zone collapse
+- Fragmentary reports of Ustalav Administrative Zone collapse
 - Unconfirmed reports of mass casualties and undead activity
 - Limited information due to communication breakdown
 - Refugee accounts highly inconsistent
