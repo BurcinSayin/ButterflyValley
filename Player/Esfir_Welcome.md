@@ -6,7 +6,7 @@ Welcome to Golarion in the year 4723 AV (After Vanguard). You were born during a
 
 ## Your Background
 
-You are Esfir, a 24-year-old human woman from Irrisen, born to Kasia and Bogdan in the town of Waldsby. Your early years were spent helping your parents with their farming duties, learning the rhythms of the land even in Irrisen's harsh climate. Your mother's gentle wisdom and your father's practical knowledge helped shape your understanding of the natural world.
+You are Esfir, a 23-year-old human woman from Irrisen, born to Kasia and Bogdan in the town of Waldsby. Your early years were spent helping your parents with their farming duties, learning the rhythms of the land even in Irrisen's harsh climate. Your mother's gentle wisdom and your father's practical knowledge helped shape your understanding of the natural world.
 
 ## The Journey to Riba
 
