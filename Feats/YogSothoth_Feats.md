@@ -82,12 +82,12 @@ You gain a second daily use of the Deja Vu reroll ability.
 
 ### Foresight of the Wild
 **Level** 4\
-**Traits** Rare, Druid, Ranger, occult\
+**Traits** Rare, Druid, Ranger, occult, aura, exploration\
 **Prerequisites** [Deja Vu](DejaVu.md)
 
 *You perceive the immediate future of the ecosystem, sensing where stones will tumble, winds will shear, and branches will snap.*
 
-You and allies within 15 feet gain a +2 circumstance bonus to saving throws against environmental hazards, weather effects, falling objects, and natural terrain hazards (such as rockslides, quicksand, flash floods, and extreme temperature checks). Against such hazards that make attack rolls, you and those allies also gain a +2 circumstance bonus to AC.
+You and allies within 15 feet gain a +1 circumstance bonus to saving throws against environmental hazards, weather effects, falling objects, and natural terrain hazards (such as rockslides, quicksand, flash floods, and extreme temperature checks). Against such hazards that make attack rolls, you and those allies also gain a +1 circumstance bonus to AC.
 
 Additionally, when traveling in wilderness environments, you can use the **Search** exploration activity while simultaneously performing the **Scout** or **Avoid Notice** activity.
 
@@ -181,7 +181,7 @@ If your next action is to cast a spell, that spell ignores circumstance bonuses 
 
 *You peer into the immediate future to track your target's exact movements before they even make them.*
 
-Make a ranged Strike. This Strike ignores concealment, and the target is **off-guard** against it. If the Strike hits, the target remains off-guard until the start of your next turn.
+Make a ranged Strike. This Strike ignores concealment, and the target is **off-guard** against it. If the Strike hits, the target is off-guard against the next attack made against it before the start of your next turn.
 
 ### Strike from the Future
 **Level** 8\
@@ -194,7 +194,7 @@ Make a ranged Strike. This Strike ignores concealment, and the target is **off-g
 
 Make a melee Strike. You can roll the attack twice and use the better result, applying your multiple attack penalty normally. However, peeking ahead leaves your present defense exposed: you become **off-guard** until the start of your next turn.
 
-### Chronal Defence [reaction]
+### Chronal Dodge [reaction]
 **Level** 10\
 **Traits** Rare, Fighter, Inquisitor, Monk, Swashbuckler, occult, move\
 **Prerequisites** [Deja Vu](DejaVu.md)\
@@ -206,8 +206,6 @@ You gain a +2 circumstance bonus to your AC against the triggering attack. Based
 
 * **Miss:** You can Step up to 5 feet as part of this reaction.
 * **Critical Miss:** You slip completely outside the enemy's momentum. You can Step or Stride up to 10 feet as part of this reaction.
-
-**Special** If you have the Deflect Projectile or Cut from the Air feat, you can use that reaction against ranged spell attack rolls in addition to physical ranged attacks.
 
 ### Timeline Severance
 **Level** 12\
@@ -315,9 +313,9 @@ You Stride or Step before the first turn in the initiative order begins. If you 
 **Prerequisites** [Deja Vu](DejaVu.md)\
 **Cost** 1 Action
 
-*You open a momentary spatial tear, extending your weapon through the spaces between dimensions to strike from a completely unexpected angle.*
+*You open a momentary spatial tear behind your enemy, extending your weapon through the spaces between dimensions to strike from a completely unexpected angle.*
 
-Choose an unoccupied square within 30 feet of you that is adjacent to a creature you can see. Make a melee Strike against that creature, treating your attack as originating from the chosen square; your weapon's reach is measured from that square rather than from your own space. If an ally is positioned such that they and the chosen square would flank the target, the target is **off-guard** against this Strike.
+Choose an unoccupied square adjacent to a creature within your melee reach. Make a melee Strike against that creature, treating your attack as originating from the chosen square. If you or an ally are positioned such that your actual space and the chosen square would flank the target, the target is **off-guard** against this Strike.
 
 ### Strike Before Time
 **Level** 12\
@@ -347,12 +345,12 @@ Instead of the normal effects of Stern Gaze, the target must attempt a Will save
 
 ### Chronal Stratagem
 **Level** 8\
-**Traits** Rare, Inquisitor, Investigator, occult, teamwork\
-**Prerequisites** [Deja Vu](DejaVu.md)
+**Traits** Rare, Exploration, Inquisitor, Investigator, occult, teamwork\
+**Prerequisites** [Deja Vu](DejaVu.md), master in Perception
 
 *You impart fragments of your temporal awareness to your allies, granting them a supernatural intuition for exactly when to strike.*
 
-When you review stratagems with your allies during your daily preparations, those who participated gain a +2 circumstance bonus to initiative rolls until your next daily preparations. Additionally, once per day, one of those allies can Step as a free action before their first turn begins.
+During your daily preparations, you review stratagems and attune your allies to ripples in the timestream. When you perform the **Scout** exploration activity, the circumstance bonus your allies gain to their initiative rolls increases from +1 to +2. Additionally, once per day when combat begins while you are Scouting, one ally who gains this bonus can Step as a free action before their first turn begins.
 
 ### Judgement of the Gate
 **Level** 10\
