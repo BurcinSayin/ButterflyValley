@@ -28,17 +28,13 @@ Before the transport could depart, a squad of chronally attuned operatives mater
 
 ---
 
-## Life as a Temporal Agent: The Mountain Facilities
-
-You awoke in the [Bastion](../Organisation/Butterfly_Valley/Bastion_Governance.md), a legendary demiplane sheltered outside the normal flow of time, nestled beneath the soaring Chronosfall Peaks. Here, free from Vanguard surveillance, refugees and rebels gathered under the banner of the Temporal Resistance.
-
 ## Life as a Temporal Agent: The Mountain Facilities & Your Field Cell
 
 You awoke in the [Bastion](../Organisation/Butterfly_Valley/Bastion_Governance.md), a legendary demiplane sheltered outside the normal flow of time, nestled beneath the soaring Chronosfall Peaks. Here, free from Vanguard surveillance, refugees and rebels gathered under the banner of the Temporal Resistance.
 
 Temporal Agents do not operate alone; survival across the timeline demands specialized, complementary teams. Because of your sharp intellect, formal education, and mastery of **Universal Magic**—a tradition that embraces all schools of magic without artificial limitations—you were integrated into a close-knit, dedicated field cell. Operating out of the secure **Chronosfall Mountain Facilities**, your unit was a balanced tactical strike and recovery team: a disciplined frontline guardian, a razor-sharp infiltration scout, and you as the squad's **Arcane Researcher and Decipherer**.
 
-For months, your cell worked deep within the mountain vaults and out in the field, cataloging strange temporal anomalies, decoding fragmented Thassilonian glyphs, and securing dangerous artifacts. You assisted senior chronomancers in calculating the complex mathematics required for the [Temporal Jump](../Ritual/Temporal_Jump.md) ritual. Through this work, you and your comrades learned the bitter truth: the war against the Eternal Vanguard was not an ideological debate, but an existential battle against an enemy whose reckless temporal tampering was slowly unraveling reality itself.
+For months, your cell worked deep within the mountain vaults and out in the field on [critical research deployments](Eldrin_Missions.md), cataloging strange temporal anomalies, decoding fragmented Thassilonian glyphs, and securing dangerous artifacts. You assisted senior chronomancers in calculating the complex mathematics required for the [Temporal Jump](../Ritual/Temporal_Jump.md) ritual. Through this work, you and your comrades learned the bitter truth: the war against the Eternal Vanguard was not an ideological debate, but an existential battle against an enemy whose reckless temporal tampering was slowly unraveling reality itself.
 
 ---
 
