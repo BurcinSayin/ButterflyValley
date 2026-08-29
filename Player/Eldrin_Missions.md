@@ -37,8 +37,8 @@ Review the four operational stages below. For **each stage**, select **ONE** mis
 *Choose ONE mission from this stage:*
 
 * [ ] **Mission 2A: The Whisperhold Deep Archives & The Crimson Vigil (Fangwood / Ustalav Border)**  
-  *Briefing:* Infiltrate the perimeter of the sealed, radioactive ruins of Whisperhold Outpost to analyze the scorched blast-crater where the Empyreal Lord Ragathiel clashed with the Vanguard kill-team that struck down Iomedae.  
-  *Research Focus:* Empyreal wrath signatures, divine siphon containment failures, and Starstone necromancy records.
+  *Briefing:* Intercept and eliminate an Eternal Vanguard research contingent conducting final cleanup and data extraction in the Silent Glade ruins. Recover their operational records, lab manifests, and classified route orders before they sanitize the blast-crater where Iomedae fell.  
+  *Research Focus:* Divine siphon containment failures, Starstone necromancy records, and Fangwood exclusion zone directives.
 
 * [ ] **Mission 2B: The Oppara Ministry of Temporal Rectification (Taldor / Capital Sector)**  
   *Briefing:* Return under deep cover to your ruined homeland of Oppara to hack the secured registries of the Justiciar Judicial Tribunal, tracing the money trail and bureaucratic directives behind the empire's "Special Education" quotas.  
