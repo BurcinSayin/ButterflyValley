@@ -1,6 +1,6 @@
 # Ghost's Monologue: The Aftermath
 
-*(A young woman sits by a small, smokeless campfire. She looks to be about twenty-five, with tangled brown hair framing a face hardened by exhaustion. To any passing stranger, she is 'Lena', just another displaced refugee. But as she methodically cleans a dagger, her eyes—cold, ancient, and calculating—betray her true identity: Ghost, the former Head of Covert Operations for the Temporal Resistance.)*
+*(A young woman sits by a small, smokeless campfire. She looks to be about twenty-five, with tangled brown hair framing a face hardened by exhaustion. To any passing stranger, she is 'Lena', just another displaced refugee. But as she methodically cleans a dagger, her eyes—cold, ancient, and calculating—betray the truth beneath the disguise: this is Ghost, the former Head of Covert Operations for the Temporal Resistance.)*
 
 "We thought we had time. That’s the bitter joke of it all, isn't it? The Temporal Resistance—masters of the timeline—and we didn't see the knife until it was already in our backs."
 
