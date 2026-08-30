@@ -55,7 +55,7 @@ Here is a structured summary of [Eldrin_Welcome.md](Eldrin_Welcome.md), broken d
   * Alkenstar is an EV construct factory using blueprints acquired from **Runelord Karzoug**.
   * EV is covertly sabotaging Thassilonian researchers searching for the **8th Sin Rune**.
 
-* **Strike Team Exploits Studied by Eldrin:**
+* **Main Strike Team Exploits Studied by Eldrin:**
   * *Sandpoint:* Thwarted a Vanguard operation and disrupted Karzoug's alliance.
   * *Mwangi:* Recovered uncorrupted pre-Vanguard history from the Ekujae elves.
   * *Kintargo:* Stole ancient Time Travel ritual tomes from Cheliax (the Resistance's sole remaining method of temporal travel).
