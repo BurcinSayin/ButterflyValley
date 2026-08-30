@@ -67,6 +67,6 @@ Here is a structured summary of [Eldrin_Welcome.md](Eldrin_Welcome.md), broken d
 * **Identity & Archetype:** Eldrin Vellorian — Elven Universalist Wizard / Arcane Researcher / Decipherer.
 * **Psychological Profile:** Cynical, weary, pragmatic realist; scarred by addiction, loss of family fortune, and the death of his squad. Views the strike team as fellow hardened survivors rather than legendary heroes.
 * **Key Tactical Knowledge:**
-  * Understands the mathematical vectors for the *Temporal Jump* ritual.
+  * Understands the mathematical vectors for the [Temporal Jump](../Ritual/Temporal_Jump.md) ritual.
   * Knows firsthand that modern Vanguard construct ciphers backfire against the ancient Thassilonian originals in the Clockwork City.
 * **Immediate Situation:** Low on spells and supplies, sheltered inside the Central Pillar after escaping construct pursuit through an open runic door, ready to rendezvous with the main strike team (**Esfir, Gerard, Surin, Veyra, Han**).
