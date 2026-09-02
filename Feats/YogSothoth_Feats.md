@@ -62,7 +62,7 @@ In addition, you can cast *see the unseen* as an innate occult spell once per da
 
 ### Will of the Key
 **Level** 11\
-**Traits** Rare, General, occult\
+**Traits** Rare, General, skill, occult\
 **Prerequisites** [Deja Vu](DejaVu.md), expert in Will saves
 
 *You channel the essence of Yog-Sothoth to directly shape and change magical energies through sheer force of will.*
