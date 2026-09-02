@@ -6,7 +6,7 @@
 **Range:** 10 feet; **Target:** one to six willing creatures with the "Déjà Vu" ability
 **Duration:** varies
 
-This intricate ritual, developed by Butterfly Valley's founders, allows the casters to send one to six willing targets with the "Déjà Vu" ability backward in time. Due to the unique temporal properties of the Bastion, the ritual must be performed within its boundaries to maintain stability.
+This intricate ritual, developed by Ariadne Timeweaver and her allies based on Emperor Xin's 8th rune research, allows the casters to send one to six willing targets with the "Déjà Vu" ability backward in time. Due to the unique temporal properties of the Bastion, the ritual must be performed within its boundaries to maintain stability.
 
 **Critical Success:** All targets arrive at the intended destination in the past without any ill effects, able to act immediately. When the duration ends or when the travelers enter the designated extraction point in the past, they return to the present at the ritual's casting location.
 
@@ -36,4 +36,4 @@ This intricate ritual, developed by Butterfly Valley's founders, allows the cast
 
 5. **Sympathetic Temporal Bonding:** Travelers develop a temporal resonance with each other during the ritual. This creates a form of temporal tether between all participants. When a majority of the bonded travelers moves between timelines (either returning to the present or remaining in the past), their temporal resonance pulls the minority with them. This sympathetic bond ensures the group remains temporally unified.
 
-These temporal effects were extensively documented by the ritual's creators through careful observation and experimentation. Understanding and accounting for these phenomena is crucial for successful temporal operations.
+These temporal effects were extensively documented by Butterfly Valley's chronomancers through careful observation and experimentation across generations of temporal operations. Understanding and accounting for these phenomena is crucial for successful temporal operations.
