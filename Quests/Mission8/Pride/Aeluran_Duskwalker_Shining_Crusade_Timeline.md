@@ -25,13 +25,13 @@
   * **3820–3822 AV:** Holds the ramparts during the grueling Siege of Carrion Hill (sparking camp rumors that he felled a skeletal dragon in single combat with his trench blades).
   * **Late 3822 AV:** Handpicked for **Supreme Commander General Arnisant's** central shock spearhead pushing into the Hungry Mountains.
 * **3823 AV — Catastrophe in the Hungry Mountains:**
-  * Deployed in the forward shock line when Tar-Baphon personally engages and severs Arazni's avatar.
+  * Deployed in the forward shock line when Tar-Baphon personally engages and kills Arazni.
   * When unholy shockwaves detonate across the defile, Aeluran shields two fallen recruits with his body. He takes a crushing blast of necrotic bone-shrapnel that caves in his chest plate and shatters his ribs.
   * Survives four months of agonizing surgery at Fort Lorrin. Medically disqualified from shock spearheads, he refuses a safe rear-depot desk and demands a frontline post, transferring to the 4th Taldan Heavy Foot under **Colonel Raymond Caelan**.
 * **3824–3825 AV — The Crucible at Pale Ridge:** Ambushed in a muddy sunken road, the 4th Heavy Foot fights an 18-hour rearguard stand against dread ghouls and skeletal juggernauts. Standing shoulder-to-shoulder with Colonel Caelan, Aeluran holds the perimeter until relief arrives. Only 500 of 1,200 soldiers survive, cementing an unbreakable brotherhood between Aeluran and Caelan.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * The battered survivors are field-merged into the **1st Vanguard Battalion ("The Iron Sun")** on the freezing eastern mountain flank.
   * Aeluran manages the trenches, inspections, and palisades alongside sapper Kellan Torpe, while enduring Prelate Othemar's hollow lectures.
-  * **The Tactical Dilemma:** While he has no proof of what enemy forces lurk within the gorge, Aeluran views Lord-Marshal Dawncrown's plan to rush the narrow Orphield River Canyon as suicidal hubris. To a veteran of the Pale Ridge ambush, blindly marching thousands of troops into a narrow, unscouted canyon is an unforced disaster waiting to happen.
+
 
 
