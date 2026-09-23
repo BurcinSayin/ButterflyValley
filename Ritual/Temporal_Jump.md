@@ -6,7 +6,7 @@
 **Range:** 10 feet; **Target:** one to six willing creatures with the "Déjà Vu" ability
 **Duration:** varies
 
-This intricate ritual, developed by Ariadne Timeweaver and her allies based on Emperor Xin's 8th rune research, allows the casters to send one to six willing targets with the "Déjà Vu" ability backward in time. Due to the unique temporal properties of the Bastion, the ritual must be performed within its boundaries to maintain stability.
+This intricate ritual, developed by Ariadne Timeweaver and her allies based on Emperor Xin's 8th rune research, allows the casters to send one to six willing targets with the "Déjà Vu" ability backward in time. Butterfly Valley's founders constructed specialized temporal ritual chambers within the Bastion to harness its unique environment and contain the volatile side effects of temporal displacement; while the ritual can be performed from anywhere, casting it outside these protective chambers exposes the travelers to the full brunt of the temporal phenomena and side effects described below.
 
 **Critical Success:** All targets arrive at the intended destination in the past without any ill effects, able to act immediately. When the duration ends or when the travelers enter the designated extraction point in the past, they return to the present at the ritual's casting location.
 
@@ -22,7 +22,7 @@ This intricate ritual, developed by Ariadne Timeweaver and her allies based on E
 - The ritual requires establishing an extraction point - a specific location in the past that serves as an emergency temporal anchor. When entered, this point triggers an immediate return to the present.
 - Duration must be precisely calculated during casting. The ritual automatically recalls travelers when this duration expires.
 - Each century of temporal displacement increases the strain on travelers, causing an additional 1d6 mental damage upon arrival and return.
-- Compromised extraction points cause temporal turbulence, resulting in return displacement within 1 mile of the Bastion.
+- Compromised extraction points cause temporal turbulence, resulting in return displacement within 1 mile of the ritual's casting location.
 - While the ritual's magic helps stabilize minor temporal paradoxes, major alterations to the timeline can have severe consequences.
 
 ### Known Temporal Phenomena:
@@ -36,4 +36,4 @@ This intricate ritual, developed by Ariadne Timeweaver and her allies based on E
 
 5. **Sympathetic Temporal Bonding:** Travelers develop a temporal resonance with each other during the ritual. This creates a form of temporal tether between all participants. When a majority of the bonded travelers moves between timelines (either returning to the present or remaining in the past), their temporal resonance pulls the minority with them. This sympathetic bond ensures the group remains temporally unified.
 
-These temporal effects were extensively documented by Butterfly Valley's chronomancers through careful observation and experimentation across generations of temporal operations. Understanding and accounting for these phenomena is crucial for successful temporal operations.
+These temporal effects were extensively documented by Butterfly Valley's chronomancers through careful observation and experimentation across generations of temporal operations. Understanding and accounting for these phenomena is crucial for successful temporal operations, particularly when casting without the shielding of the Bastion's specialized ritual chambers.
