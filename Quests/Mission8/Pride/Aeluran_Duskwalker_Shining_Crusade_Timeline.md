@@ -16,8 +16,10 @@
 
 ---
 
-## Personal Frontline Highlights (3798–3825 AV)
+## Personal Service & Frontline Highlights (3720s–3825 AV)
 
+* **3720s–3780s AV — The Clinical Crucible ("Special Education"):** Manifesting an unnatural, anticipatory combat twitch during his elven youth, Aeluran was classified as an anomalous variable and inducted into the Eternal Vanguard's [special education](../../../General/Education_System.md) program for "gifted" individuals. In sterile testing yards, proctors subjected his parry-reflexes to endless predictive drills, meticulously timing how his blade moved before enemy strikes were committed. To his instructors, he was an experimental asset whose reactions needed cataloging and control.
+* **3785–3797 AV — The Tanglebriar Testing Ground:** Following his training, Aeluran was deployed to the southern perimeter of the Fierani Forest to skirmish against Treerazer's demonic incursions along the Tanglebriar border. The close-quarters savagery of fighting abyssal fiends proved his combat premonition in real blood, but the constant presence of Vanguard proctors logging his every movement made it clear he was merely a specimen under field evaluation. In 3798 AV, desperate to escape the suffocating scrutiny of his handlers, Aeluran volunteered for the grand imperial muster of the Shining Crusade—knowing that in the meat-grinder of Lake Encarthan, officers were far too busy dying to conduct clinical assessments.
 * **3798–3801 AV — The Lake & The Surf:** Enlists in the 2nd Imperial Amphibious Cohort (*"The Iron Oars"*). Spends four brutal years escorting convoys across Lake Encarthan before leading the surf assaults that carve out the beachheads at **Vellumis** and **Vauntil**.
 * **3801–3816 AV — The Fifteen-Year Slog:** Transferred to the 14th Taldan Heavy Foot (*"The River Wardens"*) across southern Ustalav. Endures fifteen years of grim trench warfare, watching human regiments cycle through generations of fresh recruits. Earns the moniker **"The Iron Willow"** for bending under overwhelming enemy charges without snapping.
 * **3818–3822 AV — Carrion Hill & Arnisant’s Vanguard:**
