@@ -10,7 +10,7 @@
 * **Rank & Billet:** Sergeant Major, Master-at-Arms & Heavy Assault Specialist
 * **Unit:** 1st Vanguard Battalion ("The Iron Sun"), 7th Vanguard Division ("The Sun-Watch") *(Late 3825 AV)*
 * **Heritage & Age:** Kyonin expatriate elf, 210 years old (27 years continuous frontline combat)
-* **Distinguishing Panoply:** Blackened Kyonin steel laminar armor fitted with oiled-leather silent joints; twin serrated trench swords. Notched elven ears from crossbow bolts; silver hair gathered in a crown combat knot; cold, piercing violet eyes; and jagged violet-black necrotic scars across his torso and left shoulder.
+* **Distinguishing Panoply:** Blackened Kyonin fine-mesh chain shirt with laminar shoulder-guards, fitted with oiled-leather silent gaskets; twin serrated trench swords. Notched elven ears from crossbow bolts; silver hair gathered in a crown combat knot; cold, piercing violet eyes; and jagged violet-black necrotic scars across his torso and left shoulder.
 * **The Ground Reality:** Aeluran harbors zero sentimentality for imperial propaganda or theological sermons. He judges commanders by whether they know how to brace a timber palisade, keep pikes dry, and preserve human lives. He holds deep contempt for vain nobles who spend soldiers' lives on personal glory.
 * **Combat Reflex (*"Blade-Premonition"*):** In close-quarters fighting, Aeluran's senses loop half a second ahead of reality. He ducks, parries, and counters strikes before enemy weapons fall. Subordinates revere this as peerless elven reflex; to him, it feels like an eerie, cold curse of reenacting violent motions he has already lived.
 
@@ -28,7 +28,7 @@
   * **Late 3822 AV:** Handpicked for **Supreme Commander General Arnisant's** central shock spearhead pushing into the Hungry Mountains.
 * **3823 AV — Catastrophe in the Hungry Mountains:**
   * Deployed in the forward shock line when Tar-Baphon personally engages and kills Arazni.
-  * When unholy shockwaves detonate across the defile, Aeluran shields two fallen recruits with his body. He takes a crushing blast of necrotic bone-shrapnel that caves in his chest plate and shatters his ribs.
+  * When unholy shockwaves detonate across the defile, Aeluran shields two fallen recruits with his body. He takes a crushing blast of necrotic bone-shrapnel that caves in his armor and shatters his ribs.
   * Survives four months of agonizing surgery at Fort Lorrin. Medically disqualified from shock spearheads, he refuses a safe rear-depot desk and demands a frontline post, transferring to the 4th Taldan Heavy Foot under **Colonel Raymond Caelan**.
 * **3824–3825 AV — The Crucible at Pale Ridge:** Ambushed in a muddy sunken road, the 4th Heavy Foot fights an 18-hour rearguard stand against dread ghouls and skeletal juggernauts. Standing shoulder-to-shoulder with Colonel Caelan, Aeluran holds the perimeter until relief arrives. Only 500 of 1,200 soldiers survive, cementing an unbreakable brotherhood between Aeluran and Caelan.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
