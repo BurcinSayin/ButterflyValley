@@ -32,4 +32,4 @@
   * Deciphers and unravels the necrotic ward-circle locking down the valley, allowing Colonel Morvath's 500 surviving troops to slip through the cordon under cover of darkness.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * Serves as Arcane Advisor & Tactical Decipherer for the merged **1st Vanguard Battalion ("The Iron Sun")**.
-  * Analyzes residue from incoming necrotic artillery, calculating that the high-angle ordnance originates from concealed **Black-Bile Siege Mortars** positioned on high cliff galleries in the Orphield River Canyon. Clashes fiercely with Division Chief Arcanist Magister Evander Sterling, who arrogantly dismisses Vaelin's warnings as the paranoid fantasies of a mud-caked hedge-mage.
+  

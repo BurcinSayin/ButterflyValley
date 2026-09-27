@@ -33,4 +33,4 @@
   * **Mid 3825 AV — Ambush at the Corpse-Orchards:** During the nocturnal encirclement, Grimm maintains iron discipline in the shattered rear ranks, single-handedly executing five reanimating ghouls in a triage sap and holding the perimeter with blazing crimson sanctions until Colonel Morvath's counter-saps can be completed.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * Stationed as Regimental Provost & Chief Sanctifier of the merged **1st Vanguard Battalion ("The Iron Sun")**.
-  * Regularly conducts forensic autopsies in Sister Althea's field hospital. Openly defies Prelate Othemar's dogmatic attempts to downplay the virulence of enemy ordnance, demanding full quarantine readiness before the division moves.
+  * Regularly conducts forensic autopsies in Sister Althea's field hospital.

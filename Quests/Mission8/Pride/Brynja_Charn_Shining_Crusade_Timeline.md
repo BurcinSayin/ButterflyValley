@@ -32,4 +32,4 @@
   * **Mid 3825 AV — Ambush at the Corpse-Orchards:** When the 9th is ambushed in the dark, Brynja leads the forward pickets in a silent counter-skirmish. Using her peat-mantle and smokeless flaming bow, she identifies safe paths through black-fog pockets, enabling Colonel Morvath's surviving 500 troops to break through the enemy cordon.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * Commands the 250 Ghost-Pickets of the merged **1st Vanguard Battalion ("The Iron Sun")** at Gorcha Pass.
-  * Interrogates seismic tremors shaking the eastern ridge, deducing that the subterranean drumming heard by Scout Ryan signals hidden artillery movements rather than routine mining. Deeply concerned by the disappearance of her trusted scout leader, Scout-Sergeant Matthew Brand, in the fog of No-Man's-Land.
+  * Monitors wildernes along the eastern ridge and directs forward scouting attemps in No-Man's-Land.

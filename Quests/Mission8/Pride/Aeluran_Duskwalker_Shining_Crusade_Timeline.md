@@ -35,7 +35,7 @@
 * **3824–3825 AV — The Crucible at Pale Ridge:** Ambushed in a muddy sunken road, the 4th Heavy Foot fights an 18-hour rearguard stand against dread ghouls and skeletal juggernauts. Standing shoulder-to-shoulder with Colonel Caelan, Aeluran holds the perimeter until relief arrives. Only 500 of 1,200 soldiers survive, cementing an unbreakable brotherhood between Aeluran and Caelan.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * The battered survivors are field-merged into the **1st Vanguard Battalion ("The Iron Sun")** on the freezing eastern mountain flank.
-  * Aeluran manages the trenches, inspections, and palisades alongside sapper Kellan Torpe, while enduring Prelate Othemar's hollow lectures.
+  * Aeluran manages the trenches, inspections, and palisades alongside sapper Kellan Torpe.
 
 
 

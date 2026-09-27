@@ -32,4 +32,4 @@
   * Through ruthless tactical clarity, she guides 500 surviving scouts, sappers, and chirurgeons out of the encirclement and back to friendly lines, earning the moniker **"The Grey Fox of Fort Lorrin."**
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * Following Lord-Marshal Dawncrown's hasty amalgamation, Morvath assumes the post of **Executive Officer & Chief of Intelligence** for the **1st Vanguard Battalion ("The Iron Sun")**, forming a pragmatic command partnership with Colonel Raymond Caelan.
-  * Entrenched at Gorcha Pass, she manages the battalion's courier network and quartermaster supplies, aggressively clashing with Tribune-Adjutant Leonidas Valer and Lord-Marshal Dawncrown over the fatal logistical suicide of an un-scouted march into the Orphield River Canyon.
+  * Entrenched at Gorcha Pass, she manages the battalion's courier network and quartermaster supplies.

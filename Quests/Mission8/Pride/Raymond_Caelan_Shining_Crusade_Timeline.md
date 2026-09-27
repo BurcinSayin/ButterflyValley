@@ -34,4 +34,4 @@
   * Only 500 of 1,200 soldiers survive, cementing Raymond's reputation throughout the coalition as **"The Bulwark of Fort Lorrin"** and forging an unbreakable brotherhood with Aeluran.
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * The 500 survivors of the 4th Heavy Foot are field-merged into the **1st Vanguard Battalion ("The Iron Sun")** under the 7th Vanguard Division ("The Sun-Watch"), with Caelan designated Battalion Commander alongside Colonel Vespera Morvath.
-  * Dug into the freezing eastern mountain flank at Gorcha Pass, Caelan commands the forward lines, fiercely resisting Lord-Marshal Valerius Dawncrown's vain push into the Orphield River Canyon and shielding his men from Prelate Othemar's blind dogmatic zeal.
+  * Dug into the freezing eastern mountain flank at Gorcha Pass, Caelan commands the forward lines.
