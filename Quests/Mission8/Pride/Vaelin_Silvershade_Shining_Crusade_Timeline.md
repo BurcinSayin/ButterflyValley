@@ -1,0 +1,32 @@
+# The Shining Crusade: Dossier of Sergeant Major Vaelin Silvershade
+
+> *"Imperial academicians write grand treatises on necromantic metaphysics from the safety of their lecture halls in Oppara. In the trenches, necromancy is not a philosophical mystery—it is a corrosive acid eating through iron, a ballistics problem with a trajectory, and a foul curse that will melt your lungs if you don't unravel its sigils before the shell lands."*  
+> — **Sergeant Major Vaelin Silvershade**, *"The Rift-Watcher"*
+
+---
+
+## Veteran Profile: "The Rift-Watcher"
+
+* **Rank & Billet:** Sergeant Major, Arcane Advisor & Tactical Decipherer
+* **Unit:** 1st Vanguard Battalion ("The Iron Sun"), 7th Vanguard Division ("The Sun-Watch") *(Late 3825 AV)*; formerly Runic Cadre, 9th Fort Lorrin Outriders & Sappers ("The Iron Wolves")
+* **Heritage & Age:** Kyonin / Taldan expatriate elf, 185 years old (40 years arcane research and frontline counter-magic)
+* **Distinguishing Panoply:** Heavy, mud-hemmed scholar's tweed greatcoat (+1 Resilient Explorer's Clothing) lined with interlocking micro-links of reinforced mithral mesh sewn in geometric warding lattices; turned *Chronosteel Focus Staff* (*Staff of Divination*) crafted from petrified Kyonin dusk-ash, tipped with an iron ferrule and capped with a three-ringed astrolabe head holding cut quartz prisms; silver trench dagger in an inverted forearm sheath; heavy cold-iron astrolabe thumb ring engraved with rotating degree-marks; silver-rimmed quartz reading spectacles; brass runic scroll harness holding six sealed brass scroll tubes; and a field rubbing kit containing charcoal, lapis ink, and silver chalk. Slender, cynical frame, severe aristocratic features, long ash-silver hair bound in scholar's rings, prominent dark exhaustion circles under luminous sea-green eyes, and ink-stained hands bearing acid and unholy fire burns.
+* **The Ground Reality:** A weary, razor-sharp battle-arcanist who drinks bitter chicory tea by the quart and holds scathing contempt for ivory-tower theoreticians, flamboyant court wizards, and noble generals who treat battlefield magic like theatrical spectacle. Vaelin focuses purely on the brutal mechanics of field counter-magic: calculating mortar trajectories, unraveling necromantic ward-grids, breaking soul-siphoning pylons, and ensuring dispelling matrices are prepped before enemy batteries fire.
+* **Arcane Premonition (*"Runic Echoes"*):** Vaelin exhibits an uncanny ability to map counter-spell circles, dispelling matrices, and abjuration wards for complex necromantic rituals seconds before enemy casters complete their incantations. Subordinates revere this as peerless academic genius; to Vaelin, it is an eerie, exhausting phenomenon accompanied by recurring dreams of cosmic clockwork engines and geometric portals—a temporal echo vibrating through his latent Déjà Vu attunement.
+
+---
+
+## Personal Service & Frontline Highlights (3640–3825 AV)
+
+* **3640s–3780s AV — Academies of Oppara & Kyonin Border Studies:** Born in 3640 AV. Spends his early elven decades studying abjuration, ancient Thassilonian glyphs, and planar mathematics across Kyonin libraries and imperial academies in Taldor. Demonstrates unusual precision in unraveling magical lattices, drawing Vanguard administrative interest ([Education System](../../../General/Education_System.md)). Disdains high-court academic politics and leaves academia for field research.
+* **3798–3812 AV — Imperial Arcane Consultant:** Enlists as a tactical thaumaturge during the opening decades of the Shining Crusade. Analyzes the ancient warding pylons and necromantic corruption radiating from Ustalavic soil, helping engineers insulate supply routes and coastal beachheads at **Vellumis** and **Vauntil**.
+* **3813–3820 AV — Fort Lorrin & Anti-Siege Runic Warfare:**
+  * Stationed at **Fort Lorrin** during its construction, Vaelin is assigned to the 9th Outriders & Sappers to develop tactical counter-measures against lich-forged siege runes, subterranean death-wards, and indirect necromantic bombardment.
+  * Develops field dispelling protocols that allow mortal sappers to breach Tar-Baphon's forward trench lines without triggering soul-draining glyphs.
+* **3821–3824 AV — Hungry Mountains Campaign:** Ranging with the forward pickets into the Hungry Mountains. Deciphers enemy battle-glyphs, identifies necromantic focus pylons from ridge silhouettes, and coordinates counter-battery magic against skeletal artillery.
+* **Mid 3825 AV — Ambush at the Corpse-Orchards:**
+  * When an unholy firestorm destroys the 9th's command dugout, Vaelin erects an emergency dispelling screen that redirects subsequent arcane barrages.
+  * Deciphers and unravels the necrotic ward-circle locking down the valley, allowing Colonel Morvath's 500 surviving troops to slip through the cordon under cover of darkness.
+* **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
+  * Serves as Arcane Advisor & Tactical Decipherer for the merged **1st Vanguard Battalion ("The Iron Sun")**.
+  * Analyzes residue from incoming necrotic artillery, calculating that the high-angle ordnance originates from concealed **Black-Bile Siege Mortars** positioned on high cliff galleries in the Orphield River Canyon. Clashes fiercely with Division Chief Arcanist Magister Evander Sterling, who arrogantly dismisses Vaelin's warnings as the paranoid fantasies of a mud-caked hedge-mage.

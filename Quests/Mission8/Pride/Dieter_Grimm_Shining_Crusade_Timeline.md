@@ -1,0 +1,34 @@
+# The Shining Crusade: Dossier of Sergeant Major Dieter Grimm
+
+> *"A man who fears the lash will march; a man who fears dishonor will fight; but a man who has seen his bunk-mate's skin turn grey with ghoul-rot knows that mercy in the trenches is just murder postponed. I do not carry this iron to make friends. I carry it so that when our dead fall, they stay dead."*  
+> — **Sergeant Major Dieter Grimm**, *"The Iron Brand"*
+
+---
+
+## Veteran Profile: "The Iron Brand"
+
+* **Rank & Billet:** Sergeant Major, Regimental Provost & Chief Sanctifier
+* **Unit:** 1st Vanguard Battalion ("The Iron Sun"), 7th Vanguard Division ("The Sun-Watch") *(Late 3825 AV)*; formerly Spiritual Cadre, 9th Fort Lorrin Outriders & Sappers ("The Iron Wolves")
+* **Heritage & Age:** Human (Crusader veteran / Vanguard provost), 47 years old (26 years frontline crusader service)
+* **Distinguishing Panoply:** Stiff, wax-boiled black oxhide leather armor (+1 Resilient Fortification) bearing Fort Lorrin ordnance cartouches, worn over coarse penitent's horsehair cloth that abrades his flesh with every step; heavy silver reliquary chains bearing the bone fragments and dried blood of martyred crusaders crossed over his chest; massive, square-tipped non-magical *Black-Iron Executioner's Greatsword* ("The Brand of Vengeance") acid-etched with geometric formulas; lead-weighted wire-wrapped trench club; master cold-iron manacles; and a heavy cauterizing iron brand. Completely shaven head stubbled with iron-grey hair, hollow cheeks, bloodshot dark eyes, and a deep, knife-carved Eternal Vanguard hourglass-and-triangle scar healing into thick keloid tissue across his right cheek.
+* **The Ground Reality:** An unbending, terrifying figure of iron discipline and spiritual vigilance. Grimm oversees trench sanitation, ghoul-fever quarantines, anti-necromantic field pyres, and the summary execution of sleeper saboteurs. Soldiers fall into fearful, reverent silence when his heavy tread echoes on the duckboards; gamblers hide their dice, and shirkers scramble to their posts. Despite his severe exterior, Grimm carries an absolute commitment to saving the souls and lives of common soldiers from the horrors of undeath.
+* **Inquisitorial Premonition (*"Sin-Echoes"* / *"Corpse-Sight"*):** Grimm suffers from harrowing waking visions wherein living, walking soldiers momentarily appear to his eyes as rotting skeletons or ravenous ghouls. On numerous occasions, he has placed healthy-looking crusaders under armed quarantine, only for them to succumb to dormant ghoul fever or an unholy sleeper curse hours later. Common crusaders whisper in awe that the Iron Brand can smell the stench of rot before the flesh decays; in truth, his latent temporal attunement projects future casualties backward into his waking consciousness.
+* **The Crimson Sanction:** While outwardly ordained as a Provost-Sanctifier reciting orthodox Vanguard liturgy, Grimm's divine wrath erupts in searing, righteous crimson flames far hotter and more devastating than ordinary Vanguard formulas. Frontline witnesses whisper that an older, fiercer flame of holy retribution burns beneath his geometric vows—the unsiphoned fury of an avenging judge that refuses to bow to undead tyranny.
+
+---
+
+## Personal Service & Frontline Highlights (3778–3825 AV)
+
+* **3778–3801 AV — Youth & Early Crusade Muster:** Born in 3778 AV in western Taldor. Enlisting as a young zealot in the grand muster of 3798 AV, he serves in the early campaigns clearing undead beachheads around Lake Encarthan following the landings at **Vellumis** and **Vauntil**. Survives brutal hand-to-hand trench brawls against ghoul packs, learning firsthand that textbook sermons cannot halt the spread of necrotic contagion.
+* **3802–3815 AV — The Provost Cadre & Trench Quarantines:**
+  * Inducted into the crusader provost corps, Grimm specializes in detecting necrotic infection, sleeper hexes, and camp sabotage across southern Ustalav.
+  * Earns his reputation during the long fifteen-year slog, establishing strict quarantine protocols, inspecting puncture wounds with cold-iron probes, and burning infested trenches before plague can spread. Personally executes corrupted deserters and performs rites of final repose over mass graves to prevent mass reanimation.
+* **3816–3822 AV — Fort Lorrin & The 9th Outriders:**
+  * Assigned to **Fort Lorrin** upon its founding in 3820 AV, becoming the chief provost and spiritual warder for the 9th Outriders & Sappers.
+  * Works closely with field chirurgeons and Vanguard morticians, developing forensic techniques to identify blackened bile, necrotic marrow rot, and unholy shrapnel in battlefield casualties.
+* **3823–3825 AV — Mountain Purgations & Corpse-Orchards:**
+  * Deployed into the Hungry Mountains during the coalition's push. Defends field hospitals against midnight ghoul raids, wielding his black-iron greatsword to sever encroaching horrors.
+  * **Mid 3825 AV — Ambush at the Corpse-Orchards:** During the nocturnal encirclement, Grimm maintains iron discipline in the shattered rear ranks, single-handedly executing five reanimating ghouls in a triage sap and holding the perimeter with blazing crimson sanctions until Colonel Morvath's counter-saps can be completed.
+* **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
+  * Stationed as Regimental Provost & Chief Sanctifier of the merged **1st Vanguard Battalion ("The Iron Sun")**.
+  * Regularly conducts forensic autopsies in Sister Althea's field hospital. Openly defies Prelate Othemar's dogmatic attempts to downplay the virulence of enemy ordnance, demanding full quarantine readiness before the division moves.
