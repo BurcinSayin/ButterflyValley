@@ -33,3 +33,4 @@
 * **Late 3825 AV (Present) — Gorcha Pass & The Canyon Approach:**
   * Following Lord-Marshal Dawncrown's hasty amalgamation, Morvath assumes the post of **Executive Officer & Chief of Intelligence** for the **1st Vanguard Battalion ("The Iron Sun")**, forming a pragmatic command partnership with Colonel Raymond Caelan.
   * Entrenched at Gorcha Pass, she manages the battalion's courier network and quartermaster supplies.
+  * Sifting through courier dispatches and rear-echelon chatter, she has heard rumors that the Dawncrown family and Oppara are being overshadowed because of Iomedae (who is from Cheliax), though she possesses no concrete facts.
